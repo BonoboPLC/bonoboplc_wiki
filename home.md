@@ -7,6 +7,18 @@
 # A guide for Platform Managers
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
+##  Platform Management
+Information for system administrators.
+
+### How do I? 
+
+[How can I verify that no system components have been tampered with?](/use-cases/lottery-administration#how-can-i-verify-that-no-system-components-have-been-tampered-with)
+[How can I see all the changes made to a Player account?](/use-cases/lottery-administration#how-can-i-see-all-the-changes-made-to-a-player-account)
+[How can I see all the changes made to a Raffle Template?](/use-cases/lottery-administration#how-can-i-see-the-changes-made-to-a-raffle-template)
+[How can I check the activity of Staff?](/use-cases/lottery-administration#how-can-i-check-the-activity-of-staff)
+[How can I check that games are paying out properly?](/use-cases/lottery-administration#how-can-i-check-that-games-are-paying-out-properly)
+[How can I check that game outcomes are random and evenly distributed?](/use-cases/lottery-administration#how-can-i-check-that-outcomes-are-random-and-evenly-distributed)
+
 
 ##  Games
 
