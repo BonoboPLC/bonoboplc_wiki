@@ -1,7 +1,3 @@
-<!-- TITLE: Platform Administration  -->
-<!-- SUBTITLE: Common uses cases for administering your lottery and raffle platform  -->
-
-
 # How can I verify that no system components have been tampered with?
 The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
 
@@ -144,6 +140,3 @@ To view the "Fairness" report, please follow the easy steps below:
 5. Be careful to ensure that  game has been counted sufficient times before judging the deviation and results
 
 ![Fairness Standard Deviation](/uploads/fairness-standard-deviation.png "Fairness Standard Deviation")
-
-
-
