@@ -83,7 +83,7 @@ Click on the "Change" label on the Game Selector to view other available games f
 ![Ticket Selector](/uploads/ticket-selector.png "Ticket Selector")
 
 
-The list will display all available games including ticket price, status and the repsective Agent Commission (Displayed in green)
+The list will display all available games including ticket price, status and the respective Agent Commission (Displayed in green)
 
 ![Select A Game](/uploads/select-a-game.png "Select A Game")
 
