@@ -121,7 +121,7 @@ They may log in to the web site and cancel their ticket themselves. In the case 
 Log in to the Agent Portal with your credentials
 **Click on Cancel Ticket**
 
-![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
+![Cancel Ticket Home](/uploads/cancel-ticket-home.png "Cancel Ticket Home")
 
 >**Step 2.** Check the ticket
 {.is-info}
