@@ -384,7 +384,12 @@ B) Each game lobby and Game container include the total prize pool in each game
 C) All Jackpots are immediately reflected as they are updated
 
 
-## RTS 4
+## RTS 4 - Time Critical Events
+
+RTS 4 – Time-critical events
+Gaming (including bingo), and betting on virtual events
+
+
 ## RTS 5
 ## RTS 6
 ## RTS 7
