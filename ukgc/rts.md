@@ -26,7 +26,7 @@ b. For telephone betting this information is to be delivered at the customer’s
 customer service agent or automated response system
 
 ---
-## The requirement is implented by the following:
+the requirement is implented by the following:
 
 
 
