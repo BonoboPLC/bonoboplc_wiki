@@ -389,8 +389,46 @@ C) All Jackpots are immediately reflected as they are updated
 RTS 4 – Time-critical events
 Gaming (including bingo), and betting on virtual events
 
+**RTS aim 4**
+To reduce the risk that customers are unfairly disadvantaged by technical factors that may affect
+speed of response, and to ensure customers are made aware of the risk
+
+### RTS 4A
+
+**RTS requirement 4A**
+Where speed of interaction has a significant effect on the customer’s chance of winning, operators
+must assess the level of risk and demonstrate to the Commission that they are taking reasonable
+steps to reduce the risk to customers.
+
+**RTS implementation guidance 4A**
+Examples of possible approaches include:
+a. estimating the degree of network latency (delay) a customer is experiencing and displaying
+regularly updated information to the customer about any disadvantage that they may be
+operating under (eg high, medium, low)
+b. applying a handicapping system based on estimated performance and/or system latency
+c. treating winning responses that arrive within a period of time as simultaneous and
+implementing a policy on how simultaneous wins are to be dealt with
+
+> **Implementation**   
+
+A. Our games do not include any time critical events other than joining tournaments before the start of the tournament.
+Connection latency does not play a role in this
+
+### RTS 4B
+
+**RTS requirement 4B**
+For time-critical events, the customer should be informed that they might be at a disadvantage
+because of technical issues such as slower network speeds, or slower end user device
+performance.
+**RTS implementation guidance 4B**
+a. Information should be included in game descriptions, rules, ‘help’ or ‘how to play’ pages.
+
+> **Implementation**   
+
+Not applicable
 
 ## RTS 5
+
 ## RTS 6
 ## RTS 7
 ## RTS 8
