@@ -133,7 +133,50 @@ i) The total monthly subscriptoin fee is show on the Sign Up page
 ![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
 ii) An email is sent to the player indicating the number of draws and the monthly fee for each draw
 
+### RTS 2B
 
+**RTS requirement 2B**
+The gambling system must display sufficient relevant information about the customer’s gamble so
+that the content of the gamble is clear. This information must be made available before the
+customer commits to the gamble including, for example, in the artwork and textual information
+displayed during gaming, or on an electronic equivalent of a betting slip or lottery ticket.
+
+**RTS implementation guidance 2B**
+a. The following items provide guidelines about the type of information that may be relevant:
+i. selections – the items the customer has chosen to gamble on;
+ii. the bet type
+iii. the accepted odds, for example current odds, starting price, first show,
+etc
+iv. the odds format that will take precedence in settling bets must be set
+out in the rules.
+These items, where relevant, are also required on applications designed for use on restricted
+display devices.
+b. For telephone gambling the content of the customer’s bet should be read back to them
+before the bet is confirmed.
+c. Where the customer is able to choose, through the use of a third party user-interface, to
+override the display of this information, this must not be the default option. That is, the
+customer must make an active choice not to have the information available or to install a
+user-interface that does not contain the information. The remote gambling system should
+continue to make available or send the information to the customer; it should not assume
+that the information is not required.
+d. For subscription lotteries, sending a confirmation by email or post and/or displaying the
+first draw and the number of draws for which the customer will be entered is sufficient.
+
+> **Implementation**  
+
+a. All games are clearly marked with a Play button so that the player is clear on the items which they chose to gamble on
+b. All  games include the Odds of winning a prize in the Art Work, Game Rules and Game Container as shown below.
+![Odds Shown On Lobby](/uploads/odds-shown-on-lobby.png "Odds Shown On Lobby")
+c. We do not offer telephone gaming
+
+b. The breakdown for each entry is shown prior to confirmation of the bet as shown below
+![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
+c. Any applicable conversions from one currency to another are shown
+d. If the entry is FREE, it is labeled as such 
+e. In the case of Subscription Lotteries
+i) The total monthly subscription fee is show on the Sign Up page
+![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
+ii) An email is sent to the player indicating the draw information and the odds of winning a prize
 
 
 ## RTS 3
