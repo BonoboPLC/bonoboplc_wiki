@@ -28,7 +28,7 @@ customer service agent or automated response system
 ```
 the requirement is implented by the following:
 
-
+[ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Games]
 
 ```
 
