@@ -1019,10 +1019,12 @@ will take effect
 > **Implementation**
 This is manual process initiated via a written customer request. 
 Please ensure that your staff is trained to handle such customer requests and to handle them in the following manner
+If the Customer is requesting to increase their deposit and wagering limit from its previously set customer limit, take the following steps
 i. Remind the customer that they set these limits for a reason and they should take care to play responsibly
 ii. Inform the customer that they must send another followup request after 24 hours from the time of their initial change request
 iii. Do not follow up with the Customer and leave it to the Customer to follow up after the 24 hours
 iv. If the Customer sends a follow up request after 24 hours has lapsed, then increase the wagering limits to a value no greater than the system default limits
+If the Customer is requesting to further decrease their deposit limit and further restrict their gaming activity, then perform the decrease right away
 
 
 
