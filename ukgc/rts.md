@@ -686,7 +686,7 @@ game or event in the context of their gamble.
 The game artwork and text should be sufficient to provide the customer with all of the information
 required to determine whether they have lost or won, and the value of any winnings.
 
-> **Implementation**   
+> **Implementation**
 A. Our games offer a live game play which allow players to view the progress of the game (LottoRace, Lottery, Prize Raffle) live as it happens
 B. At the end of each game, the Game Over screen shows a summary of what was won by the Customer and other players in the same game
 
