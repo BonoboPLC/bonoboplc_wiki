@@ -785,7 +785,7 @@ notified of the jackpots reset value
 
 > **Implementation**
 A. We do not currently offer Progressive Jackpots in the UK
-B. All changes made to game configurations and logs are strictly tracked
+B. All changes made to any game configuration, including Jackpots  are strictly logged and tracked
 C. Only admins with full game access permissions can set or alter jackpots
 D. If a customer contributes to a Jackpot then that customer is eligible to win the Jackpot
 C. No Facilities currently exist to de-commission a Jackpot and to return the fees to players
