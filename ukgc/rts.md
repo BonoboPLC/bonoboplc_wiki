@@ -941,7 +941,7 @@ c. Relevant information should be included in terms and conditions or rules.
 > **Implementation**
 A. Due to the purely probabilistic nature of our games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
 B. We do have the ability of detecting if players are playing from the same IP address whom are playing in the same games
-C. All of our games work on strict probably (i.e. LottoRace pool bets or Lottery games)
+C. All of our games work on strict probability (i.e. LottoRace pool bets or Lottery games)
 
 
 ## RTS 12
