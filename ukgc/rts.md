@@ -66,10 +66,26 @@ range of time periods. A summary total for the period selected should be display
 a. The Customer is able to view all cashier transactions up to 12 months from the "Cashier History" section 
     The transactions include: Deposits, Withdrawals, Credits, Buy-ins, Entry Fee, Winnings and Bonuses
 b. The Customer is able to select from pre-defined ranges to access summarised information and the Net credits/debits in the "Cashier History" section
-c. The Customer's "Net Deposit" is shown on the main Cashier page
-d. The customer is able to see all past games including the Net for each game played
+c. The customer is able to see all past games including the Net for each game played
 
 
+### RTS 1C
+
+**RTS requirement 1C – This provision will come into force on 1 April 2018**
+Customers must be able to access information about their net deposits.
+
+**RTS implementation guidance 1C**
+Net deposits are defined as the running total of all deposits minus the sum of all withdrawals for
+the lifetime of the account. This should be displayed at an account level so the figure represents
+the net position of all payment methods. Where full account lifetime history isn’t possible then, as a
+minimum, the net deposits should be displayed from 1 April 2018, or the account opening date if
+after 1 April 2018. Information which explains the net deposit figure, including the timeframe it
+covers, should be provided
+
+
+> **Implementation**  
+
+c. The Customer's "Net Deposit" is shown on the main Cashier page. This represents lifetime Withdrawals minus lifetime deposits.
 
 
 ## RTS 2
