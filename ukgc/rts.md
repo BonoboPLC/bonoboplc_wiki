@@ -997,9 +997,24 @@ to be deposited is £10 per day and £70 per week.
 
 > **Implementation**
 A. The Customer is asked to provide the limits as the final step in the registration process.
-B. The Customer can at any time update or add new limites by visting the "Responsible Gaming" section of the Cashier
-C. The Customer can set Wagering & Deposit limits
+B. The Customer can at any time update or add new limites by visting the "Responsible Gaming" section of the website accessible through Cashier & Navigation Menu
+C. The Customer can set Daily, Weekly and Monthly Deposit limits
+D. The customer can set Weekly Wagering limits
+E. The system already has preset admin imposed deposit limits which take precedence over customer set limits if they are less.
+F. If the customer has multiple limits, the lower will apply
+Screenshot of the Responsible Gaming section 
+![Responsible Gaming](/uploads/responsible-gaming.png "Responsible Gaming")
 
+**RTS requirement 12B**
+All reasonable steps must be taken to ensure that customer-led limits are only increased at the
+customer’s request, only after a cooling-off period of 24 hours has elapsed and only once the
+customer has taken positive action at the end of the cooling off period to confirm their request.
+
+**RTS implementation guidance 12B**
+Where possible (for instance, unless systems/technical failures prevent it) limit reductions are to
+be implemented within 24 hours of the request being received. In addition, at the point at which
+the customer requests a decrease in their limit, they should be informed when the limit reduction
+will take effect
 
 
 ## RTS 13
