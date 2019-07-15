@@ -594,6 +594,7 @@ in an error being logged and investigated.
 
 
 > **Implementation**   
+
 A. Game logic is implemented and tested agains the rules available to Customers
 B. Pay Tables are used to determine the prizes won by players
 C. Numbers are not discarded in any adaptive fashion 
