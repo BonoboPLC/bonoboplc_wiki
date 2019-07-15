@@ -251,9 +251,48 @@ frequency of the draws
 2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
 3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
 4. Any contributions to Jackpots are shown on the entry confirmation page
-5. How to win the Jackpot is shown both in the Game description and in the Game Rules of the site
+5. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
 6. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
 7. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
+
+
+### RTS 3B
+
+**RTS requirement 3B**
+Where relevant, as the game or event progresses, information that may reasonably be expected to
+enable the customer to understand the current state must be displayed.
+
+**RTS implementation guidance 3B**
+The following items provide guidelines on the type of information that may be relevant.
+a. Where a game builds up a collection of tokens (symbols etc), the current number
+collected.
+b. An indication of which rules are currently relevant, such as displaying ‘bonus round’ or
+other feature labels.
+c. This requirement does not apply to lotteries
+
+> **Implementation**  
+
+A. The game Lobby and the "My Games" drop down displays the state of each game that the player is registered in
+ i) Displaying either a countdown for scheduled tournaments/lotteries
+ ii) number of players for instant games.
+ iii) Closed - Meaning registration is closed
+ iv) Play button - Meaning players can still play
+ v) Full - Meaning the game is full and cannot accept any bets
+ v) Watch - Meaning the game is currently playing and the player can watch the game
+ 
+ ![Game Status](/uploads/game-status.png "Game Status")
+ 
+ 
+ 
+ 
+2. 
+2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
+3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
+4. Any contributions to Jackpots are shown on the entry confirmation page
+5. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
+6. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
+7. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
+
 
 ## RTS 4
 ## RTS 5
