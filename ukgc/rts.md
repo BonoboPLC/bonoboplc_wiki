@@ -939,12 +939,67 @@ of the policy.
 c. Relevant information should be included in terms and conditions or rules.
 
 > **Implementation**
-A. Due to the purely probabilistic nature of our games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
+A. Due to the purely probabilistic nature of our Pool betting and Lottery games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
 B. We do have the ability of detecting if players are playing from the same IP address whom are playing in the same games
 C. All of our games work on strict probability (i.e. LottoRace pool bets or Lottery games)
 
 
-## RTS 12
+## RTS 12 - Financial Limits
+
+**RTS aim 12**
+To provide customers with facilities that may assist them in sticking to their personal budgets for
+gambling with the operator. Customers must be also be given the option to set financial limits at an
+account level.
+
+**RTS requirement 12A**
+The gambling system must provide easily accessible facilities that make it possible for customers
+to impose their own financial limits. Customers must be given the opportunity to set a limit as part
+of the registration process (or at the point at which the customer makes the first deposit or
+payment).
+
+**RTS implementation guidance 12A**
+a. For telephone gambling (except lotteries), customers should be asked if they would like to
+set a deposit or spend limit when they register. Customers should be able to request a limit
+at any point after registration. The limit should be implemented as soon as practicable after
+the customer’s request. The customer should be informed when the limit will come into
+force.
+b. For other access media (including internet, interactive TV and mobile), customers should be
+offered the opportunity to select a deposit/spend limit from a list which may contain a ‘no
+limit’ option or to enter a limit of their choice as part of the registration or first deposit
+process. The ‘no limit’ option should not be the default option.
+c. Limits could be in the form of:
+i. deposit limits: where the amount a customer deposits into their account is limited over
+a particular duration
+ii. spend limits: where the amount a customer spends on gambling (or specific gambling
+products) is restricted for a given period – this type of limit may be appropriate where
+the customer does not hold a deposit account with the operator
+iii. loss limits: where the amount lost (ie winnings subtracted from the amount spent) is
+restricted (for instance when a customer makes a £10 bet and wins £8, the loss is £2).
+d. The period/duration of the limits on offer should include:
+i. 24 hours and
+ii. 7 days and
+iii. one month
+e. In addition:
+i. limits may be implemented per customer, per account, or other means
+ii. limits could also be implemented across all products or channels or for individual
+products or channels. Where limits are also set across separate products it should be
+clear to customers using the facility that a limit will need to be set for each individuals
+product. For example, where a limit has been set for a specific game a customer
+should not be misled into assuming that the limit automatically applies to other
+products.
+iii. financial limit facilities should be provided via a link on the home page
+iv. facilities should be available on deposit pages/screens or via a link on these
+pages/screens
+v. where a customer sets simultaneous time frames, for example a daily deposit limit and
+a weekly limit, the lowest limit should always apply. Therefore if a daily deposit limit of
+£10 and a weekly limit of £100 are both set then the maximum the system should allow
+to be deposited is £10 per day and £70 per week.
+
+> **Implementation**
+A. The Customer is asked to provide the limits as the final step in the registration process.
+B. The Customer can at any time update or add new limites by visting the "Responsible Gaming" section of the Cashier
+C. The Customer can set Wagering & Deposit limits
+
 
 
 ## RTS 13
