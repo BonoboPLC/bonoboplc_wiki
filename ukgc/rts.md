@@ -123,7 +123,6 @@ stake and the number of draws entered when the customer subscribes is sufficient
 
 
 > **Implementation**  
-
 a. The total fee for each entry is shown on each game's lobby and mini container.
 b. The breakdown for each entry is shown prior to confirmation of the bet as shown below
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
