@@ -792,6 +792,65 @@ C. No Facilities currently exist to de-commission a Jackpot and to return the fe
 D. Jackpot winners are immediately notified via the LIVE game play as well as the Jackpot ticker shown on the main Lobby of the site
 
 
+## RTS 10 - Interrupted Gambling
+
+Peer-to-peer betting and gaming (including bingo)
+**RTS aim 10**
+To ensure that customers are treated fairly in the event of interrupted play or betting and that they
+are aware of how they will be treated if interruptions occur
+
+### RTS 10A
+
+**RTS requirement 10A**
+Operators must take all reasonable steps to ensure that their policies for instigating or dealing with
+service interruptions are fair and do not systematically disadvantage customers.
+**RTS implementation guidance 10A**
+a. For gaming the following policies should be applied:
+i. where an interruption occurs after the operator receives notification of the customer’s
+gamble and where the customer can have no further influence on the outcome of the
+event or gamble the results of the gamble should stand
+ii. where an interruption to a single-participant single stage event occurs before an
+outcome has been generated the customer should have any deducted stake
+returned to their balance
+iii. for stateful games (games where there are multiple stages or decision points), all
+reasonable steps should be taken to restore the game to its last known state to
+enable the customer to complete the game
+iv. games with multiple participants (equal chance or otherwise) should be dealt with
+fairly on a case-by-case basis
+v. progressive jackpot values should be restored to their pre-failure state.
+b. For peer-to-peer betting the following policies should be applied:
+i. where a service interruption is caused by failures in the gambling system, operators
+should suspend betting on all betting markets that have been affected by a
+significant event before service is restored
+ii. other failures should be dealt with fairly on a case-by-case basis.
+
+### RTS 10B
+
+**RTS requirement 10B**
+Systems must be capable of recovering from failures that cause interruptions to gambling,
+including where appropriate, the capability to void gambles (with or without manual intervention),
+the capability to suspend betting markets, and taking all reasonable steps to retain sufficient
+information to be able to restore events to their pre-failure state.
+
+**RTS implementation guidance 10B**
+a. For gaming the system should:
+i. be capable of voiding gambles and restoring the amount gambled to the
+customer automatically, or in conjunction with manual operational controls; and
+ii. implement all reasonable measures to maintain sufficient information to be
+capable of automatically restoring an event to its pre-failure state so that it may
+be completed by the customer. The following information should be restored, as
+appropriate:
+• the state of a deck of cards, and any hands that have been dealt
+• number of tokens collected
+• any other predetermined information, such as maps or prize layouts
+• the value of any progressive jackpots
+• the state of any gambles, eg who has staked what on what outcome
+• bets placed or offered.
+b. For peer-to-peer betting, it should be possible to suspend betting markets manually or
+automatically
+
+
+
 ## RTS 11
 ## RTS 12
 ## RTS 13
