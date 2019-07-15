@@ -15,14 +15,13 @@ that enable them to review previous gambling and account transactions.
 ### RTS 1A
 
 **RTS requirement 1A**
-
 Where customers hold a credit or debit balance, the pages or screens used for gambling and to
 move money into and out of accounts must display the customer’s current account balance, in the
 currency of their account (eg dollars, euros or pounds sterling), whenever that customer is logged
 in. Where it is not practical to display current balance from gambling screens then easily
 accessible links to this information must be provided.
-**RTS implementation guidance 1A**
 
+**RTS implementation guidance 1A**
 a. Gambling pages and screens include virtual game pages, sports betting coupons, poker
 and other virtual gaming ‘tables’.
 
