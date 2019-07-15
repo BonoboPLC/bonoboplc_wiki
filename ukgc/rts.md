@@ -826,9 +826,10 @@ ii. other failures should be dealt with fairly on a case-by-case basis.
 
 
 > **Implementation**
-A. The system
-B. All changes made to any game configuration, including Jackpots  are strictly logged and tracked
-C. Only admins with full game access permissions can set or alter jackpots
+A. The system is able to handle any interruptions to gaming by recovering the system to the pre-interrupted states upon restoration
+B. Players are not disadvantaged in any way due to unforseen interruption as all games are statefull and are restored to their previous state
+C. In the event that a critical unforseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
+D. In the event of an unrecoverable error, the game can be voided and fees refunded to players
 
 ### RTS 10B
 
@@ -854,6 +855,11 @@ appropriate:
 • bets placed or offered.
 b. For peer-to-peer betting, it should be possible to suspend betting markets manually or automatically
 
+
+> **Implementation**
+A. In the event that a critical unforseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
+B. In the event of an unrecoverable error, the game can be voided and fees refunded to players
+C. Sufficient information is maintained about each Customer and their respective plays in each game such that the game can be restored to its pre-failure state
 
 
 ## RTS 11
