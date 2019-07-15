@@ -88,7 +88,8 @@ covers, should be provided
 a. The Customer's "Net Deposit" is shown on the main Cashier page. This represents lifetime Withdrawals minus lifetime deposits.
 
 
-## RTS 2
+## RTS 2 - Displaying Transactions
+
 
 **RTS aim 2**
 To enable the customer to understand the value and content of their transactions
@@ -129,7 +130,7 @@ b. The breakdown for each entry is shown prior to confirmation of the bet as sho
 c. Any applicable conversions from one currency to another are shown
 d. If the entry is FREE, it is labeled as such 
 e. In the case of Subscription Lotteries
-i) The total monthly subscriptoin fee is show on the Sign Up page
+i) The total monthly subscription fee is show on the Sign Up page
 ![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
 ii) An email is sent to the player indicating the number of draws and the monthly fee for each draw
 
@@ -178,8 +179,36 @@ i) The total monthly subscription fee is show on the Sign Up page
 ![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
 ii) An email is sent to the player indicating the draw information and the odds of winning a prize
 
+### RTS 3C
+
+**RTS requirement 2C**
+The gambling system must enable customers to choose whether to accept price fluctuations
+(in either direction) that occur after their bet is requested.
+
+> **Implementation**  
+
+There are no price fluctuations after the bet is placed. All bets in the UK must be denominated in GBP and no other currency.
+
+
+**RTS requirement 2D**
+Customer who choose to use third party user interfaces must be informed that applications may not
+display full information about their gambles.
+
+**RTS implementation guidance 2D**
+Information should be included in terms and conditions, rules or other general information about
+the gambling product that is made available to and/or sent out to customers.
+
+> **Implementation**  
+
+We do not allow 3rd party interfaces into our games
 
 ## RTS 3
+RTS 3 – Rules, game descriptions and the likelihood of winning
+Gaming (including bingo), lotteries and betting on virtual events
+
+
+
+
 ## RTS 4
 ## RTS 5
 ## RTS 6
