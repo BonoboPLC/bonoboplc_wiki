@@ -237,13 +237,13 @@ viii. the rules for entering a single lottery draw or a series of lottery draws 
 frequency of the draws
 
 > **Implementation**  
-1. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
-2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
-3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
-4. Any contributions to Jackpots are shown on the entry confirmation page
-5. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
-6. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
-7. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
+A. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
+B. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
+C. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
+D. Any contributions to Jackpots are shown on the entry confirmation page
+E. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
+F. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
+H. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
 
 
 ### RTS 3B
