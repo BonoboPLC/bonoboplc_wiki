@@ -3,7 +3,7 @@
 
 # Overview
 
-## RTS 1
+## RTS 1 - Account Information
 
 RTS 1 – Customer account information
 All gambling – except subscription lotteries
@@ -202,12 +202,58 @@ the gambling product that is made available to and/or sent out to customers.
 
 We do not allow 3rd party interfaces into our games
 
-## RTS 3
+## RTS 3 - Rules & Odds
 RTS 3 – Rules, game descriptions and the likelihood of winning
 Gaming (including bingo), lotteries and betting on virtual events
 
+**RTS aim 3**
+To enable customers to make informed decisions about whether to gamble based on their
+chances of winning, the way the game, lottery or event works, the prizes or payouts on offer and
+the current state of multi-state games or events.
 
+### RTS 3A
 
+**RTS requirement 3A**
+An explanation of the applicable rules must be easily available to the customer before they commit
+to gamble. The content including artwork and text must be accurate, and sufficient to explain all of
+the applicable rules and how to participate. All reasonable steps must be taken to ensure that the
+content is understandable.
+
+**RTS implementation guidance 3A**
+a. Explanatory content includes information in artwork and text displayed within the virtual
+event, in ‘help’ or ‘how to play’ pages, or other supporting material.
+b. Links to the information should be prominently placed, for example on home pages for
+gaming sections, game selection pages or menus, or within individual games, so that
+customers can easily locate them.
+c. As a minimum, restricted display devices should provide explanatory content via a menu
+item or other link.
+d. The following items provide guidelines on the type of explanatory content that may be
+relevant and should be considered for inclusion:
+i. the name of the game, lottery or virtual event
+ii. the applicable rules, including clear descriptions of what constitutes a winning
+outcome
+iii. restrictions on play or betting, such as any play duration limits, maximum wins,
+etc
+iv. the number of decks or frequency of shuffles in virtual card games
+v. whether there are contributions to jackpots (progressives) and the way in which
+the jackpot operates, for example, whether the jackpot is won by achieving a
+particular outcome
+vi. instructions on how to interact with the game
+vii. rules pertaining to metamorphosis of games, for example, the number and type of
+tokens that need to be collected in order to qualify for a feature or bonus round
+and the rules and behaviour of the bonus round
+viii. the rules for entering a single lottery draw or a series of lottery draws and the
+frequency of the draws
+
+> **Implementation**  
+
+1. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
+2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
+3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
+4. Any contributions to Jackpots are shown on the entry confirmation page
+5. How to win the Jackpot is shown both in the Game description and in the Game Rules of the site
+6. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
+7. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
 
 ## RTS 4
 ## RTS 5
