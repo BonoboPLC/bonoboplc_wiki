@@ -25,12 +25,14 @@ and other virtual gaming ‘tables’.
 b. For telephone betting this information is to be delivered at the customer’s request by the
 customer service agent or automated response system
 
-```
-the requirement is implented by the following:
+> **Implementation**  
+
+1. The user is able to view balance on the navigation bar at all times
+2. The user is able to access "Cashier History" to view previous account transactions
+3. The user is able to access "Completed Games" to view a listing of all previous games. 
 
 [ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Games]
 
-```
 
 
 
