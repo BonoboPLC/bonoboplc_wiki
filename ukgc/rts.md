@@ -85,7 +85,7 @@ covers, should be provided
 
 > **Implementation**  
 
-c. The Customer's "Net Deposit" is shown on the main Cashier page. This represents lifetime Withdrawals minus lifetime deposits.
+a. The Customer's "Net Deposit" is shown on the main Cashier page. This represents lifetime Withdrawals minus lifetime deposits.
 
 
 ## RTS 2
