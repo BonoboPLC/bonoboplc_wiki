@@ -877,7 +877,46 @@ A. We do not have any common failure scenarios. In the event of any service inte
 
 
 
-## RTS 11
+## RTS 11 - Limiting collusion
+
+RTS 11 – Limiting collusion/cheating
+Peer-to-peer gaming – the provisions highlighted green will come into effect 1 October 2017
+
+**RTS aim 11**
+To reduce the risk that cheating or collusion by players unfairly disadvantages another player and
+to inform customers about the risks posed.
+
+
+### RTS 11A
+
+**RTS requirement 11A**
+Measures intended to deter, prevent, and detect collusion and cheating must be implemented.
+Gambling systems must retain a record of relevant activities to facilitate investigation and be
+capable of suspending or disabling player accounts or player sessions. Operators must monitor
+the effectiveness of their policies and procedures.
+
+**RTS implementation guidance 11A**
+a. Relevant activities to be recorded will vary by game but may include:
+i. which players played at which tables
+ii. the amounts won from and lost to accounts
+iii. game activities to an individual bet/action level.
+b. Where appropriate, prevention measures may include:
+i. taking steps to prevent a player from occupying more than one seat at any individual
+table.
+c. Detection measures may include, detecting and investigating the following, where
+appropriate:
+i. players who frequently share the same tables
+ii. players from same address who share the same table
+iii. suspicious patterns of play (such as chip dumping)
+iv. unusual gameplay statistics
+
+> **Implementation**
+A. Due to the purely probabilistic nature of our games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
+B. We do have the ability of detecting if players are playing from the same IP address whom are playing in the same games
+C. All of our games work on strict probably (i.e. LottoRace pool bets or Lottery games)
+
+
+
 ## RTS 12
 ## RTS 13
 ## RTS 14
