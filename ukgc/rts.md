@@ -368,12 +368,16 @@ frequently as practicable, particularly after the amount has been reset followin
 > **Implementation**   
  
 A) The Payout Table section for each game describes the estimated payout for each game
+
+![Payout Table](/uploads/payout-table.png "Payout Table")
 i) In the case of LottoRace pool betting games, the commission/rake is shown on the purchase confirmation page
+
+
 ii) In the case of Lottery games the payout table shows the respective payout for each respective number of ball matches
+
 iii) In the case of Prize Lottery/Raffle games, the payout table shows the available prizes in each game
 B) Each game lobby and Game container include the total prize pool in each game
 
-![Entry Fee](/uploads/entry-fee.png "Entry Fee")
 ![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
 
 
