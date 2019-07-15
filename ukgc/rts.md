@@ -269,18 +269,14 @@ A. The game Lobby and the "My Games" drop down displays the state of each game t
  iv) Play button - Meaning players can still play
  v) Full - Meaning the game is full and cannot accept any bets
  v) Watch - Meaning the game is currently playing and the player can watch the game
- 
-  ![Game Status](/uploads/game-status.png "Game Status")
- 
-B. During the game play the Customer can see all relevant info regarding 
+   ![Game Status](/uploads/game-status.png "Game Status")
+ B. During the game play the Customer can see all relevant info regarding 
 Their Play
 The Winning draw
 The next available prize, 
 The prizes already won by other players
 The status of other plays in the game
-
 ![Game Play](/uploads/game-play.png "Game Play")
-
 C. At the end of the game the player can see a full summary of the game
 
 
