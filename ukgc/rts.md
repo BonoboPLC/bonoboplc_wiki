@@ -1016,6 +1016,15 @@ be implemented within 24 hours of the request being received. In addition, at th
 the customer requests a decrease in their limit, they should be informed when the limit reduction
 will take effect
 
+> **Implementation**
+This is manual process initiated via a written customer request. 
+Please ensure that your staff is trained to handle such customer requests and to handle them in the following manner:
+1. Remind the customer that they set these limits for a reason and they should take care to play responsibly
+2. Inform the customer that they must send another followup request after 24 hours from the time of their initial change request
+3. Do not follow up with the Customer and leave it to the Customer to follow up after the 24 hours
+4. If the Customer sends a follow up request after 24 hours has lapsed, then increase the wagering limits to a value no greater than the system default limits
+
+
 
 ## RTS 13
 ## RTS 14
