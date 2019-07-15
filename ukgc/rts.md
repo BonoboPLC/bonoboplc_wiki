@@ -164,7 +164,6 @@ a. All games are clearly marked with a Play button so that the player is clear o
 b. All  games include the Odds of winning a prize in the Art Work, Game Rules and Game Container as shown below.
 ![Odds Shown On Lobby](/uploads/odds-shown-on-lobby.png "Odds Shown On Lobby")
 c. We do not offer telephone gaming
-
 b. The breakdown for each entry is shown prior to confirmation of the bet as shown below
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 c. Any applicable conversions from one currency to another are shown
