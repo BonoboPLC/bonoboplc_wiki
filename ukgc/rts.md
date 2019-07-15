@@ -717,13 +717,11 @@ standard strategy should be used
 ii. strategies or auto-play should (theoretically) produce at least the average Return to
 Player (RTP) for the game over time.
 
-
 > **Implementation**
 A. Our games are based on statistical probability 
 B. Random picks (i.e. quick pick in a LottoRace/Lottery game) will produce the same results as any other strategy
 D. Random lottery subscriptions will produce the same results as any other lottery strategy
 C. Raffle games do not have any strategy as the player is automatially assigned a sequential ticket number
-
 
 
 ## RTS 9 - Progressive Jackpots
@@ -947,6 +945,8 @@ C. All of our games work on strict probably (i.e. LottoRace pool bets or Lottery
 
 
 ## RTS 12
+
+
 ## RTS 13
 ## RTS 14
 ## RTS 15
