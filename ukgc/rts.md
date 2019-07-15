@@ -664,7 +664,64 @@ A. Our games offer a live game play which allow players to view the progress of 
 B. At the end of each game, the Game Over screen shows a summary of what was won by the Customer and other players in the same game
 
 
-## RTS 8
+## RTS 8 - Auto-play functionality
+
+RTS 8 – Auto-play functionality
+Gaming
+
+**RTS aim 8**
+To ensure that the customer is still in control of the gambling where auto-play functionality is
+provided and to minimise the risk that the functionality disadvantages a customer or that auto-play
+or other strategy advice is misleading.
+
+### RTS 8A
+
+**RTS requirement 8A**
+The gambling system must provide easily accessible facilities that:
+a. make available the following three controls, each of which stops auto-play functionality
+when it is triggeredi. ‘loss limit’, ie where the player selects an option to not lose more than X from their
+starting balance, where X is an amount that can be selected by the player. A ‘loss’ in
+this context equates to accumulated auto-play bets minus accumulated auto-play
+wins.
+ii. ‘single win limit’ ie single win greater than Y where Y is an amount that can be
+selected by the player and
+iii. ‘jackpot win’ (where applicable).
+b. require auto-play to be implemented in such a way that each time a customer chooses to
+use auto-play they must select the stake, the number of auto-play gambles and at least the
+first of the above three controls.
+The number of auto-play gambles must not exceed 100 in one batch. During auto-play the
+customer must be able to stop the auto-play regardless of how many auto-play gambles they
+initially chose or how many remain.
+**RTS implementation guidance 8A**
+a. Auto-play should not override any of the display requirements (for example, the result of
+each gamble must be displayed for a reasonable length of time before the next gamble
+commences, as set out in RTS 7E).
+
+> **Implementation**
+A. We do not offer any "Auto Play" Facilities for gambling
+B. Players may pre-pay and subscribe to be entered into future games using the same plays they made in the first game
+C. The number of pre-paid subscriptions to games (i.e. Lottery games) does not exceed 100
+D. In the case lottery subscriptions the players subscription runs indefinetley until it is cancelled
+E. Subscriptions do not override any other functionality and the results of each game in the subscription is available immediately thereafter
+
+### RTS 8B
+
+**RTS requirement 8B**
+In relation to skill and chance games, strategy advice and auto-play functionality must be fair, not
+misleading and must not represent a poor choice.
+**RTS implementation guidance 8B**
+
+In implementing this control, the following should be considered, where appropriate:
+i. if there is a standard strategy, for example, for well-known games like blackjack, the
+standard strategy should be used
+ii. strategies or auto-play should (theoretically) produce at least the average Return to
+Player (RTP) for the game over time.
+
+
+> **Implementation**
+A. Our games are based on statistical probability 
+B. Random picks (i.e. quick pick in a LottoRace/Lottery game) will produce the same results as any other strategy
+C. Raffle games do not have any strategy as the player is automatially assigned a sequential ticket number
 
 
 
