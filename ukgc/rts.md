@@ -824,6 +824,12 @@ should suspend betting on all betting markets that have been affected by a
 significant event before service is restored
 ii. other failures should be dealt with fairly on a case-by-case basis.
 
+
+> **Implementation**
+A. The system
+B. All changes made to any game configuration, including Jackpots  are strictly logged and tracked
+C. Only admins with full game access permissions can set or alter jackpots
+
 ### RTS 10B
 
 **RTS requirement 10B**
