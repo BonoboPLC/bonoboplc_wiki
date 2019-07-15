@@ -341,6 +341,40 @@ B) Each game includes the Odds of Winning in the Game Lobby, Game container as w
 C) Each game Rules section includes the RTP Calculation 
 ![Game Rules](/uploads/game-rules.png "Game Rules")
 
+### RTS 3D
+
+**RTS requirement 3D**
+For each virtual event, game (including bingo), or lottery, content describing the potential prizes
+and payouts or the means by which these are calculated or determined must be easily available
+before the customer commits to gamble.
+
+**RTS implementation guidance 3D**
+a. Information should be made available about the amounts that customers may potentially win,
+for example in the form of pay-tables, or by showing the odds paid for particular outcomes.
+b. For peer-to-peer games where the prize is determined based on the actions of the
+participants, a description of the way the game works and the rake or commission taken will
+be sufficient.
+c. For lotteries and other types of events where the potential amount or prize paid out may not
+be known before the customer commits to gamble, describing the way in which the prize
+amount is determined will be sufficient.13
+d. Information may be included in artwork and text displayed within the virtual event, in ‘help’ or
+‘how to play’ pages, or other supporting material.
+e. Information should be easily accessible, for example by placing links on home pages for
+gaming sections, game selection pages or menus, or within individual games.
+f. Displays of jackpot amounts that change over time (progressives) should be updated as
+frequently as practicable, particularly after the amount has been reset following a win.
+
+ 
+> **Implementation**   
+ 
+A) The Payout Table section for each game describes the estimated payout for each game
+i) In the case of LottoRace pool betting games, the commission/rake is shown on the purchase confirmation page
+ii) In the case of Lottery games the payout table shows the respective payout for each respective number of ball matches
+iii) In the case of Prize Lottery/Raffle games, the payout table shows the available prizes in each game
+B) Each game lobby and Game container include the total prize pool in each game
+
+![Entry Fee](/uploads/entry-fee.png "Entry Fee")
+![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
 
 
 ## RTS 4
