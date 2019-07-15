@@ -15,22 +15,25 @@ that enable them to review previous gambling and account transactions.
 ### RTS 1A
 
 **RTS requirement 1A**
+
 Where customers hold a credit or debit balance, the pages or screens used for gambling and to
 move money into and out of accounts must display the customer’s current account balance, in the
 currency of their account (eg dollars, euros or pounds sterling), whenever that customer is logged
 in. Where it is not practical to display current balance from gambling screens then easily
 accessible links to this information must be provided.
 **RTS implementation guidance 1A**
+
 a. Gambling pages and screens include virtual game pages, sports betting coupons, poker
 and other virtual gaming ‘tables’.
+
 b. For telephone betting this information is to be delivered at the customer’s request by the
 customer service agent or automated response system
 
 > **Implementation**  
 
-1. The Customer is able to view balance on the navigation bar at all times
-2. The Customer is able to access "Cashier History" to view previous account transactions
-3. The Customer is able to access "Completed Games" to view a listing of all previous games. 
+a. The Customer is able to view balance on the navigation bar at all times
+b. The Customer is able to access "Cashier History" to view previous account transactions
+
 
 ### RTS 1B
 
@@ -40,10 +43,33 @@ having to contact the licensee. A minimum of 12 months of gambling and account h
 made available on request. The ability to request this information should be made clear to
 customers and be provided as soon as is practicable.
 
+**RTS implementation guidance 1B**
+a. The gambling and account history should include:
+i. credit and debit information such as deposits, withdrawals, movement of funds
+between products, payments off credit accounts, entry fee deductions, and bonus
+information, as appropriate
+ii. bets placed, the results of bets, winnings paid
+iii. For gaming (including bingo) full or summarised gaming information should be
+available, for example, £10 taken into game, £100 turned over, £3 taken away from
+game. Where detailed historic game information may not necessarily be directly
+available to customers, as a minimum, customers must have easy access to details
+of the last game played and summarised information for previous activities
+iv. where customers are able to move funds between gambling products, account
+information and statements should clearly display movement of funds into and out
+of products
+v. an option for customers to use their own defined time period or to select from a
+range of time periods. A summary total for the period selected should be displayed
+(at least on the first screen or page if the transactions span multiple screens).
+
 > **Implementation**  
 
-1. The Customer is able to view all cashier transactions up to 12 months from the "Cashier History" section 
-2. The Customer is able to select from pre-defined ranges to access summarised information and Net winnings
+a. The Customer is able to view all cashier transactions up to 12 months from the "Cashier History" section 
+    The transactions include: Deposits, Withdrawals, Credits, Buy-ins, Entry Fee, Winnings and Bonuses
+b. The Customer is able to select from pre-defined ranges to access summarised information and the Net credits/debits in the "Cashier History" section
+c. The Customer's "Net Deposit" is shown on the main Cashier page
+d. The customer is able to see all past games including the Net for each game played
+
+
 
 
 ## RTS 2
