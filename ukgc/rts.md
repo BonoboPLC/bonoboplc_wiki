@@ -126,6 +126,14 @@ stake and the number of draws entered when the customer subscribes is sufficient
 a. The total fee for each entry is shown on each game's lobby and mini container.
 b. The breakdown for each entry is shown prior to confirmation of the bet as shown below
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
+c. Any applicable conversions from one currency to another are shown
+d. If the entry is FREE, it is labeled as such 
+e. In the case of Subscription Lotteries
+i) The total monthly subscriptoin fee is show on the Sign Up page
+![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
+ii) An email is sent to the player indicating the number of draws and the monthly fee for each draw
+
+
 
 
 ## RTS 3
