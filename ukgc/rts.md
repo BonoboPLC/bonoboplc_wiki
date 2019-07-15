@@ -280,18 +280,67 @@ A. The game Lobby and the "My Games" drop down displays the state of each game t
  v) Full - Meaning the game is full and cannot accept any bets
  v) Watch - Meaning the game is currently playing and the player can watch the game
  
- ![Game Status](/uploads/game-status.png "Game Status")
+  ![Game Status](/uploads/game-status.png "Game Status")
+ 
+B. During the game play the Customer can see all relevant info regarding 
+Their Play
+The Winning draw
+The next available prize, 
+The prizes already won by other players
+The status of other plays in the game
+
+![Game Play](/uploads/game-play.png "Game Play")
+
+C. At the end of the game the player can see a full summary of the game
+
+
+
+ ### RTS 3C
+
+** RTS requirement 3C**
+
+For each virtual event, game (including bingo), or lottery, information that may reasonably be
+expected to enable the customer to make an informed decision about his or her chances of
+winning must be easily available before the customer commits to gamble. Information must
+include:
+i. a description of the way the game works and the way in which winners are determined
+and prizes allocated
+ii. house edge (or margin)
+iii. the return to player (RTP) percentage or
+iv. the probability (likelihood) of winning events occurring.
+
+**RTS implementation guidance 3C**
+a. The following items provide further guidance on acceptable types of information about the
+likelihood of winning:
+i. for types of peer-to-peer games where the likelihood of winning may depend on skill
+and/or the actions of other participants, a description of the way the game works and
+how winners are determined will be sufficient
+ii. for bingo, and some types of lottery or other games where it is not possible to
+determine the likelihood of winning because it depends on the eventual number of
+participants, a description of the way in which prizes are allocated will be sufficient
+iii. the average theoretical return to player percentage. Where an event (other than peerto-peer) involves an element of skill, return to player percentage should be calculated
+using either the auto-play strategy or a standard/published strategy
+iv. the house edge, margin or over-round, for example for a virtual race
+v. the probability of each winning event occurring, or such information as may reasonably
+be expected to allow the customer to calculate the probability that the event will occur.
+The nature of some games may mean that the game itself provides sufficient
+information, for example, the likelihood of rolling a six on a six-sided die would not
+require further explanation.
+vi. The odds displayed in virtual event betting should reflect the probability of each event
+occurring as closely as possible.
+b. Information may be included in artwork and text displayed within the virtual game or event, in
+‘help’ or ‘how to play’ pages, or other supporting material.
+c. Information should be easily accessible, for example by placing links on home pages for
+gaming or virtual event sections, game selection pages or menus, or within individual games.
  
  
+> **Implementation**   
  
- 
-2. 
-2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
-3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
-4. Any contributions to Jackpots are shown on the entry confirmation page
-5. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
-6. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
-7. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
+A) Each game includes Rules which describe the way in which prizes are won and distributed
+B) Each game includes the Odds of Winning in the Game Lobby, Game container as well as the Game description and Games Rules section
+C) Each game Rules section includes the RTP Calculation 
+
+
 
 
 ## RTS 4
