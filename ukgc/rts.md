@@ -464,8 +464,110 @@ D. Facilities exist to credit players in cases of where customer satisfaction is
 E. If any games fail to play, for any technical reason, monitoring systems are in place to detect the error and attemp to fix it
 F. If any games fail, for any technical reason where the error cannot be recovered, an email is sent to the administrator
 
-## RTS 6
-## RTS 7
+## RTS 6 - Free Play Games
+
+RTS 6 – Result determination for play-for-free games
+Gaming (including bingo), lotteries, and betting on virtual events
+
+**RTS aim 6**
+To minimise the risk that customers are misled about the likelihood of winning due to the
+behaviour of play-for-free games.
+
+### RTS 6A
+
+**RTS requirement 6A**
+Play-for-free games must implement the same game rules as the corresponding play-for-money
+games offered on the same facilities (ie the same website). Operators must take all reasonable
+steps to ensure that play-for-free games accurately represent the likelihood of winning and prize
+distribution in the play-for-money game. For the purpose of this requirement playing a game
+includes participating in a lottery and/or betting on a virtual event.
+
+**RTS implementation guidance 6A**
+
+a. The play-for-free game should use the same RNG as the corresponding play-for-money
+games, another RNG that fulfils the requirements set out in RTS requirement 7A, or a
+publicly available RNG, (such as those available as standard within operating systems)
+that may reasonably be expected to produce no systematic bias.
+b. Where 6A is not reasonably possible, it should be demonstrated that the method of
+producing outcomes does not introduce a systematic bias, for example:
+i. if tables of random numbers are used, they should be sufficiently long to support a
+large number of games without repeating
+ii. the method should represent game probabilities accurately, ie it should not produce
+a higher than expected proportion of winning outcomes.
+c. The prize distribution should accurately represent the play-for-money game. For example,
+where play-for-free games use virtual cash, the virtual cash payouts should be the same
+as the corresponding play-for-money game, and where tokens are used, the allocation of
+tokens as prizes should be proportionate to the stakes and prizes in the play-for-money
+game.
+d. Where videos are used to advertise a game’s features it should be made clear to
+consumers where footage has been edited or sped-up for promotional purposes. Similarly,
+where a non-consumer (eg supplier’s) website is demonstrating a game with higher than
+normal returns (ie on a website that is different to the real money gambling facility
+websites) it should be made clear that it is a demonstration game specifically designed to
+demonstrate the bonus features.
+
+> **Implementation**   
+
+A. All free to play games (Free Roll promotions) use the same RNG and game logic as any other game of the same type
+B. The odds of winning, prize distribution and probabilities are exactly the same as paid game of the same type
+C. All virtual, play for fun games also use the same RNG and game logic as real money games
+D. No edited footage, misrepresents the odds, chances or speed of a game 
+
+
+
+## RTS 7 - Generation of Random Outcomes
+RTS 7 – Generation of random outcomes
+Gaming (including bingo), lotteries, and betting on virtual events
+
+**RTS aim 7**
+To ensure that games and other virtual events operate fairly.
+
+### RTS 7A
+
+**RTS requirement 7A**
+Random number generation and game results must be ‘acceptably random’. Acceptably random
+here means that it is possible to demonstrate to a high degree of confidence that the output of the
+RNG, game, lottery and virtual event outcomes are random through, for example, statistical
+analysis using generally accepted tests and methods of analysis. Adaptive behaviour (ie a
+compensated game) is not permitted.
+Where lotteries use the outcome of other events external to the lottery, to determine the result of
+the lottery the outcome must be unpredictable and externally verifiable.
+
+**RTS implementation guidance 7A**
+a. RNGs should be capable of demonstrating the following qualities:
+i. the output from the RNG is uniformly distributed over the entire output range and
+game, lottery, or virtual event outcomes are distributed in accordance with the
+expected/theoretical probabilities
+ii. the output of the RNG, game, lottery, and virtual event outcomes should be
+unpredictable, for example, for a software RNG it should be computationally infeasible
+to predict what the next number will be without complete knowledge of the algorithm
+and seed value
+iii. random number generation does not reproduce the same output stream (cycle), and that
+two instances of a RNG do not produce the same stream as each other (synchronise)
+iv. any forms of seeding and re-seeding used do not introduce predictability
+v. any scaling applied to the output of the random number generator maintains the
+qualities above.
+b. For lotteries using external events - where it is not practical to demonstrate 7A the events
+outcomes should be:
+i. unpredictable, that is, events should be selected only where they may reasonably be
+assumed to be random events
+ii. unable to be influenced by the lottery operator (or external lottery manager)
+iii. publicly available and externally verifiable, for example, events that are published in
+local or national press would be acceptable.
+c. For games or virtual events that use the laws of physics to generate the outcome of the
+game (mechanical RNGs), the mechanical RNG used should be capable of meeting the
+requirements in a. where applicable and in addition:
+i. the mechanical pieces should be constructed of materials to prevent decomposition of
+any component over time (eg a ball shall not disintegrate)
+ii. the properties of physical items used to choose the selection should not be altered
+iii. players should not have the ability to interact with, come into physical contact with, or
+manipulate the mechanics of the game.
+d. Restricting adaptive behaviour prohibits automatic or manual interventions that change the
+probabilities of game outcomes occurring during play. Restricting adaptive behaviour is not
+intended to prevent games from offering bonus or special features that implement a
+different set of rules, if they are based on the occurrence of random events
+
+
 ## RTS 8
 ## RTS 9
 ## RTS 11
