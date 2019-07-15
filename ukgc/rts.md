@@ -31,7 +31,6 @@ customer service agent or automated response system
 2. The user is able to access "Cashier History" to view previous account transactions
 3. The user is able to access "Completed Games" to view a listing of all previous games. 
 
-[ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Games]
 
 
 
