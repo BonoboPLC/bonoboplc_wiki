@@ -339,7 +339,7 @@ gaming or virtual event sections, game selection pages or menus, or within indiv
 A) Each game includes Rules which describe the way in which prizes are won and distributed
 B) Each game includes the Odds of Winning in the Game Lobby, Game container as well as the Game description and Games Rules section
 C) Each game Rules section includes the RTP Calculation 
-
+![Game Rules](/uploads/game-rules.png "Game Rules")
 
 
 
