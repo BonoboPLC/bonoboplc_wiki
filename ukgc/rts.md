@@ -90,6 +90,42 @@ a. The Customer's "Net Deposit" is shown on the main Cashier page. This represen
 
 ## RTS 2
 
+**RTS aim 2**
+To enable the customer to understand the value and content of their transactions
+
+### RTS 2A
+
+**RTS requirement 2A**
+The remote gambling system must make available clear information about the amount of money
+being gambled by the customer, including any conversions from one form of currency to another,
+or from currency to credits, chips or other tokens etc, at the point of conversion.
+
+**RTS implementation guidance 2A**
+a. The financial commitment for each gamble should be displayed somewhere on the screen
+either in the currency of the customer’s account or in the currency of the product. The use
+of credits, chips or other tokens with no face value should only be used when the
+corresponding currency amount is clearly visible, or where the customer is not staking
+additional money such as a poker tournament.
+b. Any conversion from one currency to another should be clearly presented to the customer
+and any conversion rules are also to be presented. Where currency is converted into
+tokens, chips or credits, etc, the conversion should be clearly displayed.
+c. Information about the value of the gamble should be displayed including, as appropriate:
+i. unit stake and total stake, whether currency, credit, tokens, chips, or any other
+form of payment
+ii. entry fees, for example, payment for entry to poker
+tournaments
+iii. the price of lottery tickets and the number of draws entered.
+d. For telephone gambling, this information is to be delivered by the customer service agent
+or automated response system.
+e. For subscription lotteries, sending a confirmation by email or post and/or displaying the
+stake and the number of draws entered when the customer subscribes is sufficient.
+
+
+> **Implementation**  
+
+a. The total fee for each entry is shown on each game's lobby and mini container.
+b. The breakdown for each entry is shown prior to confirmation of the bet displaying  Buy-in, ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
+
 
 ## RTS 3
 ## RTS 4
