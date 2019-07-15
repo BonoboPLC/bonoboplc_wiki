@@ -515,7 +515,7 @@ D. No edited footage, misrepresents the odds, chances or speed of a game
 
 
 
-## RTS 7 - Generation of Random Outcomes
+## RTS 7 - Random Outcomes
 RTS 7 – Generation of random outcomes
 Gaming (including bingo), lotteries, and betting on virtual events
 
@@ -567,8 +567,16 @@ probabilities of game outcomes occurring during play. Restricting adaptive behav
 intended to prevent games from offering bonus or special features that implement a
 different set of rules, if they are based on the occurrence of random events
 
+> **Implementation**   
+
+A. Our RNG is tested and certified by a 3rd party to produce uniformly random outcomes over the entire output range
+B. Our RNG is routinely internaly tested to pass Die Hard tests
+C.  We do not currently allow any outside process to determine the outcome of the RNG 
+
 
 ## RTS 8
+
+
 ## RTS 9
 ## RTS 11
 ## RTS 12
