@@ -846,8 +846,7 @@ appropriate:
 • the value of any progressive jackpots
 • the state of any gambles, eg who has staked what on what outcome
 • bets placed or offered.
-b. For peer-to-peer betting, it should be possible to suspend betting markets manually or
-automatically
+b. For peer-to-peer betting, it should be possible to suspend betting markets manually or automatically
 
 
 
