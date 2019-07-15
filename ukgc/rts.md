@@ -297,7 +297,7 @@ C. At the end of the game the player can see a full summary of the game
 
  ### RTS 3C
 
-** RTS requirement 3C**
+**RTS requirement 3C**
 
 For each virtual event, game (including bingo), or lottery, information that may reasonably be
 expected to enable the customer to make an informed decision about his or her chances of
