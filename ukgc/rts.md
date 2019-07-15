@@ -861,6 +861,21 @@ A. In the event that a critical unforseen failure causes the game logic to outpu
 B. In the event of an unrecoverable error, the game can be voided and fees refunded to players
 C. Sufficient information is maintained about each Customer and their respective plays in each game such that the game can be restored to its pre-failure state
 
+### RTS 10C
+
+**RTS requirement 10C**
+Operators must make available information about their policies regarding service interruptions in
+various different circumstances.
+
+**RTS implementation guidance 10C**
+Operators should make information available to customers about how they will be treated in
+various common scenarios. However, this does not mean that operators have to detail all possible
+scenarios or responses to service interrup
+
+> **Implementation**
+A. We do not have any common failure scenarios. In the event of any service interruption, systems and games are restored to their pre-failure state.
+
+
 
 ## RTS 11
 ## RTS 12
