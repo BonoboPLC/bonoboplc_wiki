@@ -427,7 +427,42 @@ a. Information should be included in game descriptions, rules, ‘help’ or ‘
 
 Not applicable
 
-## RTS 5
+## RTS 5 - Result Determination
+
+** RTS aim 5**
+To ensure that the gambling system implements the operator’s rules, game rules and betting rules
+as they are described to the customer.
+
+
+### RTS 5A
+
+**RTS requirement 5A**
+All reasonable steps should be taken to ensure that gambles are accepted, processed and settled
+in accordance with the operators’ published terms and rules, and the rules of the specific game,
+event, or bet.
+Where unexpected system flaws, faults, or errors that affect the customer occur, steps are to be
+taken as soon as practicable to remedy the problem and ensure that the customer is treated fairly
+according to the circumstances.
+
+**RTS implementation guidance 5A**
+a. Under normal operation, in the absence of technical faults, the system should act in
+accordance with the rules.
+b. Reasonable steps include testing of systems and new products against the published rules
+and monitoring the ongoing performance of those products in the live environment. Refer to
+our testing strategy for more detailed requirements in this area.
+c. Customers should be notified when errors that affect them, for example, incorrectly settled
+bets, have occurred as soon as practicable after the event occurs. Steps should be taken to
+rectify the error, for example, by manually adjusting the customer’s account.
+
+
+> **Implementation**   
+
+A. All games are tested during development against the specified rules and prescribed logic of the game
+B. Return to Player is monitored in each and every game to ensure that the entire prize pool is paid out to players
+C. Games are routinely tested to ensure compliance with published rules
+D. Facilities exist to credit players in cases of where customer satisfaction is an issue
+E. If any games fail to play, for any technical reason, monitoring systems are in place to detect the error and attemp to fix it
+F. If any games fail, for any technical reason where the error cannot be recovered, an email is sent to the administrator
 
 ## RTS 6
 ## RTS 7
