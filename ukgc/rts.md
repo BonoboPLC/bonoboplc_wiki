@@ -624,6 +624,7 @@ f. Where a customer contributes to a jackpot pool, that customer should be eligi
 jackpot whilst they are playing that game, in accordance with the game and jackpot rules
 
 > **Implementation**   
+
 A. No substitution is ever made in the game logic to give the appearance of a near miss event
 B. No simulations of any devices or game patterns are created
 C. We do not substitute one losing outcome for another, under any circumstance. All results shown are as they occurred
@@ -665,6 +666,8 @@ which a game, lottery or event works are not permitted, for example, rules that 
 ‘game rules may be changed at any time’ would not be acceptable
 
 > **Implementation**   
+
+
 A. There are no changes to the paytables of the game, except in the following cases:
 i) The prize pool increases as new entries are joined into the pool
 ii) The estimated prize pool is not met before a tournament is started and the available prize pool is shown instead (In this case the game rules will clearly describe the process)
@@ -687,6 +690,7 @@ The game artwork and text should be sufficient to provide the customer with all 
 required to determine whether they have lost or won, and the value of any winnings.
 
 > **Implementation**
+
 A. Our games offer a live game play which allow players to view the progress of the game (LottoRace, Lottery, Prize Raffle) live as it happens
 B. At the end of each game, the Game Over screen shows a summary of what was won by the Customer and other players in the same game
 
