@@ -574,7 +574,35 @@ B. Our RNG is routinely internaly tested to pass Die Hard tests
 C.  We do not currently allow any outside process to determine the outcome of the RNG 
 
 
+### RTS 7B
+
+**RTS requirement 7B**
+As far as is reasonably possible, games and events must be implemented fairly and in accordance
+with the rules and prevailing payouts, where applicable, as they are described to the customer.
+
+**RTS implementation guidance 7B**
+a. Games should implement the rules as described in the rules available to the customer
+before play commenced.
+b. The mapping of the random inputs to game outcomes should be in accordance with
+prevailing probabilities, pay tables, etc.
+c. When random numbers, scaled or otherwise, are received, eg following a game requesting
+a sequence of random numbers, they are to be used in the order in which they are received.
+For example, they may not be discarded due to adaptive behaviour.
+d. Numbers or sequences of numbers are not to be discarded, unless they fall outside the
+expected range of numbers required by the virtual event – such an occurrence should result
+in an error being logged and investigated.
+
+
+> **Implementation**   
+A. Game logic is implemented and tested agains the rules available to Customers
+B. Pay Tables are used to determine the prizes won by players
+C. Numbers are not discarded in any adaptive fashion 
+
+
+
+
 ## RTS 8
+
 
 
 ## RTS 9
