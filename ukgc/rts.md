@@ -30,7 +30,6 @@ b. For telephone betting this information is to be delivered at the customer’s
 customer service agent or automated response system
 
 > **Implementation**  
-
 a. The Customer is able to view balance on the navigation bar at all times
 b. The Customer is able to access "Cashier History" to view previous account transactions
 
@@ -62,7 +61,6 @@ range of time periods. A summary total for the period selected should be display
 (at least on the first screen or page if the transactions span multiple screens).
 
 > **Implementation**  
-
 a. The Customer is able to view all cashier transactions up to 12 months from the "Cashier History" section 
     The transactions include: Deposits, Withdrawals, Credits, Buy-ins, Entry Fee, Winnings and Bonuses
 b. The Customer is able to select from pre-defined ranges to access summarised information and the Net credits/debits in the "Cashier History" section
@@ -84,7 +82,6 @@ covers, should be provided
 
 
 > **Implementation**  
-
 a. The Customer's "Net Deposit" is shown on the main Cashier page. This represents lifetime Withdrawals minus lifetime deposits.
 
 
@@ -163,7 +160,6 @@ d. For subscription lotteries, sending a confirmation by email or post and/or di
 first draw and the number of draws for which the customer will be entered is sufficient.
 
 > **Implementation**  
-
 a. All games are clearly marked with a Play button so that the player is clear on the items which they chose to gamble on
 b. All  games include the Odds of winning a prize in the Art Work, Game Rules and Game Container as shown below.
 ![Odds Shown On Lobby](/uploads/odds-shown-on-lobby.png "Odds Shown On Lobby")
@@ -185,7 +181,6 @@ The gambling system must enable customers to choose whether to accept price fluc
 (in either direction) that occur after their bet is requested.
 
 > **Implementation**  
-
 There are no price fluctuations after the bet is placed. All bets in the UK must be denominated in GBP and no other currency.
 
 
@@ -198,7 +193,6 @@ Information should be included in terms and conditions, rules or other general i
 the gambling product that is made available to and/or sent out to customers.
 
 > **Implementation**  
-
 We do not allow 3rd party interfaces into our games
 
 ## RTS 3 - Rules & Odds
@@ -245,7 +239,6 @@ viii. the rules for entering a single lottery draw or a series of lottery draws 
 frequency of the draws
 
 > **Implementation**  
-
 1. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
 2. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
 3. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
@@ -270,7 +263,6 @@ other feature labels.
 c. This requirement does not apply to lotteries
 
 > **Implementation**  
-
 A. The game Lobby and the "My Games" drop down displays the state of each game that the player is registered in
  i) Displaying either a countdown for scheduled tournaments/lotteries
  ii) number of players for instant games.
@@ -334,7 +326,6 @@ gaming or virtual event sections, game selection pages or menus, or within indiv
  
  
 > **Implementation**   
- 
 A) Each game includes Rules which describe the way in which prizes are won and distributed
 B) Each game includes the Odds of Winning in the Game Lobby, Game container as well as the Game description and Games Rules section
 C) Each game Rules section includes the RTP Calculation 
@@ -365,7 +356,6 @@ frequently as practicable, particularly after the amount has been reset followin
 
  
 > **Implementation**   
- 
 A) The Payout Table section for each game describes the estimated payout for each game
 
 ![Payout Table](/uploads/payout-table.png "Payout Table")
@@ -409,7 +399,6 @@ c. treating winning responses that arrive within a period of time as simultaneou
 implementing a policy on how simultaneous wins are to be dealt with
 
 > **Implementation**   
-
 A. Our games do not include any time critical events other than joining tournaments before the start of the tournament.
 Connection latency does not play a role in this
 
@@ -423,7 +412,6 @@ performance.
 a. Information should be included in game descriptions, rules, ‘help’ or ‘how to play’ pages.
 
 > **Implementation**   
-
 Not applicable
 
 ## RTS 5 - Result Determination
@@ -455,7 +443,6 @@ rectify the error, for example, by manually adjusting the customer’s account.
 
 
 > **Implementation**   
-
 A. All games are tested during development against the specified rules and prescribed logic of the game
 B. Return to Player is monitored in each and every game to ensure that the entire prize pool is paid out to players
 C. Games are routinely tested to ensure compliance with published rules
@@ -506,7 +493,6 @@ websites) it should be made clear that it is a demonstration game specifically d
 demonstrate the bonus features.
 
 > **Implementation**   
-
 A. All free to play games (Free Roll promotions) use the same RNG and game logic as any other game of the same type
 B. The odds of winning, prize distribution and probabilities are exactly the same as paid game of the same type
 C. All virtual, play for fun games also use the same RNG and game logic as real money games
@@ -567,7 +553,6 @@ intended to prevent games from offering bonus or special features that implement
 different set of rules, if they are based on the occurrence of random events
 
 > **Implementation**   
-
 A. Our RNG is tested and certified by a 3rd party to produce uniformly random outcomes over the entire output range
 B. Our RNG is routinely internaly tested to pass Die Hard tests
 C.  We do not currently allow any outside process to determine the outcome of the RNG 
@@ -593,7 +578,6 @@ in an error being logged and investigated.
 
 
 > **Implementation**   
-
 A. Game logic is implemented and tested agains the rules available to Customers
 B. Pay Tables are used to determine the prizes won by players
 C. Numbers are not discarded in any adaptive fashion 
@@ -624,7 +608,6 @@ f. Where a customer contributes to a jackpot pool, that customer should be eligi
 jackpot whilst they are playing that game, in accordance with the game and jackpot rules
 
 > **Implementation**   
-
 A. No substitution is ever made in the game logic to give the appearance of a near miss event
 B. No simulations of any devices or game patterns are created
 C. We do not substitute one losing outcome for another, under any circumstance. All results shown are as they occurred
@@ -666,8 +649,6 @@ which a game, lottery or event works are not permitted, for example, rules that 
 ‘game rules may be changed at any time’ would not be acceptable
 
 > **Implementation**   
-
-
 A. There are no changes to the paytables of the game, except in the following cases:
 i) The prize pool increases as new entries are joined into the pool
 ii) The estimated prize pool is not met before a tournament is started and the available prize pool is shown instead (In this case the game rules will clearly describe the process)
@@ -690,7 +671,6 @@ The game artwork and text should be sufficient to provide the customer with all 
 required to determine whether they have lost or won, and the value of any winnings.
 
 > **Implementation**
-
 A. Our games offer a live game play which allow players to view the progress of the game (LottoRace, Lottery, Prize Raffle) live as it happens
 B. At the end of each game, the Game Over screen shows a summary of what was won by the Customer and other players in the same game
 
