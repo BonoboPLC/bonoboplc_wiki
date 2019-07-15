@@ -376,9 +376,12 @@ ii) In the case of Lottery games the payout table shows the respective payout fo
 ![Lotto Payout](/uploads/lotto-payout.png "Lotto Payout")
 
 iii) In the case of Prize Lottery/Raffle games, the payout table shows the available prizes in each game
+
 B) Each game lobby and Game container include the total prize pool in each game
 
 ![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
+
+C) All Jackpots are immediately reflected as they are updated
 
 
 ## RTS 4
