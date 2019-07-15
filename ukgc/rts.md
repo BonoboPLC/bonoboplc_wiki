@@ -598,7 +598,97 @@ A. Game logic is implemented and tested agains the rules available to Customers
 B. Pay Tables are used to determine the prizes won by players
 C. Numbers are not discarded in any adaptive fashion 
 
+### RTS 7C
 
+**RTS requirement 7C**
+Game designs or features that may reasonably be expected to mislead the customer about the
+likelihood of particular results occurring are not permitted, including substituting losing events with
+near-miss losing events and simulations of real devices that do not simulate the real probabilities
+of the device.
+
+**RTS implementation guidance 7C**
+a. Where a virtual event simulates a physical device, the theoretical game probabilities should
+match the probabilities of the real device (for example, the probability of a coin landing
+heads must be 0.5 every time the coin is tossed).
+b. Where multiple physical devices are simulated the probabilities of each outcome should be
+independent of the other simulated devices.
+c. Games may not falsely display near-miss results, that is, the event may not substitute one
+losing outcome with a different losing outcome.
+d. Where the event requires a pre-determined layout (for example, hidden prizes on a map),
+the locations of the winning spots should not change during play, except as provided for in
+the rules of the game.
+e. Where games involve an element of skill, every outcome described in the virtual event rules
+or artwork should be possible, that is, the customer should have some chance of achieving
+an advertised outcome regardless of skill.
+f. Where a customer contributes to a jackpot pool, that customer should be eligible to win the
+jackpot whilst they are playing that game, in accordance with the game and jackpot rules
+
+> **Implementation**   
+A. No substitution is ever made in the game logic to give the appearance of a near miss event
+B. No simulations of any devices or game patterns are created
+C. We do not substitute one losing outcome for another, under any circumstance. All results shown are as they occurred
+D. We only support LottoRace, Lotto and Prize Raffle games where there is no element of skill in the game and is purely based on probabilities
+E. If a Customer contributes to a Jackpot, then that jackpot is available to be won in the same game
+
+
+
+### RTS 7D
+
+**RTS requirement 7D**
+The rules, payouts and outcome probabilities of a virtual event or game may not be changed while
+it is available for gambling, except as provided for in the rules of the game, lottery or virtual event.
+Such changes must be brought to customer’s attention.
+
+**RTS implementation guidance 7D**
+a. Changes to game or event rules, paytables or other parameters that change the way in
+which a game, lottery, or event works, the winnings paid, or likelihood of winning (except as
+described in 7Dc), should be conducted with the game or event taken offline or suspended.
+
+b. Altered games, lotteries, and events should display a notice that informs customers that the
+game or event has been changed, for example, ‘rules changed’, ’new odds’, or ’different
+payouts’. The notice should be displayed on game selection screens and on the events
+themselves if it is possible for the customer to go straight to the event without using a
+selection screen.
+
+c. This requirement is not intended to prevent games and virtual events where specified
+changes occur legitimately, in accordance with the game or event rules, for example:
+i. virtual events, such as virtual racing products where the odds differ from event to event
+depending on the virtual runners
+ii. virtual games, such as bingo where the odds of winning are dependent on the number
+of entrants
+iii. games with progressive jackpots, where the amount that can be won changes over
+time
+iv. games with bonus rounds where different rules apply, so long as these rounds are
+properly described to the customer
+v. unspecified changes to rules, paytables or other parameters that change the way in
+which a game, lottery or event works are not permitted, for example, rules that state
+‘game rules may be changed at any time’ would not be acceptable
+
+> **Implementation**   
+A. There are no changes to the paytables of the game, except in the following cases:
+i) The prize pool increases as new entries are joined into the pool
+ii) The estimated prize pool is not met before a tournament is started and the available prize pool is shown instead (In this case the game rules will clearly describe the process)
+B) Where progressive jackpot increases 
+C) The odds and rules of a game cannot be changed in the system once the game is made public and players have joined the game - it is technicaly not possible
+i) In order to change the rules of the game, our system requires that the game be stopped, all entries refunded and the game restarted which forces players to view the new rules (If any) and join the game if they so wish
+
+
+
+### RTS 7E
+
+**RTS requirement 7E**
+Except in the case of subscription lotteries, the system clearly and accurately display the result of
+the game or event and the customer’s gamble. The result must be displayed for a length of time
+that may reasonably be expected to be sufficient for the customer to understand the result of the
+game or event in the context of their gamble.
+
+**RTS implementation guidance 7E**
+The game artwork and text should be sufficient to provide the customer with all of the information
+required to determine whether they have lost or won, and the value of any winnings.
+
+> **Implementation**   
+A. Our games offer a live game play which allow players to view the progress of the game (LottoRace, Lottery, Prize Raffle) live as it happens
+B. At the end of each game, the Game Over screen shows a summary of what was won by the Customer and other players in the same game
 
 
 ## RTS 8
