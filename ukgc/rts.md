@@ -721,6 +721,7 @@ Player (RTP) for the game over time.
 > **Implementation**
 A. Our games are based on statistical probability 
 B. Random picks (i.e. quick pick in a LottoRace/Lottery game) will produce the same results as any other strategy
+D. Random lottery subscriptions will produce the same results as any other lottery strategy
 C. Raffle games do not have any strategy as the player is automatially assigned a sequential ticket number
 
 
