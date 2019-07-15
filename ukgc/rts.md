@@ -909,12 +909,41 @@ i. players who frequently share the same tables
 ii. players from same address who share the same table
 iii. suspicious patterns of play (such as chip dumping)
 iv. unusual gameplay statistics
+d. Customer complaints about cheating should be investigated.
+e. Records should be kept of investigations which result in an account being closed including:
+i. player details (name, location, which licence the activity was in reliance on), scale of
+the offences (financial and number of players), time and date etc
+ii. the reason for investigation (including whether it was initiated by customer contact)
+and the outcome
+iii. any relevant evidence such as reports, screenshots, chat history etc. This
+information should be considered when updating the risks identified in relevant
+policies and procedures.
 
 > **Implementation**
 A. Due to the purely probabilistic nature of our games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
 B. We do have the ability of detecting if players are playing from the same IP address whom are playing in the same games
 C. All of our games work on strict probably (i.e. LottoRace pool bets or Lottery games)
+D. We have not had any reports, insinuating that any players are cheating
 
+### RTS 11B
+
+**RTS requirement 11B**
+Information must be made available about the operator’s policies and procedures with regard to
+cheating, recovered player funds and about how to complain if a customer suspects other
+participants are cheating.
+
+**RTS implementation guidance 11B**
+a. As a minimum deterrent, customers should be informed that accounts will be closed if the
+customer is found to have cheated.
+b. Information regarding funds that are recovered from accounts during integrity
+investigations is not expected to cover every scenario but should highlight the main aims
+of the policy.
+c. Relevant information should be included in terms and conditions or rules.
+
+> **Implementation**
+A. Due to the purely probabilistic nature of our games, there is no way to create an advantage or disadvantage by playing together, in the same games, or by employing any corresponding strategies
+B. We do have the ability of detecting if players are playing from the same IP address whom are playing in the same games
+C. All of our games work on strict probably (i.e. LottoRace pool bets or Lottery games)
 
 
 ## RTS 12
