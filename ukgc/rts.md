@@ -857,6 +857,8 @@ b. For peer-to-peer betting, it should be possible to suspend betting markets ma
 A. In the event that a critical unforeseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
 B. In the event of an unrecoverable error, the game can be voided, and fees refunded to players
 C. Sufficient information is maintained about each Customer and their respective plays in each game such that the game can be restored to its pre-failure state
+D. In the event that a Customer is disconnected from the web site, the game continues to run as normal and the Customer is credited for any wins
+E. In the event that a Customer is disconnected from the web site, the Customer can replay game at any time by visiting the Completed Games section
 
 ### RTS 10C
 
