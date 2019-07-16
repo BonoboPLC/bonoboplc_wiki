@@ -17,7 +17,7 @@ that enable them to review previous gambling and account transactions.
 **RTS requirement 1A**
 Where customers hold a credit or debit balance, the pages or screens used for gambling and to
 move money into and out of accounts must display the customer’s current account balance, in the
-currency of their account (eg dollars, euros or pounds sterling), whenever that customer is logged
+currency of their account (e.g. dollars, euros or pounds sterling), whenever that customer is logged
 in. Where it is not practical to display current balance from gambling screens then easily
 accessible links to this information must be provided.
 
@@ -95,7 +95,7 @@ To enable the customer to understand the value and content of their transactions
 **RTS requirement 2A**
 The remote gambling system must make available clear information about the amount of money
 being gambled by the customer, including any conversions from one form of currency to another,
-or from currency to credits, chips or other tokens etc, at the point of conversion.
+or from currency to credits, chips or other tokens etc., at the point of conversion.
 
 **RTS implementation guidance 2A**
 a. The financial commitment for each gamble should be displayed somewhere on the screen
@@ -105,7 +105,7 @@ corresponding currency amount is clearly visible, or where the customer is not s
 additional money such as a poker tournament.
 b. Any conversion from one currency to another should be clearly presented to the customer
 and any conversion rules are also to be presented. Where currency is converted into
-tokens, chips or credits, etc, the conversion should be clearly displayed.
+tokens, chips or credits, etc., the conversion should be clearly displayed.
 c. Information about the value of the gamble should be displayed including, as appropriate:
 i. unit stake and total stake, whether currency, credit, tokens, chips, or any other
 form of payment
@@ -125,7 +125,7 @@ b. The breakdown for each entry is shown prior to confirmation of the bet as sho
 c. Any applicable conversions from one currency to another are shown
 d. If the entry is FREE, it is labeled as such 
 e. In the case of Subscription Lotteries
-i) The total monthly subscription fee is show on the Sign Up page
+i) The total monthly subscription fee is show on the Sign-Up page
 ![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
 ii) An email is sent to the player indicating the number of draws and the monthly fee for each draw
 
@@ -142,7 +142,7 @@ a. The following items provide guidelines about the type of information that may
 i. selections – the items the customer has chosen to gamble on;
 ii. the bet type
 iii. the accepted odds, for example current odds, starting price, first show,
-etc
+etc.
 iv. the odds format that will take precedence in settling bets must be set
 out in the rules.
 These items, where relevant, are also required on applications designed for use on restricted
@@ -160,7 +160,7 @@ first draw and the number of draws for which the customer will be entered is suf
 
 > **Implementation**  
 a. All games are clearly marked with a Play button so that the player is clear on the items which they chose to gamble on
-b. All  games include the Odds of winning a prize in the Art Work, Game Rules and Game Container as shown below.
+b. All  games include the Odds of winning a prize in the Artwork, Game Rules and Game Container as shown below.
 ![Odds Shown On Lobby](/uploads/odds-shown-on-lobby.png "Odds Shown On Lobby")
 c. We do not offer telephone gaming
 b. The breakdown for each entry is shown prior to confirmation of the bet as shown below
@@ -168,7 +168,7 @@ b. The breakdown for each entry is shown prior to confirmation of the bet as sho
 c. Any applicable conversions from one currency to another are shown
 d. If the entry is FREE, it is labeled as such 
 e. In the case of Subscription Lotteries
-i) The total monthly subscription fee is show on the Sign Up page
+i) The total monthly subscription fee is show on the Sign-Up page
 ![Lottery Subscription Page 1](/uploads/lottery-subscription-page-1.png "Lottery Subscription Page 1")
 ii) An email is sent to the player indicating the draw information and the odds of winning a prize
 
@@ -224,7 +224,7 @@ i. the name of the game, lottery or virtual event
 ii. the applicable rules, including clear descriptions of what constitutes a winning
 outcome
 iii. restrictions on play or betting, such as any play duration limits, maximum wins,
-etc
+etc.
 iv. the number of decks or frequency of shuffles in virtual card games
 v. whether there are contributions to jackpots (progressives) and the way in which
 the jackpot operates, for example, whether the jackpot is won by achieving a
@@ -237,13 +237,13 @@ viii. the rules for entering a single lottery draw or a series of lottery draws 
 frequency of the draws
 
 > **Implementation**  
-A. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
+A. The How to Play page describes the rules of each LottoRace, Lottery, or Raffle Game
 B. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
 C. The odds of winning a prize in each Game are included as part of the Game Lobby and/or Artwork
 D. Any contributions to Jackpots are shown on the purchase confirmation page
-E. "How to win the Jackpot" is descirbed in the Game description and in the Game Rules
+E. "How to win the Jackpot" is described in the Game description and in the Game Rules
 F. Tutorial on how to interact with the interface is available on each Game Lobby 
-H. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
+H. The rules for Lottery subscriptions are accessible from the confirmation page of the sign-up flow
 
 
 ### RTS 3B
@@ -254,7 +254,7 @@ enable the customer to understand the current state must be displayed.
 
 **RTS implementation guidance 3B**
 The following items provide guidelines on the type of information that may be relevant.
-a. Where a game builds up a collection of tokens (symbols etc), the current number
+a. Where a game builds up a collection of tokens (symbols etc.), the current number
 collected.
 b. An indication of which rules are currently relevant, such as displaying ‘bonus round’ or
 other feature labels.
@@ -303,7 +303,7 @@ how winners are determined will be sufficient
 ii. for bingo, and some types of lottery or other games where it is not possible to
 determine the likelihood of winning because it depends on the eventual number of
 participants, a description of the way in which prizes are allocated will be sufficient
-iii. the average theoretical return to player percentage. Where an event (other than peerto-peer) involves an element of skill, return to player percentage should be calculated
+iii. the average theoretical return to player percentage. Where an event (other than peer to-peer) involves an element of skill, return to player percentage should be calculated
 using either the auto-play strategy or a standard/published strategy
 iv. the house edge, margin or over-round, for example for a virtual race
 v. the probability of each winning event occurring, or such information as may reasonably
@@ -353,11 +353,11 @@ frequently as practicable, particularly after the amount has been reset followin
 A) The Payout Table section for each game describes the estimated payout for each game
 ![Payout Table](/uploads/payout-table.png "Payout Table")
 i) In the case of LottoRace pool betting games, the commission/rake is also shown on the purchase confirmation page
-ii) In the case of Lottery games the payout table shows the respective payout for each respective number of ball matches
+ii) In the case of Lottery games, the payout table shows the respective payout for each respective number of ball matches
 ![Lotto Payout](/uploads/lotto-payout.png "Lotto Payout")
 iii) In the case of Prize Lottery/Raffle games, the payout table shows the available prizes in each game
 B) Each game lobby and Game container include the total prize pool in each game
-![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
+![Win A BMW Raffle](/uploads/win-a-bmw-raffle.png "Win A BMW Raffle")
 C) All Jackpots are immediately reflected as they are updated
 
 
@@ -381,7 +381,7 @@ steps to reduce the risk to customers.
 Examples of possible approaches include:
 a. estimating the degree of network latency (delay) a customer is experiencing and displaying
 regularly updated information to the customer about any disadvantage that they may be
-operating under (eg high, medium, low)
+operating under (e.g. high, medium, low)
 b. applying a handicapping system based on estimated performance and/or system latency
 c. treating winning responses that arrive within a period of time as simultaneous and
 implementing a policy on how simultaneous wins are to be dealt with
@@ -435,7 +435,7 @@ A. All games are tested during development against the specified rules and presc
 B. Return to Player is monitored in each and every game to ensure that the entire prize pool is paid out to players
 C. Games are routinely tested to ensure compliance with published rules
 D. Facilities exist to credit players in cases of where customer satisfaction is an issue
-E. If any games fail to play, for any technical reason, monitoring systems are in place to detect the error and attemp to fix it
+E. If any games fail to play, for any technical reason, monitoring systems are in place to detect the error and attempt to fix it
 F. If any games fail, for any technical reason where the error cannot be recovered, an email is sent to the administrator
 
 ## RTS 6 - Free Play Games
@@ -451,7 +451,7 @@ behaviour of play-for-free games.
 
 **RTS requirement 6A**
 Play-for-free games must implement the same game rules as the corresponding play-for-money
-games offered on the same facilities (ie the same website). Operators must take all reasonable
+games offered on the same facilities (i.e. the same website). Operators must take all reasonable
 steps to ensure that play-for-free games accurately represent the likelihood of winning and prize
 distribution in the play-for-money game. For the purpose of this requirement playing a game
 includes participating in a lottery and/or betting on a virtual event.
@@ -466,7 +466,7 @@ b. Where 6A is not reasonably possible, it should be demonstrated that the metho
 producing outcomes does not introduce a systematic bias, for example:
 i. if tables of random numbers are used, they should be sufficiently long to support a
 large number of games without repeating
-ii. the method should represent game probabilities accurately, ie it should not produce
+ii. the method should represent game probabilities accurately, i.e. it should not produce
 a higher than expected proportion of winning outcomes.
 c. The prize distribution should accurately represent the play-for-money game. For example,
 where play-for-free games use virtual cash, the virtual cash payouts should be the same
@@ -475,8 +475,8 @@ tokens as prizes should be proportionate to the stakes and prizes in the play-fo
 game.
 d. Where videos are used to advertise a game’s features it should be made clear to
 consumers where footage has been edited or sped-up for promotional purposes. Similarly,
-where a non-consumer (eg supplier’s) website is demonstrating a game with higher than
-normal returns (ie on a website that is different to the real money gambling facility
+where a non-consumer (e.g. supplier’s) website is demonstrating a game with higher than
+normal returns (i.e. on a website that is different to the real money gambling facility
 websites) it should be made clear that it is a demonstration game specifically designed to
 demonstrate the bonus features.
 
@@ -501,7 +501,7 @@ To ensure that games and other virtual events operate fairly.
 Random number generation and game results must be ‘acceptably random’. Acceptably random
 here means that it is possible to demonstrate to a high degree of confidence that the output of the
 RNG, game, lottery and virtual event outcomes are random through, for example, statistical
-analysis using generally accepted tests and methods of analysis. Adaptive behaviour (ie a
+analysis using generally accepted tests and methods of analysis. Adaptive behaviour (i.e. a
 compensated game) is not permitted.
 Where lotteries use the outcome of other events external to the lottery, to determine the result of
 the lottery the outcome must be unpredictable and externally verifiable.
@@ -531,7 +531,7 @@ c. For games or virtual events that use the laws of physics to generate the outc
 game (mechanical RNGs), the mechanical RNG used should be capable of meeting the
 requirements in a. where applicable and in addition:
 i. the mechanical pieces should be constructed of materials to prevent decomposition of
-any component over time (eg a ball shall not disintegrate)
+any component over time (e.g. a ball shall not disintegrate)
 ii. the properties of physical items used to choose the selection should not be altered
 iii. players should not have the ability to interact with, come into physical contact with, or
 manipulate the mechanics of the game.
@@ -542,7 +542,7 @@ different set of rules, if they are based on the occurrence of random events
 
 > **Implementation**   
 A. Our RNG is tested and certified by a 3rd party to produce uniformly random outcomes over the entire output range
-B. Our RNG is routinely internaly tested to pass Die Hard tests
+B. Our RNG is routinely internally tested to pass Die Hard tests
 C.  We do not currently allow any outside process to determine the outcome of the RNG 
 
 
@@ -557,7 +557,7 @@ a. Games should implement the rules as described in the rules available to the c
 before play commenced.
 b. The mapping of the random inputs to game outcomes should be in accordance with
 prevailing probabilities, pay tables, etc.
-c. When random numbers, scaled or otherwise, are received, eg following a game requesting
+c. When random numbers, scaled or otherwise, are received, e.g. following a game requesting
 a sequence of random numbers, they are to be used in the order in which they are received.
 For example, they may not be discarded due to adaptive behaviour.
 d. Numbers or sequences of numbers are not to be discarded, unless they fall outside the
@@ -566,7 +566,7 @@ in an error being logged and investigated.
 
 
 > **Implementation**   
-A. Game logic is implemented and tested agains the rules available to Customers
+A. Game logic is implemented and tested against the rules available to Customers
 B. Pay Tables are used to determine the prizes won by players
 C. Numbers are not discarded in any adaptive fashion 
 
@@ -612,7 +612,7 @@ it is available for gambling, except as provided for in the rules of the game, l
 Such changes must be brought to customer’s attention.
 
 **RTS implementation guidance 7D**
-a. Changes to game or event rules, paytables or other parameters that change the way in
+a. Changes to game or event rules, pay tables or other parameters that change the way in
 which a game, lottery, or event works, the winnings paid, or likelihood of winning (except as
 described in 7Dc), should be conducted with the game or event taken offline or suspended.
 
@@ -632,17 +632,17 @@ iii. games with progressive jackpots, where the amount that can be won changes o
 time
 iv. games with bonus rounds where different rules apply, so long as these rounds are
 properly described to the customer
-v. unspecified changes to rules, paytables or other parameters that change the way in
+v. unspecified changes to rules, pay tables or other parameters that change the way in
 which a game, lottery or event works are not permitted, for example, rules that state
 ‘game rules may be changed at any time’ would not be acceptable
 
 > **Implementation**   
-A. There are no changes to the paytables of the game, except in the following cases:
+A. There are no changes to the pay tables of the game, except in the following cases:
 i) The prize pool increases as new entries are joined into the pool
 ii) The estimated prize pool is not met before a tournament is started and the available prize pool is shown instead (In this case the game rules will clearly describe the process)
 B) Where progressive jackpot increases 
-C) The odds and rules of a game cannot be changed in the system once the game is made public and players have joined the game - it is technicaly not possible
-i) In order to change the rules of the game, our system requires that the game be stopped, all entries refunded and the game restarted which forces players to view the new rules (If any) and join the game if they so wish
+C) The odds and rules of a game cannot be changed in the system once the game is made public and players have joined the game - it is technically not possible
+i) In order to change the rules of the game, our system requires that the game be stopped, all entries refunded, and the game restarted which forces players to view the new rules (If any) and join the game if they so wish
 
 
 
@@ -678,11 +678,11 @@ or other strategy advice is misleading.
 **RTS requirement 8A**
 The gambling system must provide easily accessible facilities that:
 a. make available the following three controls, each of which stops auto-play functionality
-when it is triggeredi. ‘loss limit’, ie where the player selects an option to not lose more than X from their
+when it is triggered. ‘loss limit’, i.e. where the player selects an option to not lose more than X from their
 starting balance, where X is an amount that can be selected by the player. A ‘loss’ in
 this context equates to accumulated auto-play bets minus accumulated auto-play
 wins.
-ii. ‘single win limit’ ie single win greater than Y where Y is an amount that can be
+ii. ‘single win limit’ i.e. single win greater than Y where Y is an amount that can be
 selected by the player and
 iii. ‘jackpot win’ (where applicable).
 b. require auto-play to be implemented in such a way that each time a customer chooses to
@@ -700,7 +700,7 @@ commences, as set out in RTS 7E).
 A. We do not offer any "Auto Play" Facilities for gambling
 B. Players may pre-pay and subscribe to be entered into future games using the same plays they made in the first game
 C. The number of pre-paid subscriptions to games (i.e. Lottery games) does not exceed 100
-D. In the case lottery subscriptions the players subscription runs indefinetley until it is cancelled
+D. In the case lottery subscriptions the players subscription runs indefinitely until it is cancelled
 E. Subscriptions do not override any other functionality and the results of each game in the subscription is available immediately thereafter
 
 ### RTS 8B
@@ -720,7 +720,7 @@ Player (RTP) for the game over time.
 A. Our games are based on statistical probability 
 B. Random picks (i.e. quick pick in a LottoRace/Lottery game) will produce the same results as any other strategy
 D. Random lottery subscriptions will produce the same results as any other lottery strategy
-C. Raffle games do not have any strategy as the player is automatially assigned a sequential ticket number
+C. Raffle games do not have any strategy as the player is automatically assigned a sequential ticket number
 
 
 ## RTS 9 - Progressive Jackpots
@@ -747,7 +747,7 @@ c. All eligible players should be able to see the current jackpot values and the
 updated as frequently as is practicable, particularly after the amount has been reset
 following a win.
 d. Where a jackpot is capped at a ceiling value, an explanation of how subsequent player
-contributions are handled should be provided (eg the operation of any redirected overflow
+contributions are handled should be provided (e.g. the operation of any redirected overflow
 or reserve pools)
 
 > **Implementation**
@@ -824,9 +824,9 @@ ii. other failures should be dealt with fairly on a case-by-case basis.
 
 > **Implementation**
 A. The system is able to handle any interruptions to gaming by recovering the system to the pre-interrupted states upon restoration
-B. Players are not disadvantaged in any way due to unforseen interruption as all games are statefull and are restored to their previous state
-C. In the event that a critical unforseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
-D. In the event of an unrecoverable error, the game can be voided and fees refunded to players
+B. Players are not disadvantaged in any way due to unforeseen interruption as all games are stateful and are restored to their previous state
+C. In the event that a critical unforeseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
+D. In the event of an unrecoverable error, the game can be voided, and fees refunded to players
 
 ### RTS 10B
 
@@ -848,14 +848,14 @@ appropriate:
 • number of tokens collected
 • any other predetermined information, such as maps or prize layouts
 • the value of any progressive jackpots
-• the state of any gambles, eg who has staked what on what outcome
+• the state of any gambles, e.g. who has staked what on what outcome
 • bets placed or offered.
 b. For peer-to-peer betting, it should be possible to suspend betting markets manually or automatically
 
 
 > **Implementation**
-A. In the event that a critical unforseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
-B. In the event of an unrecoverable error, the game can be voided and fees refunded to players
+A. In the event that a critical unforeseen failure causes the game logic to output values outside of the game range, the game can be reset and re-ran
+B. In the event of an unrecoverable error, the game can be voided, and fees refunded to players
 C. Sufficient information is maintained about each Customer and their respective plays in each game such that the game can be restored to its pre-failure state
 
 ### RTS 10C
@@ -867,7 +867,7 @@ various different circumstances.
 **RTS implementation guidance 10C**
 Operators should make information available to customers about how they will be treated in
 various common scenarios. However, this does not mean that operators have to detail all possible
-scenarios or responses to service interrup
+scenarios or responses to service interruptions
 
 > **Implementation**
 A. We do not have any common failure scenarios. In the event of any service interruption, systems and games are restored to their pre-failure state.
@@ -909,7 +909,7 @@ iv. unusual gameplay statistics
 d. Customer complaints about cheating should be investigated.
 e. Records should be kept of investigations which result in an account being closed including:
 i. player details (name, location, which licence the activity was in reliance on), scale of
-the offences (financial and number of players), time and date etc
+the offences (financial and number of players), time and date etc.
 ii. the reason for investigation (including whether it was initiated by customer contact)
 and the outcome
 iii. any relevant evidence such as reports, screenshots, chat history etc. This
@@ -972,7 +972,7 @@ a particular duration
 ii. spend limits: where the amount a customer spends on gambling (or specific gambling
 products) is restricted for a given period – this type of limit may be appropriate where
 the customer does not hold a deposit account with the operator
-iii. loss limits: where the amount lost (ie winnings subtracted from the amount spent) is
+iii. loss limits: where the amount lost (i.e. winnings subtracted from the amount spent) is
 restricted (for instance when a customer makes a £10 bet and wins £8, the loss is £2).
 d. The period/duration of the limits on offer should include:
 i. 24 hours and
@@ -996,10 +996,10 @@ to be deposited is £10 per day and £70 per week.
 
 > **Implementation**
 A. The Customer is asked to provide the limits as the final step in the registration process.
-B. The Customer can at any time update or add new limites by visting the "Responsible Gaming" section of the website accessible through Cashier & Navigation Menu
+B. The Customer can at any time update or add new limits by visiting the "Responsible Gaming" section of the website accessible through Cashier & Navigation Menu
 C. The Customer can set Daily, Weekly and Monthly Deposit limits
 D. The customer can set Weekly Wagering limits
-E. The system already has preset admin imposed deposit limits which take precedence over customer set limits if they are less.
+E. The system already has pre-set admin-imposed deposit limits which take precedence over customer set limits if they are less.
 F. If the customer has multiple limits, the lower will apply
 Screenshot of the Responsible Gaming section 
 ![Responsible Gaming](/uploads/responsible-gaming.png "Responsible Gaming")
@@ -1020,7 +1020,7 @@ This is manual process initiated via a written customer request.
 Please ensure that your staff is trained to handle such customer requests and to handle them in the following manner
 If the Customer is requesting to increase their deposit and wagering limit from its previously set customer limit, take the following steps
 i. Remind the customer that they set these limits for a reason and they should take care to play responsibly
-ii. Inform the customer that they must send another followup request after 24 hours from the time of their initial change request
+ii. Inform the customer that they must send another follow-up request after 24 hours from the time of their initial change request
 iii. Do not follow up with the Customer and leave it to the Customer to follow up after the 24 hours
 iv. If the Customer sends a follow up request after 24 hours has lapsed, then increase the wagering limits to a value no greater than the system default limits
 If the Customer is requesting to further decrease their deposit limit and further restrict their gaming activity, then perform the decrease right away
@@ -1074,7 +1074,7 @@ and where a default time period is offered it must be set at the minimum
 b. The reality check should continue to appear at the selected time intervals until the
 customer’s gaming session ends (see definition of terms) or the customer exits their
 account (this will depend on solutions i ii iii below). If a customer is participating in multiple
-gaming sessions at once (eg playing bingo as well as participating in slots games in
+gaming sessions at once (e.g. playing bingo as well as participating in slots games in
 between draws) the gaming session began when the player commenced with the first
 product. The reality check facility could be implemented via one of the following ways:
 i. Player account level implementation. There are two potential solutions for
@@ -1082,7 +1082,7 @@ account level implementation. The optimum approach would enable customers to
 set a reality check reminder for their account, which would commence at the start
 of the first gaming session and roll over to subsequent sessions. An alternative
 solution would be for the reality check to commence before a customer accesses a
-gaming session (eg at account log in stage). The second solution would meet the
+gaming session (e.g. at account log in stage). The second solution would meet the
 requirement although it would not take into account natural breaks in play, such as
 when customers are in the casino lobby.
 ii. Product level implementation. This approach will enable a customer to set a
@@ -1110,8 +1110,8 @@ commencing until the player has acknowledged the reality check.
 
 
 > **Implementation**
-A) A reality check is displayed to the player after each 60 minute period
-B) The player cannot perform any action until they have acknowledge the reality check
+A) A reality check is displayed to the player after each 60-minute period
+B) The player cannot perform any action until they have acknowledged the reality check
 C) The player can adjust the frequency of the reality check
 D) The player can log out
 E) The player can directly access Cashier History to view all recent transactions on their account
@@ -1137,7 +1137,7 @@ a. By actively encourage, we mean the inclusion of specific features, functions 
 information that could reasonably be expected to encourage a greater likelihood of the
 behaviours described occurring. For example:
 i. the amount of funds taken into a product should not be topped up without the
-customer choosing to do so on each occasion, eg when a customer buys-in at a
+customer choosing to do so on each occasion, e.g. when a customer buys-in at a
 poker table they should have to choose to purchase more chips to play at the table
 - automatic re-buys should not be provided
 ii. written or graphical information should not encourage customers to try to win back
@@ -1146,7 +1146,7 @@ iii. customers who have chosen to exit a game should not be encouraged to contin
 playing by, for example, being offered a free game.
 b. This requirement is not intended to prevent operators from offering special features or
 well-known games such as blackjack that allow customers to increase their stake on
-the occurrence of specific events (eg split).
+the occurrence of specific events (e.g. split).
 
 
 > **Implementation**
