@@ -1117,6 +1117,7 @@ B) The player cannot perform any action until they have acknowledged the reality
 C) The player can adjust the frequency of the reality check
 D) The player can log out
 E) The player can directly access Cashier History to view all recent transactions on their account
+![Reality Check](/uploads/reality-check.png "Reality Check")
 
 
 ## RTS 14 - Responsible Design
