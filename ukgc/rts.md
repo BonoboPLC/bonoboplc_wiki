@@ -31,7 +31,7 @@ customer service agent or automated response system
 > **Implementation**  
 a. The Customer is able to view balance on the navigation bar at all times
 b. The Customer is able to access "Cashier History" to view previous account transactions
-
+![Cashier Balance Net](/uploads/cashier-balance-net.png "Cashier Balance Net")
 
 ### RTS 1B
 
@@ -64,7 +64,7 @@ a. The Customer is able to view all cashier transactions up to 12 months from th
     The transactions include: Deposits, Withdrawals, Credits, Buy-ins, Entry Fee, Winnings and Bonuses
 b. The Customer is able to select from pre-defined ranges to access summarised information and the Net credits/debits in the "Cashier History" section
 c. The customer is able to see all past games including the Net for each game played
-![Cashier Balance Net](/uploads/cashier-balance-net.png "Cashier Balance Net")
+![Cashier History](/uploads/cashier-history.png "Cashier History")
 
 
 ### RTS 1C
