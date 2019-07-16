@@ -1225,6 +1225,24 @@ B) Once the numbers are selected (or quick picked) the plays are entered in the 
 
 
 
+### 16C
+
+**RTS requirement 16C**
+Where operators use programs to participate in gambling on their behalf in peer-to-peer gambling,
+easily accessible information must be displayed, which clearly informs customers that the operator
+uses this kind of software.
+
+**RTS implementation guidance 16C**
+a. Peer-to-peer gambling operators that use software to gamble on their behalf (for example,
+poker robots) should display a notice to customers on the home pages or screens and in
+the game description, ‘help’ or ‘how to play/bet’ pages or screens.
+b. As a minimum, restricted display devices should provide a link to further information on
+gambling pages/screens or in ‘help’, ‘about’ or ‘how to bet/play’ pages or screens
+
+> **Implementation**
+A) Not Applicable: Lottery, Raffle and LottoRace games have no interaction during the game that could be carried out by a Bot
+B) Once the numbers are selected (or quick picked) the plays are entered in the game and no further interaction is necessary
+
 
 
 ## RTS 17
