@@ -105,16 +105,20 @@ B) Have an admin member reset their password and remove the lock
 
 ### Reset Password Via admin
 
-> Step 1.  Set account locked to "No"
+> Step 1.  Navigate to the "Password" tab on the Staff profile page
 {.is-info}
 
-> Step 2. Set a new temporary password for the Staff member
+> Step 2.  Set account locked to "No"
 {.is-info}
 
-> Step 3. Check off "Change on Login"  - This will force the staff member to change their password from the one you temporarily created to a new one of their own choosing.
+> Step 3. Set a new temporary password for the Staff member
 {.is-info}
 
-> Step 3. Click "Change"  - This will committ the change and reset the password.
+> Step 4. Check off "Change on Login"  - This will force the staff member to change their password from the one you temporarily created to a new one of their own choosing.
 {.is-info}
+
+> Step 5. Click "Change"  - This will committ the change and reset the password.
+{.is-info}
+
 
 
