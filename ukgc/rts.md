@@ -239,10 +239,10 @@ frequency of the draws
 > **Implementation**  
 A. The How To Play page describes the rules of each LottoRace, Lottery, or Raffle Game
 B. The "Rules" section which is available from each game Lobby clearly describes the Rules, Odds of Winning, and the RTP (Return to Player) of each game
-C. The odds of winning a prize in each Game are includes as part of the Game Lobby and/or Artwork
-D. Any contributions to Jackpots are shown on the entry confirmation page
-E. How to win the Jackpot is shown both in the Game description and in the Game Rules section of each Game
-F. Tutorial on how to interact with the interface is available on each Game Lobby - "tutorial"
+C. The odds of winning a prize in each Game are included as part of the Game Lobby and/or Artwork
+D. Any contributions to Jackpots are shown on the purchase confirmation page
+E. "How to win the Jackpot" is descirbed in the Game description and in the Game Rules
+F. Tutorial on how to interact with the interface is available on each Game Lobby 
 H. The rules for Lottery subscriptions are accessible from the confirmation page of the sign up flow
 
 
