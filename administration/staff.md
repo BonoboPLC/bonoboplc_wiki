@@ -87,12 +87,10 @@ Follow the 2 easy steps shown below to disable the account for a Staff member
 > Step 1.  Navigate to the Staff tab shown on the navigation
 {.is-info}
 
-![Create User Flow](/uploads/create-user-flow.png "Create User Flow")
-
-> Step 2 Search and select the user to visit the Staff detail page
+> Step 2. Search and select the user to visit the Staff detail page
 {.is-info}
 
-> Step 3 Navigate to the Access tab and change the status from Active to Banned
+> Step 3. Navigate to the Access tab and change the status from Active to Banned
 {.is-info}
 
 ![Staff Disabled](/uploads/staff-disabled.png "Staff Disabled")
