@@ -33,11 +33,13 @@ Set contact details for each Staff. Be sure to correctly enter the email address
 
 Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can set their access rights. 
 
-## Setting Agent Permissions
+## Setting Staff Access Permissions
 
 On success, you will be taken to the new User's profile page.  
 
 Go to the "Access Tab" to configure permissions for the new user. 
+
+
 
 
 
@@ -50,21 +52,23 @@ Go to the "Access Tab" to configure permissions for the new user.
 
 ## Viewing Staff Activity
 
-The system tracks all activities by your Sales Reps in real time.
+The system tracks all activities by your Staff in real time.
 
-You can view the Agent activity per Agent by going to the Agents profile, or by aggregate in the Agent Activity Feed
+You can view granular details about a Staff’s activity by going to the staffs’ profile page and navigating to the Actions tab.
+Here you will be able to see a detailed, chronological record of all the Staff’s activity on your platform.
+This feature is key for monitoring staff actions to ensure accountability and integrity of the systems operations and key configuration settings.
 
-This includes the following and more
-
-* Tickets Sales
-* Deposits
-* Payouts
-* Account Registrations
-* Failed Transactions 
 
 ![Agent Activity Tracker](/uploads/agent-activity-tracker.png "Agent Activity Tracker")
 
 
 ## Viewing changes to Staff Account & Permissions 
+
+You can view granular details about the changes made to a Staff account in the History tab.  
+This includes any changes made to Staffs profile, permission and access levels.
+This feature is key for identifying any changes made to the users account.
+
+
+## Staff Password Lockout
 
 Every Sales Agent has a Withdrawal Float Account in the system which is used for Paying Prizes.
