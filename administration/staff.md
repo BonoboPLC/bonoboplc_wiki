@@ -3,44 +3,38 @@
 # Creating Staff Accounts
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 
-Sales Agents can be anyone of your staff, an external sales representative or volunteer. 
+Staff accounts will have access to your Back-office and will be able to access the modules which you enable for them.
 
-Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets, pay winnings and much more.
+Follow the 2 easy steps shown below to create an account for a Staff member
 
-Sales Agents can operate from call centers, door to door or from retail storefronts.
-
-Follow the 2 easy steps shown below to create an account for a Sales Agent
-
-> Step 1.  Navigate to the Sales Agent tab shown on the navigation
+> Step 1.  Navigate to the Ataff tab shown on the navigation
 {.is-info}
 
-![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
 
-> Step 2 Select "Create New Agent" from the top right hand navigation
+
+> Step 2 Select "Create User" from the top right hand navigation
 {.is-info}
 
-![Create Agent](/uploads/create-agent.png "Create Agent")
 
-You will now be taken to the **Sales Agent Create Wizard**
+
+The **Create User** prompt will appear
+
+![Create User](/uploads/create-user.png "Create User")
 
 ## Set username/pw
- In the first step of the **Sales Agent Create Wizard** you'll need to set a username and temporary password for your Sales Agent.
+ In the first step of the **Sales Agent Create Wizard** you'll need to set a username and temporary password for your Staff.
  
- The agent will receive the credentials via email and will be prompted to change their password on their first log in.
-​
-![Agent Wizard Cred](/uploads/agent-wizard-cred.png "Agent Wizard Cred")
-​
-​
-​
-## Set Agent details
-​
-You will then be asked to complete a few personal details such as Name, and Birthdate.
-​
-Make sure that the personal details such as birthdate are accurate so that you can be sure your Sales Agents are of legal age.
-​
-![Agent Personal Info](/uploads/agent-personal-info.png "Agent Personal Info")
-​
-​
+ The Staff member will receive the credentials via email and will be prompted to change their password on their first log in.
+
+
+
+## Set Contact Details
+
+Complete the contact information for your new Staff Member
+
+Make sure that the personal details such as email are accurate so that you can be sure the temporary username and password is emailed to them.
+
+
 ## Set Store address
 ​
 If your agent operates out of a different physical address than your location, please enter it here.
