@@ -55,11 +55,12 @@ You can view granular details about a Staff’s activity by going to the staffs�
 Here you will be able to see a detailed, chronological record of all the Staff’s activity on your platform.
 This feature is key for monitoring staff actions to ensure accountability and integrity of the systems operations and key configuration settings.
 
-
 ![Staff Activity](/uploads/staff-activity.png "Staff Activity")
 
 
-## Viewing changes to Staff Account & Permissions 
+
+
+## Viewing Account Changes 
 
 You can view granular details about the changes made to a Staff account in the History tab.  
 This includes any changes made to Staffs profile, permission and access levels.
