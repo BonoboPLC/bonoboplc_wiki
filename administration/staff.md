@@ -7,10 +7,10 @@ Staff accounts will have access to your Back-office and will be able to access t
 
 Follow the 2 easy steps shown below to create an account for a Staff member
 
-> Step 1.  Navigate to the Ataff tab shown on the navigation
+> Step 1.  Navigate to the Staff tab shown on the navigation
 {.is-info}
 
-
+![Create User Flow](/uploads/create-user-flow.png "Create User Flow")
 
 > Step 2 Select "Create User" from the top right hand navigation
 {.is-info}
@@ -28,21 +28,7 @@ The **Create User** prompt will appear
 
 
 
-## Set Contact Details
 
-Complete the contact information for your new Staff Member
-
-Make sure that the personal details such as email are accurate so that you can be sure the temporary username and password is emailed to them.
-
-
-## Set Store address
-​
-If your agent operates out of a different physical address than your location, please enter it here.
-​
-This store address will be listed on the web site and used for referrals by other Sales Agents.
-​
-![Agent Store Location](/uploads/agent-store-location.png "Agent Store Location")
-​
 ## Setting Sales & Deposit Limits
 ​
 You can set limits on how much sales or deposit receipts an agent can have on hand. 
