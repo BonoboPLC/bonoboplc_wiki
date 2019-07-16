@@ -29,9 +29,9 @@ The **Create User** prompt will appear
 
 Set contact details for each Staff. Be sure to correctly enter the email address so that the new Staff member receives their welcome email. 
 
-## Save the new User
+## Create the new User
 
-Click "Save". On success, you will be taken to the new User's profile page. 
+Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can assign permissions to them.
 
 
 ## Setting Agent Permissions
