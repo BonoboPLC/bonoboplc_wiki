@@ -387,8 +387,8 @@ c. treating winning responses that arrive within a period of time as simultaneou
 implementing a policy on how simultaneous wins are to be dealt with
 
 > **Implementation**   
-A. Our games do not include any time critical events other than joining tournaments before the start of the tournament.
-Connection latency does not play a role in this
+A) Not Applicable: Our games do not include any time critical events 
+B) Connection latency does not play a role in the outcome of the game, it only slows the process of purchasing your ticket
 
 ### RTS 4B
 
@@ -400,7 +400,7 @@ performance.
 a. Information should be included in game descriptions, rules, ‘help’ or ‘how to play’ pages.
 
 > **Implementation**   
-Not applicable
+A) Not applicable: There are no time critical events in the game
 
 ## RTS 5 - Result Determination
 
