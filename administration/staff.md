@@ -39,10 +39,6 @@ On success, you will be taken to the new User's profile page.
 
 Go to the "Access Tab" to configure permissions for the new user. 
 
-
-
-
-
 ![Staff Permissions](/uploads/staff-permissions.png "Staff Permissions")
 
 > **Usage Note:** As soon as you update any permissions for the staff member, their existing session will be terminated and they will need to log back in.
@@ -59,7 +55,7 @@ Here you will be able to see a detailed, chronological record of all the Staffâ€
 This feature is key for monitoring staff actions to ensure accountability and integrity of the systems operations and key configuration settings.
 
 
-![Agent Activity Tracker](/uploads/agent-activity-tracker.png "Agent Activity Tracker")
+![Staff Activity](/uploads/staff-activity.png "Staff Activity")
 
 
 ## Viewing changes to Staff Account & Permissions 
