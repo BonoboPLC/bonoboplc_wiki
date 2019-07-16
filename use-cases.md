@@ -26,10 +26,6 @@
 System Administration
 
 
-How do I 
-
-
-
 How do I create accounts for my Sellers?
 How do I set Commission levels for my sellers?
 How can I protect myself against seller fraud and theft?
