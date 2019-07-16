@@ -103,7 +103,7 @@ In this case the staff member must reset their password by
 A) Using the password reset functionality included as part of the log in interface
 B) Have an admin member reset their password and remove the lock
 
-### Reset Password Via admin
+## Admin Password Reset
 
 > Step 1.  Navigate to the "Password" tab on the Staff profile page
 {.is-info}
