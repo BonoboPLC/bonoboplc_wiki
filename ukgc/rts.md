@@ -63,9 +63,8 @@ range of time periods. A summary total for the period selected should be display
 a. The Customer is able to view all cashier transactions up to 12 months from the "Cashier History" section 
     The transactions include: Deposits, Withdrawals, Credits, Buy-ins, Entry Fee, Winnings and Bonuses
 b. The Customer is able to select from pre-defined ranges to access summarised information and the Net credits/debits in the "Cashier History" section
-c. The customer is able to see all past games including the Net for each game played
 ![Cashier History](/uploads/cashier-history.png "Cashier History")
-
+c. The customer is able to see all past games including the Net for each game played
 
 ### RTS 1C
 
