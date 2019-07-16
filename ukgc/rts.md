@@ -1,5 +1,5 @@
 <!-- TITLE: UKGC RTS -->
-<!-- SUBTITLE: A quick summary of How Bonobo PLC platform meets UKGC Remote Technical Standards (June 2017) -->
+<!-- SUBTITLE: A quick summary of how the Bonobo platform meets UKGC Remote Technical Standards (June 2017) -->
 
 # Overview
 
