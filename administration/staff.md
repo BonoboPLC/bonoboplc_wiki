@@ -31,7 +31,7 @@ Set contact details for each Staff. Be sure to correctly enter the email address
 
 ## Create the new User
 
-Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can assign permissions to them.
+Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can set their access rights. 
 
 
 ## Setting Agent Permissions
@@ -45,17 +45,6 @@ Go to the "Access Tab" to configure permissions for the new user.
 
 
 
-You can set  a  **Commission Percentage** for each Sales Agent.
-​
-This is the Percentage that the Sales Agent earns from each Ticket Sale, calculated as a % of the Rake (Gross Profits) of each ticket sold. I.e. 
-​
-Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a 10% commission to the agent would net the Sales Agent a $5 Commission.
-​
-The Sales Agent can see how much they would earn for each ticket, in the game selection menu of the Sales Agent App as shown below.
-​
-![Select A Game](/uploads/select-a-game.png "Select A Game")
-​
-​
 ## Enabling Agents to Pay Prizes
 
 By default all Sales Agents are not able to process payouts.  
