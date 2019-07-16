@@ -1,4 +1,4 @@
-<!-- TITLE: Players -->
-<!-- SUBTITLE: A quick summary of Players -->
+<!-- TITLE: Managing Players -->
+<!-- SUBTITLE: An overview of Player Management -->
 
 # Header
