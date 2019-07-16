@@ -21,7 +21,7 @@ The **Create User** prompt will appear
 ![Create User](/uploads/create-user.png "Create User")
 
 ## Set username/pw
- In the first step of the **Sales Agent Create Wizard** you'll need to set a username and temporary password for your Staff.
+ In the first step of the **Staff Create prompt** you'll need to set a username and temporary password for your Staff.
  
  The Staff member will receive the credentials via email and will be prompted to change their password on their first log in.
 
@@ -33,16 +33,18 @@ Set contact details for each Staff. Be sure to correctly enter the email address
 
 Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can set their access rights. 
 
-
 ## Setting Agent Permissions
 
 On success, you will be taken to the new User's profile page.  
 
-Go to the "Access Tab" to configure permissions for the new user.
+Go to the "Access Tab" to configure permissions for the new user. 
+
+
 
 ![Staff Permissions](/uploads/staff-permissions.png "Staff Permissions")
 
-
+> **Usage Note:** As soon as you update any permissions for the staff member, their existing session will be terminated and they will need to log back in.
+{.is-success}
 
 # Managing Staff day to day
 
