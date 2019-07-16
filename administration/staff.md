@@ -1,6 +1,5 @@
 <!-- TITLE: Managing Staff -->
 <!-- SUBTITLE: A quick overview on how to create accounts for your internal Staff -->
-​
 # Creating Staff Accounts
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 ​
