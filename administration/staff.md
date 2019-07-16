@@ -16,7 +16,6 @@ Follow the 2 easy steps shown below to create an account for a Staff member
 {.is-info}
 
 
-
 The **Create User** prompt will appear
 
 ![Create User](/uploads/create-user.png "Create User")
@@ -26,31 +25,26 @@ The **Create User** prompt will appear
  
  The Staff member will receive the credentials via email and will be prompted to change their password on their first log in.
 
+## Set contact details
+
+Set contact details for each Staff. Be sure to correctly enter the email address so that the new Staff member receives their welcome email. 
+
+## Save the new User
+
+Click "Save". On success, you will be taken to the new User's profile page. 
+
+
+## Setting Agent Permissions
+
+On success, you will be taken to the new User's profile page.  
+
+Go to the "Access Tab" to configure permissions for the new user.
+
+![Staff Permissions](/uploads/staff-permissions.png "Staff Permissions")
 
 
 
-## Setting Sales & Deposit Limits
-​
-You can set limits on how much sales or deposit receipts an agent can have on hand. 
-​
-This limit helps you avoid mishaps and protect you and the sales agent against any losses.
-​
-Once the limits are reached the Sales Agent must remit any sales and deposit limits to their Manager before selling additional Tickets.
-​
-**Sales Receipt Limit**
-This is the maximum amount of Sales Receipts your agent can have on hand; effectively how much Tickets they can sell.
-Once this limit is reached the Sales Agent will need to [remit the Sales Receipts](/administration/agents#collecting-sales-receipts) to their manager, before being able to sell again.
-​
-**Deposit Receipt Limit**
-This is the maximum amount of Deposit Receipts your agent can have on hand. This is used by players to simply add money to their account and is not due to a Ticket purchase.
-Once this limit is reached the Sales Agent will need to [remit the Deposit Receipts](/administration/agents#collecting-deposit-receipts) to their manager, before being able to accept Deposits again.
-​
-You can limit the prizes that agent is able to pay.
-**Prize Payout Limit**
-This is the maximum amount that this Agent can payout in prizes to players
-​
-![Set Commissions](/uploads/set-commissions.png "Set Commissions")
-## Setting Agent Commissions
+
 You can set  a  **Commission Percentage** for each Sales Agent.
 ​
 This is the Percentage that the Sales Agent earns from each Ticket Sale, calculated as a % of the Rake (Gross Profits) of each ticket sold. I.e. 
