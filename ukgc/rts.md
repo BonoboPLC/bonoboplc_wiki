@@ -1053,7 +1053,7 @@ e. In addition, customers may be offered the ability to set a session or game-pl
 reminder.
 
 > **Implementation**
-A) We do not use full screen applications that obscure the clock
+A) Not Applicable: we do not use full screen applications that obscure the clock
 B) We have nonetheless added the elapsed Time since login on the footer of the application
 
 
@@ -1110,8 +1110,11 @@ commencing until the player has acknowledged the reality check.
 
 
 > **Implementation**
-A) We do not use full screen applications that obscure the clock
-B) We have nonetheless added the elapsed Time since login on the footer of the application
+A) A reality check is displayed to the player after each 60 minute period
+B) The player cannot perform any action until they have acknowledge the reality check
+C) The player can adjust the frequency of the reality check
+D) The player can log out
+E) The player can directly access Cashier History to view all recent transactions on their account
 
 
 ## RTS 14 - Responsible Design
@@ -1174,7 +1177,7 @@ information should be provided on easily accessible ‘help’, ‘how to’ or 
 or screens.
 
 > **Implementation**
-A) Not applicable. We do not offer in Play Betting in any form whatsoever.
+A) Not applicable: We do not offer in Play Betting in any form whatsoever.
 
 ## RTS 16 - Bots
 **RTS 16 – Use of third party software**
@@ -1245,5 +1248,35 @@ B) Once the numbers are selected (or quick picked) the plays are entered in the 
 
 
 
-## RTS 17
+## RTS 17 - Live Dealer
+Gaming (including bingo)
+This provision will come into effect 1 October 2017
+
+**RTS aim 17**
+To ensure that live dealer operations are fair.
+
+**RTS requirement 17A**
+Live dealer operations must be fair and independently auditable.
+
+**RTS implementation guidance 17A**
+a. Equipment and consumables should be of commercial casino quality. Designated staff
+should be responsible for monitoring the integrity of all operational equipment.
+b. Croupiers need to undergo adequate training to provide the gambling in a fair way
+according to documented procedures and game rules. Evidence of training and refresher
+training should be maintained.
+c. Gambling provision should be supervised by staff responsible to oversee dealer activities
+and integrity. Video surveillance to record all dealer activity should be in place, enough to
+cover the predefined gaming areas with sufficient detail to confirm whether dealing
+procedures and game rules were followed.
+d. Secure areas, gambling equipment and consumables shall be protected by appropriate
+access controls to ensure that only authorised personnel are allowed access.
+e. Game logs should be maintained and game events collated into statistics which can be
+analysed for trends relating to game performance, staff and/or locations in the gaming
+area.
+
+> **Implementation**
+A) Not Applicable: We do not offer any live dealer games
+
+
+
 
