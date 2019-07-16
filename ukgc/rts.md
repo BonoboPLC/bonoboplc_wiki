@@ -1057,6 +1057,7 @@ reminder.
 > **Implementation**
 A) Not Applicable: we do not use full screen applications that obscure the clock
 B) We have nonetheless added the elapsed Time since login on the footer of the application
+![Time On Site](/uploads/time-on-site.png "Time On Site")
 
 
 ### RTS 13B
