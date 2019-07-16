@@ -105,8 +105,12 @@ B) Have an admin member reset their password and remove the lock
 
 ## Admin Password Reset
 
+
+
 > Step 1.  Navigate to the "Password" tab on the Staff profile page
 {.is-info}
+
+![Staff Locked](/uploads/staff-locked.png "Staff Locked")
 
 > Step 2.  Set account locked to "No"
 {.is-info}
