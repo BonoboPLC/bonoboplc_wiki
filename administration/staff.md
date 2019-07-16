@@ -97,4 +97,24 @@ Follow the 2 easy steps shown below to disable the account for a Staff member
 
 ## Staff Password Lockout
 
-Every Sales Agent has a Withdrawal Float Account in the system which is used for Paying Prizes.
+Staff accounts are locked if 4 consecutive login failures occurr.  
+
+In this case the staff member must reset their password by 
+A) Using the password reset functionality included as part of the log in interface
+B) Have an admin member reset their password and remove the lock
+
+### Reset Password Via admin
+
+> Step 1.  Set account locked to "No"
+{.is-info}
+
+> Step 2. Set a new temporary password for the Staff member
+{.is-info}
+
+> Step 3. Check off "Change on Login"  - This will force the staff member to change their password from the one you temporarily created to a new one of their own choosing.
+{.is-info}
+
+> Step 3. Click "Change"  - This will committ the change and reset the password.
+{.is-info}
+
+
