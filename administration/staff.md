@@ -63,8 +63,9 @@ This feature is key for monitoring staff actions to ensure accountability and in
 ## Viewing Account Changes 
 
 You can view granular details about the changes made to a Staff account in the History tab.  
-This includes any changes made to Staffs profile, permission and access levels.
-This feature is key for identifying any changes made to the users account.
+This includes any changes made to Staffs profile, permission and access levels as well as login errors and password lockouts.
+This feature is key for identifying any changes made to the Staff's account.
+![Staff History](/uploads/staff-history.png "Staff History")
 
 
 ## Staff Password Lockout
