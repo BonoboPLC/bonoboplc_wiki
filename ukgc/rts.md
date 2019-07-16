@@ -1128,6 +1128,7 @@ or encourage problem gambling behaviour.
 Gambling products must not actively encourage customers to chase their losses, increase their
 stake or increase the amount they have decided to gamble, or continue to gamble after they have
 indicated that they wish to stop.
+
 **RTS implementation guidance 14A**
 a. By actively encourage, we mean the inclusion of specific features, functions or
 information that could reasonably be expected to encourage a greater likelihood of the
@@ -1151,7 +1152,80 @@ B) We do not trigger any auto reload or auto deposit functionality on any events
 C) We do not stop or delay players from ending their session by forcing them to provide additional confirmation to exit the session or to close the browser.
 
 
-## RTS 15
-## RTS 16
+## RTS 15 - In-Play betting
+**RTS aim 15**
+To make the customer aware that they may not have the latest information available when betting
+on live events, and that they may be at a disadvantage to operators or other customers who have
+more up-to-date information.
+
+**RTS requirement 15A**
+Information must be made available that explains that ‘live’ TV or other broadcasts are delayed
+and that others may have more up-to-date information. Main in-play betting pages must include
+this information where practicable.
+
+**RTS implementation guidance 15A**
+a. Brief information should be included on main in-play pages or screens, such as the in-play
+home page or screen. More detail should be provided in ‘help’ or ‘how to’ or other product
+pages or screens.
+b. For telephone betting the information should be included in the general betting or product
+information that is made available to and/or sent out to customers.
+c. Where a brief notice cannot be practicably included on the main pages or screens, the
+information should be provided on easily accessible ‘help’, ‘how to’ or other product pages
+or screens.
+
+> **Implementation**
+A) Not applicable. We do not offer in Play Betting in any form whatsoever.
+
+## RTS 16 - Bots
+**RTS 16 – Use of third party software**
+Peer-to-peer gambling
+The provisions highlighted green will come into effect 1 October 2017
+
+**RTS aim 16**
+To make customers in peer-to-peer gambling aware that they may be gambling against a software
+program (designed to automatically participate in gambling within certain parameters, sometimes
+referred to as a bot), or a human aided by third party software.
+
+### RTS 16A
+
+**RTS requirement 16A**
+Where peer-to-peer customers may be gambling against programs deployed by other customers
+to play on their behalf, or customers assisted by third party software, information should be made
+available that describes that this is possible, and if it is against the operator’s terms and conditions,
+how to report suspected use.
+
+**RTS implementation guidance 16A**
+a. The warning and information about how to complain should be included in game
+descriptions, rules, terms and conditions, ‘help’, ‘how to play’ or other general product
+information pages.
+b. The warning should also inform customers that if they use a program to gamble on their
+behalf, other customers may be able to exploit it.
+
+> **Implementation**
+A) Not Applicable: Lottery, Raffle and LottoRace games have no interaction during the game that could be carried out by a Bot
+B) Once the numbers are selected (or quick picked) the plays are entered in the game and no further interaction is necessary
+
+
+### RTS 16B
+
+
+**RTS requirement 16B**
+Operators must make it clear to players whether the use of third party software is permitted and if
+so which types. Operators that prohibit certain types of third party software must implement
+measures intended to deter, prevent, and detect their use.
+
+**RTS implementation guidance 16B**
+Clear, accessible information about the types of software that are permitted or prohibited should
+be included within terms and conditions and the players guide, as a minimum. This does not have
+to be an extensive list but could be a description of the key features of the software.
+
+> **Implementation**
+A) Not Applicable: Lottery, Raffle and LottoRace games have no interaction during the game that could be carried out by a Bot
+B) Once the numbers are selected (or quick picked) the plays are entered in the game and no further interaction is necessary
+
+
+
+
+
 ## RTS 17
 
