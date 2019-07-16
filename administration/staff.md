@@ -39,6 +39,12 @@ Click "Create" to complete the setup. On success, you will be taken to the new U
 
 On the Staff detail view page;  Go to the "Access Tab" to configure permissions for the new user. 
 
+Admin can specify access levels for each module. 
+
+**View Access** enables a staff member to view objects within the module, but not edit or create new ones.
+**Full Access** enable a staff member to edit and create objects within the module.
+
+See screenshot below showing various access and permission levels which can be set for an admin.
 
 ![Staff Permissions](/uploads/staff-permissions.png "Staff Permissions")
 
@@ -47,17 +53,21 @@ On the Staff detail view page;  Go to the "Access Tab" to configure permissions 
 
 # Managing Staff day to day
 
+Actions on the system are carried out by either of Staff, Agents or Players.
+The platform monitors, logs and groups over 200 critical data points and over 100 different user and system actions that can be carried out on the platform.
+These data points and activity logs provide a 360 view of the platforms’ current state and its history since inception.  
+These actions predominantly relate to System configurations, Agent profiles, Game Templates, Player Profiles, Game Tickets, Support Tickets and Payment Transactions.
+You can view these actions either by looking at a given Staffs activity and viewing all their interactions on the system, or by looking at each objects history to see changes made by any and staff or agent.
+
+
 ## Viewing Staff Activity
 
 The system tracks all activities by your Staff in real time.
-
 You can view granular details about a Staff’s activity by going to the staffs’ profile page and navigating to the Actions tab.
 Here you will be able to see a detailed, chronological record of all the Staff’s activity on your platform.
 This feature is key for monitoring staff actions to ensure accountability and integrity of the systems operations and key configuration settings.
 
 ![Staff Activity](/uploads/staff-activity.png "Staff Activity")
-
-
 
 
 ## Viewing Account Changes 
@@ -67,6 +77,25 @@ This includes any changes made to Staffs profile, permission and access levels a
 This feature is key for identifying any changes made to the Staff's account.
 ![Staff History](/uploads/staff-history.png "Staff History")
 
+
+## Disabling Staff Accounts
+
+You can easily disable access for any staff member whose account has been compromised or has been terminated.
+
+Follow the 2 easy steps shown below to disable the account for a Staff member
+
+> Step 1.  Navigate to the Staff tab shown on the navigation
+{.is-info}
+
+![Create User Flow](/uploads/create-user-flow.png "Create User Flow")
+
+> Step 2 Search and select the user to visit the Staff detail page
+{.is-info}
+
+> Step 3 Navigate to the Access tab and change the status from Active to Banned
+{.is-info}
+
+![Staff Disabled](/uploads/staff-disabled.png "Staff Disabled")
 
 ## Staff Password Lockout
 
