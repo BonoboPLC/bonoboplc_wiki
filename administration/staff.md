@@ -2,27 +2,27 @@
 <!-- SUBTITLE: A quick overview on how to create accounts for your internal Staff -->
 # Creating Staff Accounts
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
-​
+
 Sales Agents can be anyone of your staff, an external sales representative or volunteer. 
-​
+
 Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets, pay winnings and much more.
-​
+
 Sales Agents can operate from call centers, door to door or from retail storefronts.
-​
+
 Follow the 2 easy steps shown below to create an account for a Sales Agent
-​
+
 > Step 1.  Navigate to the Sales Agent tab shown on the navigation
 {.is-info}
-​
+
 ![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
-​
+
 > Step 2 Select "Create New Agent" from the top right hand navigation
 {.is-info}
-​
+
 ![Create Agent](/uploads/create-agent.png "Create Agent")
-​
+
 You will now be taken to the **Sales Agent Create Wizard**
-​
+
 ## Set username/pw
  In the first step of the **Sales Agent Create Wizard** you'll need to set a username and temporary password for your Sales Agent.
  
