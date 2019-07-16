@@ -33,11 +33,12 @@ Set contact details for each Staff. Be sure to correctly enter the email address
 
 Click "Create" to complete the setup. On success, you will be taken to the new User's profile page where you can set their access rights. 
 
+![Staff Detailview](/uploads/staff-detailview.png "Staff Detailview")
+
 ## Setting Staff Access Permissions
 
-On success, you will be taken to the new User's profile page.  
+On the Staff detail view page;  Go to the "Access Tab" to configure permissions for the new user. 
 
-Go to the "Access Tab" to configure permissions for the new user. 
 
 ![Staff Permissions](/uploads/staff-permissions.png "Staff Permissions")
 
