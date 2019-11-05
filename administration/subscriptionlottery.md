@@ -21,16 +21,21 @@ b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next
 c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
 
 # How can customers sign up?
+Customers can purchase Subscriptions, digital tickets, or printed one-time tickets.
 
 ## Online
 Players can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
+Alternatively you can enable players to purchase one time tickets.
 
 ## Retail
 Tickets can be sold at retail locations using the Sales Agent application compatible with any smart device.
+You can easily sell and print tickets by using your existing PC and thermal printer. 
 
-![Subcription Lottery Retail Sales|600x600, 20%](/uploads/600-x-600.png){ width=50% }
-![Lojjo Sumni](/uploads/lojjo-sumni.png "Lojjo Sumni")
 ## Telesales & Canvassers
+Canvassers can sign customers up directly from any smart device, including phones and tablets.
+The Sales Agent application can be accessed from any smartphone and can help you track your agents activity and sales efforts in real time.
+
+Alternatively you can use an All-in-one POS, perfectly suited for mobile ticket sellers than need to sell, print and scan tickets.
 
 
 # Can I customize my games?
