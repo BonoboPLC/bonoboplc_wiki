@@ -1,7 +1,7 @@
-<!-- TITLE: Subscriptionlottery -->
+<!-- TITLE: Monthly Lottery Subscriptions -->
 <!-- SUBTITLE: A quick summary of Subscriptionlottery -->
 
-# Monthly Lottery Subscriptions 
+# Subscription Lottery Overview 
 
 Pay as You Go Monthly Lottery subscriptions (‘Pay-Go’) enable a player to subscribe to one or more Lottery games and make equal monthly payments, over the year.
 The monthly payments per Entry are equal to (Total Games Per year * Cost Per Entry)/12 
