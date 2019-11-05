@@ -199,7 +199,7 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 
   
 # Lottery Subscription FAQ
-## Creating a Pay-Go sub
+## How do customers sign up?
 **How does the player create a subscription?**
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
 
