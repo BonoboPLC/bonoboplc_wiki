@@ -183,20 +183,26 @@ API calls list all communications made from the Bonobo platform to the payment p
 
 This list contains any event, including pulling DDI info from the processor (happens each time you view the payment info tab) as well as any change or cancellation requests submitted or received.
    
-Paying out Winnings
+## Paying Prizes
 
 After each game, winnings are instantly credited to the player’s account on the platform.
-Players can manually request payouts after that. 
-Alternatively, payout files can be created automatically after each game for manual processing through your bank. Automated Payout files need to be explicitly enabled by Bonobo. 
-The Payout file is created after each game in the following manner:  
+
+Players can manually request payouts or alternatively, payout files can be created automatically after each game for manual processing through your bank. 
+
+Automated Payout files need to be explicitly enabled by Bonobo. 
+
+**The Payout file is created after each game in the following manner:  **
+
 1.	A withdrawal request is automatically created for any player with a cash prize and existing Direct Debit payment info
 a.	This withdrawal request can be found in “Payments” 
 b.	Total winnings for the respective game is transferred from the players’ Trust Account to the players’ Pending Withdrawals account until the withdrawal is approved
+
 2.	The Payout File (CSV) is automatically created and contains entries for each of the withdrawal requests described above and contains the following
 a.	Players name
 b.	Account info
 c.	Amount to be credited (Winnings)
 d.	Bank Account info
+
 3.	The Payout File can be downloaded and used to process the payout through your bank 
 4.	Upon successfully processing through your bank, you must mark the Payout File as paid by clicking on “Mark as Paid” button
 a.	This action sets the withdrawal request to Paid
