@@ -54,7 +54,7 @@ You can see all Pay-Go Subscriptions belonging to a single player by visiting th
 **From Pay-Go Subs**
 You can view and search all Pay-Go Subscriptions that have been created by players by viewing Pay-Go Subscription as shown below:
 
- ![Tournament Tiles](/uploads/pay-go-sub-listing.png "All Players subscriptions")
+ ![Tournament Tiles](/uploads/pay-go-sub-listing2.png "All Players subscriptions")
 
 1.	Navigate to Games -> Pay-Go Subscriptions
 2.	Search for the Pay-Go subscription by any of
