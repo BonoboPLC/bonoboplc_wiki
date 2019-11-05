@@ -98,8 +98,8 @@ i.e. If a payment declines, the players' account will not be credited. The subse
 
 
 ### Upcoming Invoice & Credit Dates
-
 Invoice due dates reflect when the invoice amount is billed to the customers' bank account or Credit Card. 
+
 The credit date reflects the date on which the invoice payment is credited to the players’ account and made available to be used for purchasing tickets.  
  
 For credit card payments, this credit date is the same as the bill date. For Direct Debit payments, the credit date is at least 11 days from the bill date.
@@ -111,48 +111,50 @@ This feed includes registration, amendments, and any other jobs performed by the
 
 ## Monthly Invoices
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
+
 An Invoice has four critical components
-A)	The invoice Amount
-B)	The Bill Date – The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
-C)	The Credit Date – The date on which the invoice value gets credited to the Players account and will be available to be used by a Game Subscription
+A)	**The invoice Amount**
+B)	**The Bill Date **– The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
+C)	**The Credit Date** – The date on which the invoice value gets credited to the Players account and will be available to be used by a Game Subscription
 a.	For Credit Cards this is instant and as soon as the transaction is authorized
 b.	For Direct Debit payments, The credit date is 7 days after the bill date, allowing enough time for payment failures to be communicated back to us
-D)	The Payment Type can be one of the following
+D)	**The Payment Type** can be one of the following
 a.	Direct Debit
 b.	Credit Cards (Additional Option)
 c.	Cash Collection (Additional Option)
-The example below shows the series of monthly invoices for a Pay-Go Subscription. 
+
+**The example below shows the series of monthly invoices for a Pay-Go Subscription:**
 
 
 ### Invoice Verification Job
-
 This periodic system batch job will pick up any changes made to the Game Subscriptions by staff and reflect any required changes to the respective invoice and payment processor if needed.
 This job can also be run Manually from the Invoice Detail View, as shown below. 
  
-
 If the DDI mandate amount needs updating with the processor, an amendment request is sent to make the change.
 This update can also be done manually by pressing the “Update with Processor” button.
 
 
 
 ## Payment Info (Direct Debit)
-
 The Payment info tab displays details of the Direct Debit Instruction registered with the payment processor. 
+
 This Payment Subscription is responsible for debiting the players’ bank account every month and in turn crediting the players’ lottery account for use by upcoming Game Subscription.
  
-The bank details submitted by the player are displayed on top. 
-Account Holder
-Account Number
-Sort Code
-Payment information recorded by the payment processor is shown in the following section.
-Mandate Amount:  The total debited from the players' Bank account by, on each collection date. 
-URN: Unique Registration Number; The unique ID of this payment subscription, registered with BACS
-DDI Date: The date the Direct Debit Instruction was set up.
-First Collection Date: The first date that the customers' account is debited
-Monthly Collection Date: The recurring monthly collection day
-Next Collection Date: The upcoming collection date
-Frequency: Monthly, Daily
-Can Cancel:  If the processor will allow us to cancel
+The bank details submitted by the player are displayed near the top: 
+**Account Holder**
+**Account Number**
+**Sort Code**
+
+**Payment information recorded by the payment processor is shown in the following section:**
+
+**Mandate Amount:**  The total debited from the players' Bank account by, on each collection date. 
+**URN:** Unique Registration Number; The unique ID of this payment subscription, registered with BACS
+**DDI Date:** The date the Direct Debit Instruction was set up.
+**First Collection Date:** The first date that the customers' account is debited
+**Monthly Collection Date:** The recurring monthly collection day
+**Next Collection Date:** The upcoming collection date
+**Frequency:** Monthly, Daily
+**Can Cancel:**  If the processor will allow us to cancel
 
 ### Registering DDI flow
 
