@@ -28,7 +28,7 @@ Players can create a subscription by visiting the web site and completing the ea
 ## Retail
 Tickets can be sold at retail locations using the Sales Agent application compatible with any smart device.
 
-![Subcription Lottery Retail Sales|600x600, 20%](/uploads/600-x-600.png)
+![Subcription Lottery Retail Sales|600x600, 20%](/uploads/600-x-600.png){ width=50% }
 ## Telesales & Canvassers
 
 
