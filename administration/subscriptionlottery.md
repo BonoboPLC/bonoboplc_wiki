@@ -204,9 +204,9 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 
 
  
-# Pay-Go Monthly Subscriptions FAQ
+# Lottery Subscription FAQ
 
-How does the player create a subscription?
+**How does the player create a subscription?**
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
 How does a staff member search and view existing Monthly Subscriptions?
 You can view all monthly subscriptions by going to the Pay-Go Subscriptions section.
