@@ -207,9 +207,11 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 
  
 # Lottery Subscription FAQ
-## Creating a subscription
+## Creating a Pay-Go sub
 **How does the player create a subscription?**
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
+
+## Viewing a subscription
 How does a staff member search and view existing Monthly Subscriptions?
 You can view all monthly subscriptions by going to the Pay-Go Subscriptions section.
 1.	Navigate to Games -> Pay-Go Subs 
@@ -231,6 +233,9 @@ To edit a Game Subscription
 5.	Click Save to save your changes
  
 Note: If you are only changing the numbers on the Lines played, then the changes will be reflected in the next game. If the edits impact the Monthly total, then the Direct Debit Instruction must be amended and therefore, the change will be in effect after the next available payment cycle.
+
+## Amendments
+
 When a subscription is changed, when and how does it take effect?
 
 Changes to subscriptions do not take effect immediately unless you are only changing the numbers and not the number of plays.  
@@ -240,10 +245,13 @@ Due to the delays associated with amending Direct Debit payments, changes to sub
 Note: Changes cannot be made to subscriptions 3 days before the collection date.
  
 
+## Registered Games
 How does a staff member see which games a player has registered from their subscription?
 
 1.	Navigate to the Pay-Go Subscription Detail View 
 2.	Click on “Game Instances” Tab
+
+## Direct Debit setup time
 
 How long does it take to set up a new Direct Debit?
 
@@ -251,6 +259,7 @@ The initial time to set up a Direct Debit is 11 days.
 Since the collection day of each month is the 19th, then all subscriptions must be placed before the 8th, or they will be collected in the following month. 
 The Game Subscription will begin on the 1st of the calendar month following a successful collection. 
 
+## Which payment methods
 How can players pay for Monthly Subscriptions?
 Direct Debit and Credit Cards* can be used to pay for the Monthly Invoices generated in respect of the Game Subscriptions.
 Depending on the type of payment method used, the credits to the Players’ wallet will be either immediate (credit cards) or delayed in the case of Direct Debit payments.
@@ -258,6 +267,7 @@ This delay impacts the speed of registration and amendments, and most importantl
 In the case of Direct Debits, the delay between sign up and registering into a game can be as long as 7 weeks. 
 Bonobo can implement other payment methods upon request
 
+## Supported DD processors
 Which Direct Debit processors do you currently support in the UK?
 Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
 Bonobo can also integrate any Direct Debit Processor of your choosing for a fee.
