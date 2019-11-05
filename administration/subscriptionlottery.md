@@ -212,17 +212,20 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
 
 ## Viewing a subscription
-How does a staff member search and view existing Monthly Subscriptions?
+**How does a staff member search and view existing Monthly Subscriptions?**
+
 You can view all monthly subscriptions by going to the Pay-Go Subscriptions section.
+
 1.	Navigate to Games -> Pay-Go Subs 
 2.	You can search for a subscription by Name, URN or sign-up date
 3.	Click on “View Details” for the subscription you’d like to see
+4.	
 To view details of the respective Pay-Go Sub, click on “Details”.
 You will be taken to the Pay-Go Sub Detail View
 Alternatively, you can see the Pay-Go Subs for a specific player by going to the Player’s Detail View and scrolling down to the Pay-Go Subs tab.
 
 ## Editing a subscription
-How does a staff member edit a Game Subscription for a player?
+**How does a staff member edit a Game Subscription for a player?**
 
 You can edit a subscription at any time. Depending on how far you are from the next collection date, the change might be reflected in the current or upcoming subscription and invoice. 
 To edit a Game Subscription
@@ -235,8 +238,7 @@ To edit a Game Subscription
 Note: If you are only changing the numbers on the Lines played, then the changes will be reflected in the next game. If the edits impact the Monthly total, then the Direct Debit Instruction must be amended and therefore, the change will be in effect after the next available payment cycle.
 
 ## Amendments
-
-When a subscription is changed, when and how does it take effect?
+**When a subscription is changed, when and how does it take effect?**
 
 Changes to subscriptions do not take effect immediately unless you are only changing the numbers and not the number of plays.  
 For example, the change from 5, 10, 15, 25, 30  to  11, 12, 13, 14, 15 will take effect in the next join. Changing from 1 to 2 plays will take effect in the next calendar month or after that.
@@ -246,28 +248,32 @@ Note: Changes cannot be made to subscriptions 3 days before the collection date.
  
 
 ## Registered Games
-How does a staff member see which games a player has registered from their subscription?
+**How does a staff member see which games a player has registered from their subscription?**
 
 1.	Navigate to the Pay-Go Subscription Detail View 
 2.	Click on “Game Instances” Tab
 
 ## Direct Debit setup time
-
-How long does it take to set up a new Direct Debit?
+**How long does it take to set up a new Direct Debit?**
 
 The initial time to set up a Direct Debit is 11 days. 
 Since the collection day of each month is the 19th, then all subscriptions must be placed before the 8th, or they will be collected in the following month. 
 The Game Subscription will begin on the 1st of the calendar month following a successful collection. 
 
 ## Which payment methods
-How can players pay for Monthly Subscriptions?
+**How can players pay for Monthly Subscriptions?**
+
 Direct Debit and Credit Cards* can be used to pay for the Monthly Invoices generated in respect of the Game Subscriptions.
+
 Depending on the type of payment method used, the credits to the Players’ wallet will be either immediate (credit cards) or delayed in the case of Direct Debit payments.
 This delay impacts the speed of registration and amendments, and most importantly, the Start Date of the Game Subscriptions; the first time the player will be in a game. 
 In the case of Direct Debits, the delay between sign up and registering into a game can be as long as 7 weeks. 
-Bonobo can implement other payment methods upon request
+
+Other payment methods can be implemented upon request. 
 
 ## Supported DD processors
-Which Direct Debit processors do you currently support in the UK?
-Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
+**Which Direct Debit processors do you currently support in the UK?**
+
+Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. 
+All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
 Bonobo can also integrate any Direct Debit Processor of your choosing for a fee.
