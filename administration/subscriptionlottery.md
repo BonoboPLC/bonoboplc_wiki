@@ -47,7 +47,7 @@ c.	Status, ID, or Date create
 # Pay-Go Subscription Detail View
 The Pay-Go Subscription detail view, shown below, allows you to access all relevant information about a subscription.
  
-The top header section includes the following pertinent information:
+The **top header** section includes the following pertinent information:
 
 •	Player Name 
 •	Started-On | The sign-up day
@@ -56,15 +56,15 @@ The top header section includes the following pertinent information:
 •	Games to date |Number of games the player has played due to this Pay-Go Subscription
 •	Winnings to Date | Total Amount won by games from this Pay-Go Subscription 
 
-Use the navigation tabs to view the critical elements of a Pay-Go Subscription
+Use the **navigation tabs** to view the critical elements of a Pay-Go Subscription
 
-•	Details tab | Is the default view and displays Game Subscriptions and Activity feed
-•	Payment Info tab| Displays details of payment and its status with the payment processor
-•	Invoices tab | Displays Past & Present monthly invoices
-•	Games Instances tab | Displays all games joined stemming from this Pay-Go Subscription
-•	API Calls tab | Displays all relevant 3 Party API Calls, i.e., Payment Provider, Insurance Provider
-The functionality of each tab is described below. 
+•	**Details tab** | Is the default view and displays Game Subscriptions and Activity feed
+•	**Payment Info tab**| Displays details of payment and its status with the payment processor
+•	**Invoices tab** | Displays Past & Present monthly invoices
+•	**Games Instances tab** | Displays all games joined stemming from this Pay-Go Subscription
+•	**API Calls tab** | Displays all relevant 3 Party API Calls, i.e., Payment Provider, Insurance Provider
 
+**The functionality of each tab is described below: **
 
 ## Details 
 
