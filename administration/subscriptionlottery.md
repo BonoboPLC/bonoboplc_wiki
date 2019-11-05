@@ -41,7 +41,10 @@ You can choose from any of the games in our games Library, [Traditional Lottery 
 You, the Admin, can view all existing Pay-Go subscription in one of the two following ways:
 
 **From Player Profile**
-You can see all Pay-Go Subscriptions belonging to a single player by visiting the Player Detail View
+You can see all Pay-Go Subscriptions belonging to a single player by visiting the Player Detail View as shown below:
+
+ ![Tournament Tiles](/uploads/player-pay-go.png "Players subscriptions")
+ 
 1.	Navigate to Players Detail View
 2.	Scroll down to the Pay-Go Subs tab
 3.	You can view all Pay-Go subscriptions belonging to the player here
@@ -51,7 +54,7 @@ You can see all Pay-Go Subscriptions belonging to a single player by visiting th
 **From Pay-Go Subs**
 You can view and search all Pay-Go Subscriptions that have been created by players by viewing Pay-Go Subscription as shown below:
 
- ![Tournament Tiles](/uploads/player-pay-go.png "Players subscriptions")
+ ![Tournament Tiles](/uploads/pay-go-sub-listing.png "All Players subscriptions")
 
 1.	Navigate to Games -> Pay-Go Subscriptions
 2.	Search for the Pay-Go subscription by any of
