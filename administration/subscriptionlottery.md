@@ -22,10 +22,12 @@ c.	A Recurring Payment Subscription. This subscription instructs a payment proce
 
 # How can customers sign up?
 
-## Sign up online
+## Online
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
 
-## Sign up through Canvassers
+## Retail
+
+## Telesales & Canvassers
 
 
 # Can I customize my games?
