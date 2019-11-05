@@ -4,9 +4,12 @@
 # Subscription Lottery Overview 
 
 Pay as You Go Monthly Lottery subscriptions (‘Pay-Go’) enable a player to subscribe to one or more Lottery games and make equal monthly payments, over the year.
-The monthly payments per Entry are equal to (Total Games Per year * Cost Per Entry)/12 
+
+The monthly payments per Entry are equal to **(Total Games Per year * Cost Per Entry)/12 **
+
 Example: Weekly Lottery at $1.00 equals (52 x 1)/12 = $4.34 Per month.
-Here is the general flow
+
+Here is the general flow:
 
 Once the player signs up, the platform creates the following: 
 A)	An Account for the player
