@@ -64,7 +64,7 @@ Use the navigation tabs to view the critical elements of a Pay-Go Subscription
 The functionality of each tab is described below. 
 
 
-## Details tab
+## Details 
 
 The details tab is the default tab on the Game Subscription Detail view and includes information about the games the player has subscribed to, along with a trail of recent activity, and the status of the upcoming invoice.
 See a description of each section below.
@@ -107,7 +107,7 @@ The Activity feed contains a chronological feed of all events associated with th
 This feed includes registration, amendments, and any other jobs performed by the system and staff.
  
 
-## Monthly Invoices tab
+## Monthly Invoices
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
 An Invoice has four critical components
 A)	The invoice Amount
@@ -133,7 +133,7 @@ This update can also be done manually by pressing the “Update with Processor�
 
 
 
-## Payment Info tab
+## Payment Info (Direct Debit)
 
 The Payment info tab displays details of the Direct Debit Instruction registered with the payment processor. 
 This Payment Subscription is responsible for debiting the players’ bank account every month and in turn crediting the players’ lottery account for use by upcoming Game Subscription.
@@ -170,14 +170,15 @@ The Remote Activities section displays a list of changes made to the DDI as reco
 
 
  
-## Game Instances tab
+## Joined Games
 
 You can view all the game instances that were joined as part of this subscription here:
 Note: Any Free tickets won as a result of subscribed games will not be here. I.e. if your subscription entry wins a free ticket to another game, that game won’t be shown here.
  
-## API Calls tab
+## API Calls (Direct Debit)
 
 API calls list all communications made from the Bonobo platform to the payment processor and Vice Versa. 
+
 This list contains any event, including pulling DDI info from the processor (happens each time you view the payment info tab) as well as any change or cancellation requests submitted or received.
    
 Paying out Winnings
