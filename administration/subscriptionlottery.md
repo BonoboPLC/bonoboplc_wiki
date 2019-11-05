@@ -67,12 +67,10 @@ Use the **navigation tabs** to view the critical elements of a Pay-Go Subscripti
 **The functionality of each tab is described below: **
 
 ## Details 
-
 The details tab is the default tab on the Game Subscription Detail view and includes information about the games the player has subscribed to, along with a trail of recent activity, and the status of the upcoming invoice.
 See a description of each section below.
 
 ### Game Subscriptions
-
 Each Game Subscription is displayed in the Details section, as shown below. The list includes canceled and modified Game Subscriptions.
 
 A player can have one more active Game Subscriptions as part of a single Pay-Go Subscription.  For example, a player can subscribe to a Weekly Lottery and a Monthly Raffle within the same Pay-Go Subscription. 
@@ -108,7 +106,6 @@ For credit card payments, this credit date is the same as the bill date. For Dir
 The Activity feed contains a chronological feed of all events associated with the Pay-Go subscription.
 This feed includes registration, amendments, and any other jobs performed by the system and staff.
  
-
 ## Monthly Invoices
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
 
@@ -125,15 +122,12 @@ c.	Cash Collection (Additional Option)
 
 **The example below shows the series of monthly invoices for a Pay-Go Subscription:**
 
-
 ### Invoice Verification Job
 This periodic system batch job will pick up any changes made to the Game Subscriptions by staff and reflect any required changes to the respective invoice and payment processor if needed.
 This job can also be run Manually from the Invoice Detail View, as shown below. 
  
 If the DDI mandate amount needs updating with the processor, an amendment request is sent to make the change.
 This update can also be done manually by pressing the “Update with Processor” button.
-
-
 
 ## Payment Info (Direct Debit)
 The Payment info tab displays details of the Direct Debit Instruction registered with the payment processor. 
@@ -171,8 +165,6 @@ Any amendments made to the Account information or Mandate amount will be communi
 Remote Activities
 The Remote Activities section displays a list of changes made to the DDI as recorded by the Direct Debit processor. This list of amendments by the payment processor should match up with any changes made on the platform, which are displayed in the Activity feed. 
  
-
-
  
 ## Game Results
 
@@ -188,32 +180,24 @@ This list contains any event, including pulling DDI info from the processor (hap
 ## Paying Prizes
 
 After each game, winnings are instantly credited to the player’s account on the platform.
-
 Players can manually request payouts or alternatively, payout files can be created automatically after each game for manual processing through your bank. 
 
-Automated Payout files need to be explicitly enabled by Bonobo. 
-
-**The Payout file is created after each game in the following manner:  **
+**Automated Payout files need to be explicitly enabled by Bonobo and are created in the following manner:**
 
 1.	A withdrawal request is automatically created for any player with a cash prize and existing Direct Debit payment info
 a.	This withdrawal request can be found in “Payments” 
 b.	Total winnings for the respective game is transferred from the players’ Trust Account to the players’ Pending Withdrawals account until the withdrawal is approved
-
 2.	The Payout File (CSV) is automatically created and contains entries for each of the withdrawal requests described above and contains the following
 a.	Players name
 b.	Account info
 c.	Amount to be credited (Winnings)
 d.	Bank Account info
-
 3.	The Payout File can be downloaded and used to process the payout through your bank 
 4.	Upon successfully processing through your bank, you must mark the Payout File as paid by clicking on “Mark as Paid” button
 a.	This action sets the withdrawal request to Paid
 b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in the players' account
 
- 
-
-
- 
+  
 # Lottery Subscription FAQ
 ## Creating a Pay-Go sub
 **How does the player create a subscription?**
@@ -254,7 +238,6 @@ After submitting an amendment, the current subscription receives an end date, ty
 Due to the delays associated with amending Direct Debit payments, changes to subscriptions using Direct Debits can take as long 7 weeks to come into effect.  The estimated date where the change will come into effect is shown in the update screen and should be communicated to players when making the change.
 Note: Changes cannot be made to subscriptions 3 days before the collection date.
  
-
 ## Registered Games
 **How does a staff member see which games a player has registered from their subscription?**
 
