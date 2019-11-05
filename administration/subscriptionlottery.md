@@ -62,6 +62,8 @@ c.	Status, ID, or Date create
 # Pay-Go Subscription Details
 The Pay-Go Subscription detail view, shown below, allows you to access all relevant information about a subscription.
  
+ ![Tournament Tiles](/uploads/subscription-detail-view.png "Lottery Subscription detail view")
+ 
 The **top header** section includes the following pertinent information:
 
 •	Player Name 
