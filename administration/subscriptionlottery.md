@@ -20,10 +20,13 @@ a.	Game Subscription (s) This subscription instructs the system to join the play
 b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next calendar month, based on the Game Subscriptions described above.
 c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
 
+# How do customers sign up?
+**How does the player create a subscription?**
+The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
 
 # Accessing Subscriptions
 
-You can view all existing Pay-Go subscription in one of the two following ways:
+You, the Admin, can view all existing Pay-Go subscription in one of the two following ways:
 
 **From Player Profile**
 You can see all Pay-Go Subscriptions belonging to a single player by visiting the Player Detail View
@@ -199,9 +202,7 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 
   
 # Lottery Subscription FAQ
-## How do customers sign up?
-**How does the player create a subscription?**
-The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
+  
 
 ## Viewing a subscription
 **How does a staff member search and view existing Monthly Subscriptions?**
