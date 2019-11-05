@@ -29,6 +29,7 @@ Players can create a subscription by visiting the web site and completing the ea
 Tickets can be sold at retail locations using the Sales Agent application compatible with any smart device.
 
 ![Subcription Lottery Retail Sales|600x600, 20%](/uploads/600-x-600.png){ width=50% }
+![Lojjo Sumni](/uploads/lojjo-sumni.png "Lojjo Sumni")
 ## Telesales & Canvassers
 
 
