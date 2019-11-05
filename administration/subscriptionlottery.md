@@ -95,19 +95,19 @@ If the Player does not have a sufficient balance, the system will not be able to
 i.e. If a payment declines, the players' account will not be credited. The subsequent subscription will not execute, and the player will not be in the game. However, if in the following month, a successful payment is made and the players’ account credited, then the subscription will be successful in its next join attempt and the player will enter the game. 
 
 
-#### Upcoming Invoice & Credit Dates
+### Upcoming Invoice & Credit Dates
 
 Invoice due dates reflect when the invoice amount is billed to the customers' bank account or Credit Card. 
 The credit date reflects the date on which the invoice payment is credited to the players’ account and made available to be used for purchasing tickets.  
  
 For credit card payments, this credit date is the same as the bill date. For Direct Debit payments, the credit date is at least 11 days from the bill date.
 
-#### Activity Feed
+### Activity Feed
 The Activity feed contains a chronological feed of all events associated with the Pay-Go subscription.
 This feed includes registration, amendments, and any other jobs performed by the system and staff.
  
 
-### Monthly Invoices tab
+## Monthly Invoices tab
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
 An Invoice has four critical components
 A)	The invoice Amount
@@ -122,3 +122,138 @@ c.	Cash Collection (Additional Option)
 The example below shows the series of monthly invoices for a Pay-Go Subscription. 
 
 
+### Invoice Verification Job
+
+This periodic system batch job will pick up any changes made to the Game Subscriptions by staff and reflect any required changes to the respective invoice and payment processor if needed.
+This job can also be run Manually from the Invoice Detail View, as shown below. 
+ 
+
+If the DDI mandate amount needs updating with the processor, an amendment request is sent to make the change.
+This update can also be done manually by pressing the “Update with Processor” button.
+
+
+
+## Payment Info tab
+
+The Payment info tab displays details of the Direct Debit Instruction registered with the payment processor. 
+This Payment Subscription is responsible for debiting the players’ bank account every month and in turn crediting the players’ lottery account for use by upcoming Game Subscription.
+ 
+The bank details submitted by the player are displayed on top. 
+Account Holder
+Account Number
+Sort Code
+Payment information recorded by the payment processor is shown in the following section.
+Mandate Amount:  The total debited from the players' Bank account by, on each collection date. 
+URN: Unique Registration Number; The unique ID of this payment subscription, registered with BACS
+DDI Date: The date the Direct Debit Instruction was set up.
+First Collection Date: The first date that the customers' account is debited
+Monthly Collection Date: The recurring monthly collection day
+Next Collection Date: The upcoming collection date
+Frequency: Monthly, Daily
+Can Cancel:  If the processor will allow us to cancel
+
+### Registering DDI flow
+
+The first time a player signs up, the Direct Debit payment information entered by the player will be communicated via API to the Direct Debit processor.
+In the first few minutes after a direct debit payment is created, it will be Pending, as shown below. 
+The ‘processing’ icon next to each of the critical fields indicate that the DDI is registering with the Direct Debit payment processor.
+ 
+Upon successful confirmation from the payment processor, you will see the green arrows next to each of Account Holder, Number, and Sort Code, as shown below.
+ 
+
+Additionally, the Payment subscription will now receive a CORBACS ID and URN number. 
+This URN number is the unique identifier for this payment subscription 
+Any amendments made to the Account information or Mandate amount will be communicated to the payment processor and are verifiable in the Remote Activities section shown below.
+Remote Activities
+The Remote Activities section displays a list of changes made to the DDI as recorded by the Direct Debit processor. This list of amendments by the payment processor should match up with any changes made on the platform, which are displayed in the Activity feed. 
+ 
+
+
+ 
+## Game Instances tab
+
+You can view all the game instances that were joined as part of this subscription here:
+Note: Any Free tickets won as a result of subscribed games will not be here. I.e. if your subscription entry wins a free ticket to another game, that game won’t be shown here.
+ 
+## API Calls tab
+
+API calls list all communications made from the Bonobo platform to the payment processor and Vice Versa. 
+This list contains any event, including pulling DDI info from the processor (happens each time you view the payment info tab) as well as any change or cancellation requests submitted or received.
+   
+Paying out Winnings
+
+After each game, winnings are instantly credited to the player’s account on the platform.
+Players can manually request payouts after that. 
+Alternatively, payout files can be created automatically after each game for manual processing through your bank. Automated Payout files need to be explicitly enabled by Bonobo. 
+The Payout file is created after each game in the following manner:  
+1.	A withdrawal request is automatically created for any player with a cash prize and existing Direct Debit payment info
+a.	This withdrawal request can be found in “Payments” 
+b.	Total winnings for the respective game is transferred from the players’ Trust Account to the players’ Pending Withdrawals account until the withdrawal is approved
+2.	The Payout File (CSV) is automatically created and contains entries for each of the withdrawal requests described above and contains the following
+a.	Players name
+b.	Account info
+c.	Amount to be credited (Winnings)
+d.	Bank Account info
+3.	The Payout File can be downloaded and used to process the payout through your bank 
+4.	Upon successfully processing through your bank, you must mark the Payout File as paid by clicking on “Mark as Paid” button
+a.	This action sets the withdrawal request to Paid
+b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in the players' account
+
+ 
+
+
+ 
+# Pay-Go Monthly Subscriptions FAQ
+
+How does the player create a subscription?
+The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
+How does a staff member search and view existing Monthly Subscriptions?
+You can view all monthly subscriptions by going to the Pay-Go Subscriptions section.
+1.	Navigate to Games -> Pay-Go Subs 
+2.	You can search for a subscription by Name, URN or sign-up date
+3.	Click on “View Details” for the subscription you’d like to see
+To view details of the respective Pay-Go Sub, click on “Details”.
+You will be taken to the Pay-Go Sub Detail View
+Alternatively, you can see the Pay-Go Subs for a specific player by going to the Player’s Detail View and scrolling down to the Pay-Go Subs tab.
+
+How does a staff member edit a Game Subscription for a player?
+
+You can edit a subscription at any time. Depending on how far you are from the next collection date, the change might be reflected in the current or upcoming subscription and invoice. 
+To edit a Game Subscription
+1.	Navigate to the Pay-Go Sub Detail View for the subscription you wish to edit
+2.	Click on “Edit” for the Game Subscription you wish to amend
+3.	Use the + / -  keys to increase/decrease the number of lines
+4.	You can change the numbers by simply typing in the text field
+5.	Click Save to save your changes
+ 
+Note: If you are only changing the numbers on the Lines played, then the changes will be reflected in the next game. If the edits impact the Monthly total, then the Direct Debit Instruction must be amended and therefore, the change will be in effect after the next available payment cycle.
+When a subscription is changed, when and how does it take effect?
+
+Changes to subscriptions do not take effect immediately unless you are only changing the numbers and not the number of plays.  
+For example, the change from 5, 10, 15, 25, 30  to  11, 12, 13, 14, 15 will take effect in the next join. Changing from 1 to 2 plays will take effect in the next calendar month or after that.
+After submitting an amendment, the current subscription receives an end date, typically the end of the current month. A new Game Subscription, with the latest details is then created and set to start when the current Game Subscription Ends. 
+Due to the delays associated with amending Direct Debit payments, changes to subscriptions using Direct Debits can take as long 7 weeks to come into effect.  The estimated date where the change will come into effect is shown in the update screen and should be communicated to players when making the change.
+Note: Changes cannot be made to subscriptions 3 days before the collection date.
+ 
+
+How does a staff member see which games a player has registered from their subscription?
+
+1.	Navigate to the Pay-Go Subscription Detail View 
+2.	Click on “Game Instances” Tab
+
+How long does it take to set up a new Direct Debit?
+
+The initial time to set up a Direct Debit is 11 days. 
+Since the collection day of each month is the 19th, then all subscriptions must be placed before the 8th, or they will be collected in the following month. 
+The Game Subscription will begin on the 1st of the calendar month following a successful collection. 
+
+How can players pay for Monthly Subscriptions?
+Direct Debit and Credit Cards* can be used to pay for the Monthly Invoices generated in respect of the Game Subscriptions.
+Depending on the type of payment method used, the credits to the Players’ wallet will be either immediate (credit cards) or delayed in the case of Direct Debit payments.
+This delay impacts the speed of registration and amendments, and most importantly, the Start Date of the Game Subscriptions; the first time the player will be in a game. 
+In the case of Direct Debits, the delay between sign up and registering into a game can be as long as 7 weeks. 
+Bonobo can implement other payment methods upon request
+
+Which Direct Debit processors do you currently support in the UK?
+Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
+Bonobo can also integrate any Direct Debit Processor of your choosing for a fee.
