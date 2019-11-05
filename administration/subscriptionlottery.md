@@ -1,7 +1,7 @@
 <!-- TITLE: Monthly Lottery Subscriptions -->
 <!-- SUBTITLE: A quick summary of Subscriptionlottery -->
 
-# Subscription Lottery Overview 
+# What is a Subscription Lottery?
 
 Pay as You Go Monthly Lottery subscriptions (‘Pay-Go’) enable a player to subscribe to one or more Lottery games and make equal monthly payments, over the year.
 
@@ -21,7 +21,7 @@ b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next
 c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
 
 
-# Search & View Subscriptions
+# Accessing Subscriptions
 
 You can view all existing Pay-Go subscription in one of the two following ways:
 
@@ -44,7 +44,7 @@ c.	Status, ID, or Date create
 
 
 
-# Pay-Go Subscription Detail View
+# Pay-Go Subscription Details
 The Pay-Go Subscription detail view, shown below, allows you to access all relevant information about a subscription.
  
 The **top header** section includes the following pertinent information:
