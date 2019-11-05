@@ -251,6 +251,13 @@ The initial time to set up a Direct Debit is 11 days.
 Since the collection day of each month is the 19th, then all subscriptions must be placed before the 8th, or they will be collected in the following month. 
 The Game Subscription will begin on the 1st of the calendar month following a successful collection. 
 
+## Direct Debit support
+**Which Direct Debit processors do you currently support in the UK?**
+
+Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. 
+All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
+Bonobo can also integrate any Direct Debit Processor of your choosing for a fee.
+
 ## Supported Payment methods
 **How can players pay for Monthly Subscriptions?**
 
@@ -262,9 +269,4 @@ In the case of Direct Debits, the delay between sign up and registering into a g
 
 Other payment methods can be implemented upon request. 
 
-## Direct Debit support
-**Which Direct Debit processors do you currently support in the UK?**
 
-Bonobo has selected RapiData as its first choice Direct Debit processor, and the platform comes pre-integrated with RapiData. 
-All you need to obtain is a RapiData account, configure it into your install with a few clicks of your mouse, and you’ll be ready to accept Direct Debit payments.
-Bonobo can also integrate any Direct Debit Processor of your choosing for a fee.
