@@ -50,6 +50,9 @@ You can see all Pay-Go Subscriptions belonging to a single player by visiting th
 
 **From Pay-Go Subs**
 You can view and search all Pay-Go Subscriptions that have been created by players by viewing Pay-Go Subscription as shown below:
+
+
+
 1.	Navigate to Games -> Pay-Go Subscriptions
 2.	Search for the Pay-Go subscription by any of
 a.	URN
@@ -74,6 +77,9 @@ The **top header** section includes the following pertinent information:
 •	Winnings to Date | Total Amount won by games from this Pay-Go Subscription 
 
 Use the **navigation tabs** to view the critical elements of a Pay-Go Subscription
+
+
+ ![Tournament Tiles](/uploads/sub-det-tabs.png "Lottery Subscription sections")
 
 •	**Details tab** | Is the default view and displays Game Subscriptions and Activity feed
 •	**Payment Info tab**| Displays details of payment and its status with the payment processor
