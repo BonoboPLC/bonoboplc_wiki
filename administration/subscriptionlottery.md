@@ -20,8 +20,13 @@ a.	Game Subscription (s) This subscription instructs the system to join the play
 b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next calendar month, based on the Game Subscriptions described above.
 c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
 
-# How do customers sign up?
+# How can customers sign up?
+
+## Sign up online
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
+
+## Sign up through Canvassers
+
 
 # Can I customize my games?
 Yes, you can absolutely customize your games. 
