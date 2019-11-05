@@ -23,10 +23,12 @@ c.	A Recurring Payment Subscription. This subscription instructs a payment proce
 # How can customers sign up?
 
 ## Online
-The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
+Players can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
 
 ## Retail
+Tickets can be sold at retail locations using the Sales Agent application compatible with any smart device.
 
+![600 X 600](/uploads/600-x-600.png "600 X 600")
 ## Telesales & Canvassers
 
 
