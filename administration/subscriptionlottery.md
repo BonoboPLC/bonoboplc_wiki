@@ -275,7 +275,7 @@ In the case of Direct Debits, the delay between sign up and registering into a g
 
 Other payment methods can be implemented upon request. 
 
-## Can players Log in? 
+## Player Accounts & self-service 
 **Can players log in and manage their own subscriptions?**
 
 Yes, by default players are able to log in and manage their own account.
