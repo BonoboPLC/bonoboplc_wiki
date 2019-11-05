@@ -21,8 +21,13 @@ b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next
 c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
 
 # How do customers sign up?
-**How does the player create a subscription?**
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.
+
+# Can I customize my games?
+Yes, you can absolutely customize your games. 
+
+You can choose from any of the games in our games Library, [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games") , [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ") or [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
+
 
 # Accessing Subscriptions
 
