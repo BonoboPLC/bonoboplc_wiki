@@ -205,7 +205,7 @@ b.	It also reflects the change from Pending Withdrawals to Withdrawals Paid in t
 
  
 # Lottery Subscription FAQ
-
+## Creating a subscription
 **How does the player create a subscription?**
 The Player can create a subscription by visiting the web site and completing the easy to use Subscription Sign up form.  
 How does a staff member search and view existing Monthly Subscriptions?
@@ -217,6 +217,7 @@ To view details of the respective Pay-Go Sub, click on “Details”.
 You will be taken to the Pay-Go Sub Detail View
 Alternatively, you can see the Pay-Go Subs for a specific player by going to the Player’s Detail View and scrolling down to the Pay-Go Subs tab.
 
+## Editing a subscription
 How does a staff member edit a Game Subscription for a player?
 
 You can edit a subscription at any time. Depending on how far you are from the next collection date, the change might be reflected in the current or upcoming subscription and invoice. 
