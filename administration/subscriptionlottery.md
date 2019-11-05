@@ -172,7 +172,7 @@ The Remote Activities section displays a list of changes made to the DDI as reco
 
 
  
-## Joined Games
+## Game Results
 
 You can view all the game instances that were joined as part of this subscription here:
 Note: Any Free tickets won as a result of subscribed games will not be here. I.e. if your subscription entry wins a free ticket to another game, that game won’t be shown here.
