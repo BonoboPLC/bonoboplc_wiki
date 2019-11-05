@@ -114,7 +114,7 @@ Each month, for each Pay-Go Subscription, the system will create a new invoice f
 
 An Invoice has four critical components
 A)	**The invoice Amount**
-B)	**The Bill Date **– The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
+B)	**The Bill Date** – The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
 C)	**The Credit Date** – The date on which the invoice value gets credited to the Players account and will be available to be used by a Game Subscription
 a.	For Credit Cards this is instant and as soon as the transaction is authorized
 b.	For Direct Debit payments, The credit date is 7 days after the bill date, allowing enough time for payment failures to be communicated back to us
