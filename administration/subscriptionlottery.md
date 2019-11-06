@@ -100,7 +100,7 @@ Use the **navigation tabs** to view the critical elements of a Pay-Go Subscripti
 
 **The functionality of each tab is described below: **
 
-## Details 
+## Details (default)
 The details tab is the default tab on the Game Subscription Detail view and includes information about the games the player has subscribed to, along with a trail of recent activity, and the status of the upcoming invoice.
 See a description of each section below.
 
