@@ -178,6 +178,8 @@ The Payment info tab displays details of the Direct Debit Instruction registered
 
 This Payment Subscription is responsible for debiting the players’ bank account every month and in turn crediting the players’ lottery account for use by upcoming Game Subscription.
  
+ ![Dd Payment Success](/uploads/dd-payment-success.png "Dd Payment Success")
+ 
 The bank details submitted by the player are displayed near the top: 
 **Account Holder**
 **Account Number**
@@ -201,6 +203,8 @@ In the first few minutes after a direct debit payment is created, it will be Pen
 The ‘processing’ icon next to each of the critical fields indicate that the DDI is registering with the Direct Debit payment processor.
  
 Upon successful confirmation from the payment processor, you will see the green arrows next to each of Account Holder, Number, and Sort Code, as shown below.
+
+![Dd Payment Pending](/uploads/dd-payment-pending.png "Dd Payment Pending")
  
 
 Additionally, the Payment subscription will now receive a CORBACS ID and URN number. 
