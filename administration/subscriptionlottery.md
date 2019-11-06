@@ -146,6 +146,8 @@ For credit card payments, this credit date is the same as the bill date. For Dir
 The Activity feed contains a chronological feed of all events associated with the Pay-Go subscription.
 This feed includes registration, amendments, and any other jobs performed by the system and staff.
  
+  ![Activity Feed](/uploads/sub-activity.png "Activity Feed")
+ 
 ## Monthly Invoices
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
 
