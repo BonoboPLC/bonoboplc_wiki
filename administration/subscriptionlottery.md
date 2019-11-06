@@ -164,6 +164,8 @@ c.	Cash Collection (Additional Option)
 
 **The example below shows the series of monthly invoices for a Pay-Go Subscription:**
 
+![Sub Invoices](/uploads/sub-invoices.png "Sub Invoices")
+
 ### Invoice Verification Job
 This periodic system batch job will pick up any changes made to the Game Subscriptions by staff and reflect any required changes to the respective invoice and payment processor if needed.
 This job can also be run Manually from the Invoice Detail View, as shown below. 
