@@ -257,9 +257,10 @@ You can view all monthly subscriptions by going to the Pay-Go Subscriptions sect
 1.	Navigate to Games -> Pay-Go Subs 
 2.	You can search for a subscription by Name, URN or sign-up date
 3.	Click on “View Details” for the subscription you’d like to see
-4.	
+
 To view details of the respective Pay-Go Sub, click on “Details”.
 You will be taken to the Pay-Go Sub Detail View
+
 Alternatively, you can see the Pay-Go Subs for a specific player by going to the Player’s Detail View and scrolling down to the Pay-Go Subs tab.
 
 ## Editing a subscription
