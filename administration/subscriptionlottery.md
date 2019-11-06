@@ -137,6 +137,8 @@ i.e. If a payment declines, the players' account will not be credited. The subse
 Invoice due dates reflect when the invoice amount is billed to the customers' bank account or Credit Card. 
 
 The credit date reflects the date on which the invoice payment is credited to the players’ account and made available to be used for purchasing tickets.  
+
+ ![Credit Invoices](/uploads/invoice-credit-date.png "Invoice Credit")
  
 For credit card payments, this credit date is the same as the bill date. For Direct Debit payments, the credit date is at least 11 days from the bill date.
 
