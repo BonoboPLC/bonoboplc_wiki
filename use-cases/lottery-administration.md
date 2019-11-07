@@ -1,3 +1,11 @@
+---
+title: Lottery Administration FAQ
+description: 
+published: 1
+date: 2019-11-07T16:41:40.447Z
+tags: 
+---
+
 # How can I verify that no system components have been tampered with?
 The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
 
