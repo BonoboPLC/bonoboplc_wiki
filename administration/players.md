@@ -2,15 +2,15 @@
 title: Managing Players
 description: An overview of Player Management
 published: 1
-date: 2019-11-07T18:44:54.895Z
+date: 2019-11-07T18:49:04.435Z
 tags: 
 ---
 
 # General Info
 
-
-## Contact Details
-
+## Dashboard 
+## Contact info
+## E-mail Opt-ins
 
 ## Financial Accounts
 ### Accounts
