@@ -1,6 +1,10 @@
-<!-- TITLE: LottoRace Admin Guide-->
-<!-- SUBTITLE: How create and manage LottoRace games -->
-
+---
+title: LottoRace Admin Guide
+description: 
+published: 1
+date: 2019-11-07T14:42:18.378Z
+tags: 
+---
 
 LottoRace is a player vs. player  multi-draw Raffle game that offers Guaranteed winners in every game.
 
