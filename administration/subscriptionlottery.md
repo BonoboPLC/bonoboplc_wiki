@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-07T19:28:43.436Z
+date: 2019-11-07T19:30:08.081Z
 tags: 
 ---
 
@@ -18,12 +18,12 @@ Here is the general flow:
 
 Once the player signs up, the platform creates the following: 
 
-**A)	An Account for the player**
-**B)	A Pay-Go Subscription which is made up of the following:**
+1. **An Account for the player**
+1. **A Pay-Go Subscription which is made up of the following:**
 
-a.	Game Subscription (s) This subscription instructs the system to join the player into each upcoming game, for a specific length of time, with a particular line/selection.
-b.	Monthly Invoice (s)  The invoice calculates the total amount due for the next calendar month, based on the Game Subscriptions described above.
-c.	A Recurring Payment Subscription. This subscription instructs a payment processor to debit the player's account every month.
+- **Game Subscription (s)**  This subscription instructs the system to join the player into each upcoming game, for a specific length of time, with a particular line/selection.
+- **Monthly Invoice (s)**  The invoice calculates the total amount due for the next calendar month, based on the Game Subscriptions described above.
+- **A Recurring Payment Subscription**. This subscription instructs a payment processor to debit the player's account every month.
 
 # How can customers sign up?
 Customers can purchase Subscriptions, digital tickets, or printed one-time tickets.
