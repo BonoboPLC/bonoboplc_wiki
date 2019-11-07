@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-07T17:12:08.042Z
+date: 2019-11-07T19:10:01.309Z
 tags: 
 ---
 
@@ -214,8 +214,12 @@ Upon successful confirmation from the payment processor, you will see the green 
 
 Additionally, the Payment subscription will now receive a CORBACS ID and URN number. 
 This URN number is the unique identifier for this payment subscription 
+
 Any amendments made to the Account information or Mandate amount will be communicated to the payment processor and are verifiable in the Remote Activities section shown below.
-Remote Activities
+
+![dd-payment-success.png](/dd-payment-success.png)
+
+**Remote Activities**
 The Remote Activities section displays a list of changes made to the DDI as recorded by the Direct Debit processor. This list of amendments by the payment processor should match up with any changes made on the platform, which are displayed in the Activity feed. 
  
  
