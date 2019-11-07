@@ -1,5 +1,10 @@
-<!-- TITLE: Managing Sales Agents -->
-<!-- SUBTITLE: Common use cases for handling sales agents on a day to day basis -->
+---
+title: Sales Agent Manual
+description: Common use cases for handling sales agents on a day to day basis
+published: 1
+date: 2019-11-07T14:58:58.553Z
+tags: 
+---
 
 # How do I create accounts for my Sellers?
 
