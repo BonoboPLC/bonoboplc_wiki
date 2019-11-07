@@ -1,6 +1,10 @@
-<!-- TITLE: Retail Sales Agents Guide -->
-<!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
-
+---
+title: Retail Sales Agents Guide
+description: A complete guide to selling tickets and paying prizes
+published: 1
+date: 2019-11-07T15:14:31.200Z
+tags: 
+---
 
 # 	Sell from any Device
 
