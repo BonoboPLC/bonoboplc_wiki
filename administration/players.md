@@ -2,11 +2,11 @@
 title: Managing Players
 description: An overview of Player Management
 published: 1
-date: 2019-11-07T18:41:32.014Z
+date: 2019-11-07T18:44:54.895Z
 tags: 
 ---
 
-# Managing Players
+# General Info
 
 
 ## Contact Details
@@ -22,19 +22,20 @@ tags:
 ### Limits
 ### Self-Exclusion
 
-## Player Verification
+# Player Verification
 
 ### Verification Requests
 
 ### Supporting Documentation
 
 
-## Player Statistics
+# Player Statistics
 ### Wagers
 ### Game Activity
 ### Withdrawals
 ### Deposits
 
+# Associated Items
 
 ## Cashier Transactions
 
