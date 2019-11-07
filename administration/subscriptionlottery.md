@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-07T19:10:01.309Z
+date: 2019-11-07T19:28:43.436Z
 tags: 
 ---
 
@@ -71,9 +71,9 @@ You can view and search all Pay-Go Subscriptions that have been created by playe
 
 1.	Navigate to Games -> Pay-Go Subscriptions
 2.	Search for the Pay-Go subscription by any of
-a.	URN
-b.	Player 
-c.	Status, ID, or Date create
+- URN
+- Player 
+- Status, ID, or Date create
 3.	Click on “Details” to access the Pay-Go Subscription Detail View
 
 
@@ -85,25 +85,27 @@ The Pay-Go Subscription detail view, shown below, allows you to access all relev
  
 The **top header** section includes the following pertinent information:
 
-•	Player Name 
-•	Started-On | The sign-up day
-•	Monthly Subscription | Total monthly bill for all Game Subscriptions in this Pay-Go Sub
-•	Status | Active/Cancelled
-•	Games to date |Number of games the player has played due to this Pay-Go Subscription
-•	Winnings to Date | Total Amount won by games from this Pay-Go Subscription 
+- **Player Name** 
+- **Started-On** | The sign-up day
+- **Monthly Subscription** | Total monthly bill for all Game Subscriptions in this Pay-Go Sub
+- **Status** | Active/Cancelled
+- **Games to date** |Number of games the player has played due to this Pay-Go Subscription
+- **Winnings to Date** | Total Amount won by games from this Pay-Go Subscription 
 
 Use the **navigation tabs** to view the critical elements of a Pay-Go Subscription
 
 
  ![Tournament Tiles](/uploads/sub-det-tabs.png "Lottery Subscription sections")
 
-•	**Details tab** | Is the default view and displays Game Subscriptions and Activity feed
-•	**Payment Info tab**| Displays details of payment and its status with the payment processor
-•	**Invoices tab** | Displays Past & Present monthly invoices
-•	**Games Instances tab** | Displays all games joined stemming from this Pay-Go Subscription
-•	**API Calls tab** | Displays all relevant 3 Party API Calls, i.e., Payment Provider, Insurance Provider
+- **Details tab** | Is the default view and displays Game Subscriptions and Activity feed
+- **Payment Info tab**| Displays details of payment and its status with the payment processor
+- **Invoices tab** | Displays Past & Present monthly invoices
+- **Games Instances tab** | Displays all games joined stemming from this Pay-Go Subscription
+- **API Calls tab** | Displays all relevant 3 Party API Calls, i.e., Payment Provider, Insurance Provider
 
-**The functionality of each tab is described below: **
+> **The functionality of each tab is described below:**
+{.is-info}
+
 
 ## Details (default)
 The details tab is the default tab on the Game Subscription Detail view and includes information about the games the player has subscribed to, along with a trail of recent activity, and the status of the upcoming invoice.
@@ -120,14 +122,14 @@ A player can have one more active Game Subscriptions as part of a single Pay-Go 
 
 Each Game Subscription includes the following:
 
-A)	The Name of The Game
-B)	The  game instance ID that the player is currently registered in
-C)	The status of the subscription (Active/Cancelled) 
-D)	The Start & Ending dates of the subscription
-E)	Monthly Fee | Averaged Annually for all Plays
-F)	Play Count | Total Number of Plays
-G)	Monthly Total | Total Fee payable for this subscription per month
-H)	The players' selected number(s) 
+- **Game Name**
+- **The  Game Instance ID** that the player is currently registered in
+- **The status** of the subscription (Active/Cancelled) 
+- **The Start & Ending dates** of the subscription
+- **Monthly Fee** | Averaged Annually for all Plays
+- **Play Count** | Total Number of Plays
+- **Monthly Total** | Total Fee payable for this subscription per month
+- **The players' selected number**(s) 
 
 Periodically (daily/hourly), the platform will execute all active subscriptions and ‘attempt’ to enter players into the respective open games.
 
@@ -160,12 +162,13 @@ An Invoice has four critical components
 A)	**The invoice Amount**
 B)	**The Bill Date** – The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
 C)	**The Credit Date** – The date on which the invoice value gets credited to the Players account and will be available to be used by a Game Subscription
-a.	For Credit Cards this is instant and as soon as the transaction is authorized
-b.	For Direct Debit payments, The credit date is 7 days after the bill date, allowing enough time for payment failures to be communicated back to us
+- For Credit Cards this is instant and as soon as the transaction is authorized
+- For Direct Debit payments, The credit date is 7 days after the bill date, allowing enough time for payment failures to be communicated back to us
+
 D)	**The Payment Type** can be one of the following
-a.	Direct Debit
-b.	Credit Cards (Additional Option)
-c.	Cash Collection (Additional Option)
+- Direct Debit
+- Credit Cards (Additional Option)
+- Cash Collection (Additional Option)
 
 **The example below shows the series of monthly invoices for a Pay-Go Subscription:**
 
@@ -186,20 +189,22 @@ This Payment Subscription is responsible for debiting the players’ bank accoun
  ![Dd Payment Success](/uploads/dd-payment-success.png "Dd Payment Success")
  
 The bank details submitted by the player are displayed near the top: 
-**Account Holder**
-**Account Number**
-**Sort Code**
+- **Account Holder**
+- **Account Number**
+- **Sort Code**
 
 **Payment information recorded by the payment processor is shown in the following section:**
 
-**Mandate Amount:**  The total debited from the players' Bank account by, on each collection date. 
-**URN:** Unique Registration Number; The unique ID of this payment subscription, registered with BACS
-**DDI Date:** The date the Direct Debit Instruction was set up.
-**First Collection Date:** The first date that the customers' account is debited
-**Monthly Collection Date:** The recurring monthly collection day
-**Next Collection Date:** The upcoming collection date
-**Frequency:** Monthly, Daily
-**Can Cancel:**  If the processor will allow us to cancel
+- **Mandate Amount:**  The total debited from the players' Bank account by, on each collection date. 
+- **URN:** Unique Registration Number; The unique ID of this payment subscription, registered with BACS
+- **DDI Date:** The date the Direct Debit Instruction was set up.
+- **First Collection Date:** The first date that the customers' account is debited
+- **Monthly Collection Date:** The recurring monthly collection day
+- **Next Collection Date:** The upcoming collection date
+- **Frequency:** Monthly, Daily
+- **Can Cancel:**  If the processor will allow us to cancel
+
+
 
 ### Registering DDI flow
 
@@ -242,13 +247,13 @@ Players can manually request payouts or alternatively, payout files can be creat
 **Automated Payout files need to be explicitly enabled by Bonobo and are created in the following manner:**
 
 1.	A withdrawal request is automatically created for any player with a cash prize and existing Direct Debit payment info
-a.	This withdrawal request can be found in “Payments” 
-b.	Total winnings for the respective game is transferred from the players’ Trust Account to the players’ Pending Withdrawals account until the withdrawal is approved
+- This withdrawal request can be found in “Payments” 
+- Total winnings for the respective game is transferred from the players’ Trust Account to the players’ Pending Withdrawals account until the withdrawal is approved
 2.	The Payout File (CSV) is automatically created and contains entries for each of the withdrawal requests described above and contains the following
-a.	Players name
-b.	Account info
-c.	Amount to be credited (Winnings)
-d.	Bank Account info
+- **Players name**
+- **Account info**
+- **Amount to be credited (Winnings)**
+- **Bank Account info**
 3.	The Payout File can be downloaded and used to process the payout through your bank 
 4.	Upon successfully processing through your bank, you must mark the Payout File as paid by clicking on “Mark as Paid” button
 a.	This action sets the withdrawal request to Paid
