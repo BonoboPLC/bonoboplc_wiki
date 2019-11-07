@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-07T19:30:08.081Z
+date: 2019-11-07T19:31:44.408Z
 tags: 
 ---
 
@@ -14,7 +14,10 @@ The monthly payments per Entry are equal to **(Total Games Per year * Cost Per E
 
 Example: Weekly Lottery at $1.00 equals (52 x 1)/12 = $4.34 Per month.
 
-Here is the general flow:
+> Here is the general flow:
+> {.is-success}
+
+
 
 Once the player signs up, the platform creates the following: 
 
