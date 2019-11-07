@@ -1,5 +1,10 @@
-<!-- TITLE: Monthly Lottery Subscriptions -->
-<!-- SUBTITLE: A quick summary of Subscriptionlottery -->
+---
+title: Monthly Lottery Subscriptions
+description: A quick summary of Subscriptionlottery
+published: 1
+date: 2019-11-07T17:12:08.042Z
+tags: 
+---
 
 # What is a Subscription Lottery?
 
@@ -28,7 +33,7 @@ Players can create a subscription by visiting the web site and completing the ea
 Alternatively you can enable players to purchase one time tickets.
 
 ## Retail
-Tickets can be sold at retail locations using the Sales Agent application compatible with any smart device.
+Tickets and Subscriptions can be sold at retail locations using the Sales Agent application.
 You can easily sell and print tickets by using your existing PC and thermal printer. 
 
 ## Telesales & Canvassers
