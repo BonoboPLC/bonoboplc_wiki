@@ -2,11 +2,11 @@
 title: Lottery Administration FAQ
 description: 
 published: 1
-date: 2019-11-07T16:41:40.447Z
+date: 2019-11-07T17:26:31.432Z
 tags: 
 ---
 
-# How can I verify that no system components have been tampered with?
+# How can I verify system components?
 The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
 
 This is done by comparing the SHA256 signature of apps running on the server to the signature of verified apps uploaded by and created by our team.
