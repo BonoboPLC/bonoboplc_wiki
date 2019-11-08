@@ -2,24 +2,10 @@
 title: Lottery Administration FAQ
 description: 
 published: 1
-date: 2019-11-07T17:26:31.432Z
+date: 2019-11-08T11:14:15.000Z
 tags: 
 ---
 
-# How can I verify system components?
-The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
-
-This is done by comparing the SHA256 signature of apps running on the server to the signature of verified apps uploaded by and created by our team.
-
-To perform this check, please follow the easy steps below:
-
-1. Navigate to My Company -> Applications
-2. The verification checks will start running on load
-3. Signature of the apps currently running on the server will be compared against official releases
-4. An email indicating the results will be sent
-5. If the signatures match on all applications and on all nodes in the cluster the application can continue
-6. If any of the signatures fail to match, then the platform server will be shutdown, restricting all access to system components
-![App Verification](/uploads/app-verification.png "App Verification")
 
 # How can I see all the changes made to a Player account?
 A players account can be affected in many ways.
@@ -148,3 +134,19 @@ To view the "Fairness" report, please follow the easy steps below:
 5. Be careful to ensure that  game has been counted sufficient times before judging the deviation and results
 
 ![Fairness Standard Deviation](/uploads/fairness-standard-deviation.png "Fairness Standard Deviation")
+
+# How can I verify system components?
+The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
+
+This is done by comparing the SHA256 signature of apps running on the server to the signature of verified apps uploaded by and created by our team.
+
+To perform this check, please follow the easy steps below:
+
+1. Navigate to My Company -> Applications
+2. The verification checks will start running on load
+3. Signature of the apps currently running on the server will be compared against official releases
+4. An email indicating the results will be sent
+5. If the signatures match on all applications and on all nodes in the cluster the application can continue
+6. If any of the signatures fail to match, then the platform server will be shutdown, restricting all access to system components
+![App Verification](/uploads/app-verification.png "App Verification")
+
