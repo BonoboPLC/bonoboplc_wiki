@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-09T14:26:23.280Z
+date: 2019-11-09T14:55:37.622Z
 tags: 
 ---
 
@@ -12,7 +12,7 @@ Pay as You Go Monthly Lottery subscriptions (‘Pay-Go’) enable a player to su
 
 The monthly payments per Entry are equal to **(Total Games Per year * Cost Per Entry)/12 **
 
-Example: Weekly Lottery at $1.00 equals (52 x 1)/12 = $4.34 Per month.
+Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
 
 > Here is the general flow:
 > {.is-success}
