@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T15:50:33.127Z
+date: 2019-11-09T15:51:07.220Z
 tags: deposits, payments, withdrawals
 ---
 
@@ -40,7 +40,7 @@ tags: deposits, payments, withdrawals
 ### CDD Triggers
 
 
-## Available Payment Methods
+# Available Payment Methods
 
 ### Credit Cards
 ### Cash Payments
