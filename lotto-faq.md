@@ -2,7 +2,7 @@
 title: Frequenty Asked Questions
 description: Lottery Platform FAQ
 published: 1
-date: 2019-11-09T14:48:04.265Z
+date: 2019-11-09T14:48:53.714Z
 tags: FAQ, help
 ---
 
@@ -17,7 +17,7 @@ We'll add our most popular questions here!
 
 Please [contact us](https://bonoboplc.com/contact/) if you have any question and suggestions or would like to report an issue.
 
-##  Platform Management FAQ
+##  Administration FAQ
 
 
 [How can I create accounts for my Staff?](/administration/staff)
