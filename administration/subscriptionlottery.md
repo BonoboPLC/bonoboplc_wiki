@@ -2,7 +2,7 @@
 title: Monthly Lottery Subscriptions
 description: A quick summary of Subscriptionlottery
 published: 1
-date: 2019-11-07T19:32:36.149Z
+date: 2019-11-09T14:26:23.280Z
 tags: 
 ---
 
@@ -160,14 +160,15 @@ This feed includes registration, amendments, and any other jobs performed by the
 ## Monthly Invoices
 Each month, for each Pay-Go Subscription, the system will create a new invoice for all the active Game Subscriptions.
 
-An Invoice has four critical components
+An Invoice has the following critical components
 A)	**The invoice Amount**
 B)	**The Bill Date** – The date on which amounts is debited/authorized from the customers' bank account. This bill date will be the same for all players. 
 C)	**The Credit Date** – The date on which the invoice value gets credited to the Players account and will be available to be used by a Game Subscription
 - For Credit Cards this is instant and as soon as the transaction is authorized
 - For Direct Debit payments, The credit date is 7 days after the bill date, allowing enough time for payment failures to be communicated back to us
+D)	**The Coverage Start & End** - The period which the invoice covers
 
-D)	**The Payment Type** can be one of the following
+E)	**The Payment Type** can be one of the following
 - Direct Debit
 - Credit Cards (Additional Option)
 - Cash Collection (Additional Option)
