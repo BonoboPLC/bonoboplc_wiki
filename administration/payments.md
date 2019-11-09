@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T15:45:39.447Z
+date: 2019-11-09T15:47:34.512Z
 tags: deposits, payments, withdrawals
 ---
 
@@ -12,6 +12,28 @@ tags: deposits, payments, withdrawals
 # Payment Configuration
 
 
+
+# Accepting Deposits
+## Online Deposits
+## Retail Deposits (via Agents)
+
+## Deposit Rules
+
+## Deposit Bonus
+
+## Wagering Requirements
+
+
+# Processing Withdrawals
+## Online Withdrawals
+## Retails Withdrawals (via Agents)
+## Paying Prizes
+
+## Withdrawal Requests
+
+## Direct Debit Payout files
+
+## Withdrawal Rules
 
 
 ## Available Payment Methods
@@ -24,27 +46,3 @@ tags: deposits, payments, withdrawals
 ### Adyen
 ### LMS
 ### PayStack
-
-
-
-
-
-# Accepting Deposits
-
-### Deposit Rules
-
-### Deposit Bonus
-
-### Wagering Requirements
-
-
-# Processing Withdrawals
-
-
-### Withdrawal Requests
-
-### Direct Debit Payout files
-
-### Withdrawal Rules
-
-
