@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T16:01:35.061Z
+date: 2019-11-09T16:02:03.863Z
 tags: deposits, payments, withdrawals
 ---
 
@@ -45,7 +45,6 @@ tags: deposits, payments, withdrawals
 ### Credit Cards
 ### Cash Payments
 ### RapiData Direct Debit (UK)
-
 ### Paypal
 ### Adyen
 ### LMS
