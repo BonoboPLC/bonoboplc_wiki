@@ -2,12 +2,12 @@
 title: Frequenty Asked Questions
 description: Lottery Platform FAQ
 published: 1
-date: 2019-11-09T14:41:38.497Z
+date: 2019-11-09T14:44:29.676Z
 tags: FAQ, help
 ---
 
- <!-- TITLE: Platform Guide -->
-<!-- SUBTITLE: A complete guide for managing Games, Sales Agents, Players and more -->
+ <!-- TITLE: FAQ Home -->
+<!-- SUBTITLE: Lottery platform FAQ -->
 
 
 
@@ -15,10 +15,8 @@ tags: FAQ, help
 # A guide for Platform Managers
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more. 
 
-##  Platform Management
-Information for system administrators.
+##  Platform Management FAQ
 
-### How do I? 
 
 [How can I create accounts for my Staff?](/administration/staff)
 [How can I see all the changes made to a Player account?](/use-cases/lottery-administration#how-can-i-see-all-the-changes-made-to-a-player-account)
@@ -28,14 +26,7 @@ Information for system administrators.
 [How can I check that game outcomes are random and evenly distributed?](/use-cases/lottery-administration#how-can-i-check-that-outcomes-are-random-and-evenly-distributed)
 [How can I verify that no system components have been tampered with?](/use-cases/lottery-administration#how-can-i-verify-that-no-system-components-have-been-tampered-with)
 
-##  Games
-
-* [Game Management Overview](/administration/games "Managing your Lottery & Raffle Games")
-	* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
-	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
-	* [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ")
-
-### How do I? 
+##  Games FAQ
 
 [How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
 [How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
