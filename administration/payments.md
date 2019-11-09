@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T15:17:07.674Z
+date: 2019-11-09T15:45:39.447Z
 tags: deposits, payments, withdrawals
 ---
 
@@ -29,10 +29,7 @@ tags: deposits, payments, withdrawals
 
 
 
-# Cashier Management
-
-
-## Accepting Deposits
+# Accepting Deposits
 
 ### Deposit Rules
 
@@ -41,7 +38,7 @@ tags: deposits, payments, withdrawals
 ### Wagering Requirements
 
 
-## Processing Withdrawals
+# Processing Withdrawals
 
 
 ### Withdrawal Requests
