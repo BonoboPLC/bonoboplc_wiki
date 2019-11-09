@@ -2,11 +2,11 @@
 title: System Configuration
 description: How to configure your lottery platform to meet your needs
 published: 1
-date: 2019-11-09T15:14:44.727Z
+date: 2019-11-09T16:00:04.045Z
 tags: configuration, system
 ---
 
-> Please contact your Account Manager for access to this content.
+> **Please contact your Account Manager for access to this content.**
 {.is-warning}
 
 
