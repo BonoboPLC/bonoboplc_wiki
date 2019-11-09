@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T15:47:34.512Z
+date: 2019-11-09T15:50:33.127Z
 tags: deposits, payments, withdrawals
 ---
 
@@ -18,22 +18,26 @@ tags: deposits, payments, withdrawals
 ## Retail Deposits (via Agents)
 
 ## Deposit Rules
+### Deposit Limits
+### CDD Triggers
 
-## Deposit Bonus
+### Deposit Bonus
 
-## Wagering Requirements
+### Wagering Requirements
 
 
 # Processing Withdrawals
 ## Online Withdrawals
-## Retails Withdrawals (via Agents)
+## Retail Withdrawals (via Agents)
 ## Paying Prizes
 
-## Withdrawal Requests
+## Withdrawal Request Flow
 
-## Direct Debit Payout files
+## Direct Credit Payout Flow
 
 ## Withdrawal Rules
+### Withdrawal Limits
+### CDD Triggers
 
 
 ## Available Payment Methods
