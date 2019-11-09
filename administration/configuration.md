@@ -2,7 +2,7 @@
 title: System Configuration
 description: How to configure your lottery platform to meet your needs
 published: 1
-date: 2019-11-09T16:27:57.432Z
+date: 2019-11-09T16:31:09.308Z
 tags: configuration, system
 ---
 
@@ -25,8 +25,8 @@ tags: configuration, system
 ### Terms & Conditions
 ### Privacy
 ## Player Rules
-### Verification Methods
 ### Age Verification
+### ID Verification
 ### Email Verification
 ### Two Factor Authentication
 ### Wagering Limits
@@ -36,6 +36,13 @@ tags: configuration, system
 ### Player Betting Privileges
 
 ## Agent Rules
+### Address Verification
+### ID Verification
+### Email Verification
+### Agent Sales Privileges
+### Agent Payout Privileges
+### Agent Account Deposit Privileges
+
 ## Event Automation
 ## Batch Jobs
 ## Web Hooks
@@ -46,11 +53,15 @@ tags: configuration, system
 ## System Emails
 
 ## Custom Pages
+### Creating Pages
+### Editing Pages
+### Assigning Pages to Menu
 
 ## Site Designer
+### CSS
+### Javascript
+### REST API
 ## Applications
-
-
 
 ## Currency Settings
 ## Languages
