@@ -2,7 +2,7 @@
 title: Frequenty Asked Questions
 description: Lottery Platform FAQ
 published: 1
-date: 2019-11-09T14:44:29.676Z
+date: 2019-11-09T14:48:04.265Z
 tags: FAQ, help
 ---
 
@@ -12,8 +12,10 @@ tags: FAQ, help
 
 
 
-# A guide for Platform Managers
-Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more. 
+# Lottery Platform FAQ
+We'll add our most popular questions here!
+
+Please [contact us](https://bonoboplc.com/contact/) if you have any question and suggestions or would like to report an issue.
 
 ##  Platform Management FAQ
 
@@ -36,18 +38,4 @@ Read this if you're part of the Admin team and need to do things like creating g
 [How do I update the Game Schedule?](/use-cases/games#how-do-i-update-the-game-schedule)
 [ How do I view details of open/completed games?](/use-cases/games#how-do-i-view-details-of-open-completed-games)
 
-## Sales Agents
-
-* [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
-	* [Creating Sales Agents](/administration/agents#creating-sales-agents)
-	* [Day to Day Operation flow](/administration/agents#viewing-agent-activity)
-
-
-
-# A guide for Retail Shop Operators
-Read this if you are Selling Tickets
-
-* [Sales Agent User Guide](retail-sales-agents/ "title text!")
-	* [How to Sell Tickets](/retail-sales-agents#how-to-sell-tickets)
-	* [How to Pay Prizes](/retail-sales-agents#how-to-pay-prizes)
 
