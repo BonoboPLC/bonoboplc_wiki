@@ -2,7 +2,7 @@
 title: Marketing
 description: How to manage your campaign and promotions
 published: 1
-date: 2019-11-09T15:43:16.976Z
+date: 2019-11-09T15:43:43.473Z
 tags: 
 ---
 
@@ -11,7 +11,7 @@ tags:
 
 
 # Promotions
-## Player to Player Referalls
+## Player to Player Referals
 ## Deposit Bonus
 ## Registration Bonus
 ## Payment Registration Bonus
