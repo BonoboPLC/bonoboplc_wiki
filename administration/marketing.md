@@ -2,11 +2,11 @@
 title: Marketing
 description: How to manage your campaign and promotions
 published: 1
-date: 2019-11-09T15:43:43.473Z
+date: 2019-11-09T16:00:25.175Z
 tags: 
 ---
 
-> Please contact your Account Manager for access to this content.
+> **Please contact your Account Manager for access to this content.**
 {.is-warning}
 
 
