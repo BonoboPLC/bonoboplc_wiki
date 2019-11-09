@@ -2,7 +2,7 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-09T15:05:45.935Z
+date: 2019-11-09T15:07:38.176Z
 tags: deposits, payments, withdrawals
 ---
 
