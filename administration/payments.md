@@ -2,23 +2,26 @@
 title: Payment Management
 description: How to configure payment methods and process withdrawals and deposits
 published: 1
-date: 2019-11-08T11:05:09.581Z
+date: 2019-11-09T15:01:17.974Z
 tags: deposits, payments, withdrawals
 ---
 
 # Payment Configuration
-Your content here
+**Please contact your Account Manager for access to this content.**
 
 
 
 
 ## Available Payment Methods
 
-### Configuring RapiData
+### Credit Cards
+### Cash Payments
+### RapiData Direct Debit (UK)
 
-### Configuring Paypal
-
-### Configuring PayStack
+### Paypal
+### Adyen
+### LMS
+### PayStack (Africa)
 
 
 
