@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T17:05:17.210Z
+date: 2019-11-14T17:10:25.733Z
 tags: school lottery
 ---
 
@@ -20,7 +20,7 @@ Your content here
 ### Estimated Revenue
 Bonobo: 0.05P
 Ticket Price: 2 Pounds
-Prizes: 40%
+Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
 
 
@@ -44,6 +44,7 @@ Profits: 60%
 ### How will I recieve payment from my players?
 ### How will winners be notified?
 ### How can I pay winners their prizes?
+### Who is responsible for paying prizes?
 ### How can I report Lottery activity to my Authority?
 ### Can I also sell one time tickets?
 ### Can I customize my website Pages?
