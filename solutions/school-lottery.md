@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T23:01:21.465Z
+date: 2019-11-14T23:02:02.628Z
 tags: school lottery
 ---
 
@@ -31,7 +31,7 @@ Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 | <i class="fas fa-minus"></i> Less Estimated Prize Expense          | £0.70  | 35%                 |
 | <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.05**  | **2.5%**        |
 | <i class="fas fa-minus"></i> Less Direct Debit Fee| £0.038 | 2%                  |
-|  **Estimated Gross Revenue:**              | **£1.25**  | **60.5%**                |
+|  **Estimated Gross Profit:**              | **£1.25**  | **60.5%**                |
 
 
 
