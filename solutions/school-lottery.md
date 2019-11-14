@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T20:41:36.823Z
+date: 2019-11-14T20:42:21.578Z
 tags: school lottery
 ---
 
@@ -24,7 +24,7 @@ Profits: 60%
 
 On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
 
-This expected value is estimated to be reached over a statistically meaningful sample. 
+This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. 
 
 We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
 Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
