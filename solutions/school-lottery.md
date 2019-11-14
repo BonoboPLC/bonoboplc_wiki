@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T23:02:02.628Z
+date: 2019-11-14T23:03:23.710Z
 tags: school lottery
 ---
 
@@ -44,6 +44,25 @@ Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 
 
 
+# Setting up Direct Debit payments
+
+Using Direct Debits for your charity lottery helps ensure a reliable and predictable income for your lottery. 
+
+Bonobo's Lottery platform comes pre-integrated with <a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Rapidata</a>; one of UK's most trusted Bacs Bureaus.
+
+
+---
+
+![rapidata-direct-debit.png](/rapidata-direct-debit.png)
+ 
+
+<a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Create your account with Rapidata</a>  and let them know that you are setting up your Lottery with Bonobo.
+
+If you have already have your SUN number, setting up an account shouldn't take more than a few days.
+
+Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. 
+
+**It's as easy as that!**
 
 
 # Pre-Configured Lottery Game Templates
@@ -104,25 +123,6 @@ No risk if minimum number of tickets are sold
 
 
 
-# Setting up Direct Debit payments
-
-Using Direct Debits for your charity lottery helps ensure a reliable and predictable income for your lottery. 
-
-Bonobo's Lottery platform comes pre-integrated with <a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Rapidata</a>; one of UK's most trusted Bacs Bureaus.
-
-
----
-
-![rapidata-direct-debit.png](/rapidata-direct-debit.png)
- 
-
-<a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Create your account with Rapidata</a>  and let them know that you are setting up your Lottery with Bonobo.
-
-If you have already have your SUN number, setting up an account shouldn't take more than a few days.
-
-Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. 
-
-**It's as easy as that!**
 
 
 
