@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:57:35.312Z
+date: 2019-11-14T22:09:12.382Z
 tags: school lottery
 ---
 
@@ -33,7 +33,26 @@ When designing your Lottery, there are a few key factors that will determine the
 
 
 
-## Estimated Revenue Model - £2, 6/49 Lottery 
+
+
+
+
+# Pre-Configured Lottery Game Templates
+
+
+
+## 6/42 Lotto;  £25,000 Jackpot
+
+
+
+| 63% Expected Gross Revenue | Low Chance of Jackpot Win | Frequent Winnners |
+|----------------------------|---------------------------|----------------------------|
+|                            |      **1 in 14 Million to win £25,000 Jackpot**    |  **1 in 5 chance of winning** |
+
+
+
+
+### Estimated Revenues:  6/42 Lottery @ £2 Per Ticket
 
 |                            | Amount | Percentage|
 |----------------------------|--------|---------------------|
@@ -45,18 +64,9 @@ When designing your Lottery, there are a few key factors that will determine the
 
 
 
-
-# Pre-Configured Lottery Game Templates
-
-
-
-## 6/42 Lotto;  £25,000 Jackpot
-1 in 6 Chance of Winning a prize under 25
-1 in 14.5 Milion chance of hitting the $25,000 Jackpot
-Expected Payout: 35%
-Winning Prizes: 
-
 ## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
+
+
 1 in 5 Chance of Winning a prize under 25
 1 in 45 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 28%
