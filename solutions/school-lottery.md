@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T18:41:44.584Z
+date: 2019-11-14T18:44:34.517Z
 tags: school lottery
 ---
 
@@ -45,7 +45,11 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 
 
 
-## Can I sell Subscriptions for my school Lottery online?
+## Online Sales
+
+
+
+## Retail Sales
 
 
 ## Can I use your system for one-time games?
