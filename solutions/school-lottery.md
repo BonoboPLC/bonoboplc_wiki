@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:01:41.239Z
+date: 2019-11-14T21:04:45.993Z
 tags: school lottery
 ---
 
@@ -22,10 +22,6 @@ The low attrition rates of Direct Debit Subscription Lotteries, combined with st
 
 
 Over a period of time, your Lottery can become a significant supplement to your income.
-
-
-Because of the low cancellation
-
 
 
 
@@ -51,7 +47,21 @@ Ticket Price: 2 Pounds
 Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
 
-# Choosing Your Game
+# Choosing Your Lottery
+
+
+
+## 6/49 Lotto;  $25,000 Jackpot
+
+Expected Payout: 35%
+Winning Prizes: 
+
+## 6/60 Lotto;  $25,000 Jackpot
+
+## Fixed Prize Raffles
+No risk if minimum number of tickets are sold
+
+
 
 
 
