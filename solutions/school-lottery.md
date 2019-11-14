@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:04:45.993Z
+date: 2019-11-14T21:06:05.950Z
 tags: school lottery
 ---
 
@@ -47,7 +47,7 @@ Ticket Price: 2 Pounds
 Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
 
-# Choosing Your Lottery
+# Pre-Configured Lottery Game Templates
 
 
 
