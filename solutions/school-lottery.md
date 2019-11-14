@@ -2,19 +2,32 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T20:25:12.579Z
+date: 2019-11-14T20:41:36.823Z
 tags: school lottery
 ---
 
-# Start a Lottery for your School
-Your content here
-
-## How does it work?
+# How does it work?
 
 ![platform-overview.png](/platform-overview.png)
 
 
-## How much can I expect to make?
+# How much can I expect to make?
+
+
+### Estimated Revenue
+Bonobo: 0.05P
+Ticket Price: 2 Pounds
+Prizes: 40%*   - Based on Expected Value of your game
+Profits: 60%
+
+# Managing Prize Budgets
+
+On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
+
+This expected value is estimated to be reached over a statistically meaningful sample. 
+
+We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
+Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
 
 
 ### Estimated Revenue
@@ -63,13 +76,12 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 
 
 # FAQ
-
-
+### How can I pay winners their prizes?
+### Who is responsible for paying prizes?
 ### Can I accept Direct Debit payments?
 ### Can I accept payment via credit cards as well?
 ### How will winners be notified?
-### How can I pay winners their prizes?
-### Who is responsible for paying prizes?
+
 ### How can I report Lottery activity to my Authority?
 ### Can I also sell one time tickets?
 ### Can I customize my website Pages?
