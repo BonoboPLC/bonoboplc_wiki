@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:48:04.916Z
+date: 2019-11-14T21:50:59.723Z
 tags: school lottery
 ---
 
@@ -68,11 +68,11 @@ No risk if minimum number of tickets are sold
 
 
 
-# Managing Prize Budgets
+# Managing Lottery Prize Budgets
 
 On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
 
-This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. The more tickets you sell, you'll average prize payout will move towards this expected payout.
+This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout will move towards this expected average.
 
 
 We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
