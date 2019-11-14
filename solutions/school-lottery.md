@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T17:12:09.045Z
+date: 2019-11-14T18:41:44.584Z
 tags: school lottery
 ---
 
@@ -23,8 +23,24 @@ Ticket Price: 2 Pounds
 Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
 
-
 ## How can I accept Direct Debit payments?
+
+Using Direct Debits for your charity lottery helps ensure a reliable and predictable income for your lottery. 
+
+Bonobo's Lottery platform comes pre-integrated with RapiData, one of UK's most trusted Bacs Bureau.
+
+
+---
+
+![rapidata-direct-debit.png](/rapidata-direct-debit.png)
+ 
+
+<a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Create your account with Rapidata</a>  and let them know that you are setting up your Lottery with Bonobo.
+
+If you have already have your SUN number, setting up an account shouldn't take more than a few days.
+
+Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. It's as easy as that!
+
 
 
 
