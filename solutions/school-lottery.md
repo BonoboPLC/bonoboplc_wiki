@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:42:39.133Z
+date: 2019-11-14T21:43:26.069Z
 tags: school lottery
 ---
 
@@ -37,8 +37,8 @@ When designing your Lottery, there are a few key factors that will determine the
 
 |                            | Amount | Percentage|
 |----------------------------|--------|---------------------|
-| Ticket Price               | £2.00  | 100%                |
-| <i class="fas fa-minus"></i> Less Prize Expense          | £0.70  | 35%                 |
+| **Ticket Price**               | £2.00  | 100%                |
+| <i class="fas fa-minus"></i> Less Estimated Prize Expense          | £0.70  | 35%                 |
 | <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.05**  | **2.5%**        |
 | <i class="fas fa-minus"></i> Less Direct Debit Fee| £0.038 | 2%                  |
 |  **Estimated Gross Revenue:**              | **£1.25**  | **63%**                |
