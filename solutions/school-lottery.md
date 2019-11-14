@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T17:10:25.733Z
+date: 2019-11-14T17:12:09.045Z
 tags: school lottery
 ---
 
@@ -32,7 +32,7 @@ Profits: 60%
 ## Can I sell Subscriptions for my school Lottery online?
 
 
-## Selling Subscriptions Face 2 Face
+## Can I use your system for one-time games?
 
 
 
@@ -41,7 +41,8 @@ Profits: 60%
 # FAQ
 
 
-### How will I recieve payment from my players?
+### Can I accept Direct Debit payments?
+### Can I accept payment via credit cards as well?
 ### How will winners be notified?
 ### How can I pay winners their prizes?
 ### Who is responsible for paying prizes?
