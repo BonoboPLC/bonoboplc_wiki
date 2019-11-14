@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T23:03:23.710Z
+date: 2019-11-14T23:06:16.124Z
 tags: school lottery
 ---
 
@@ -35,16 +35,16 @@ Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 
 
 
-# Online Sales - Your own Lotto Site
+# Sell Subscriptions Online
 
 
 
-# Retail Sales - Sell Anywhere!
+# Sell via Canvassers and at Events 
 
 
 
 
-# Setting up Direct Debit payments
+# Accepting Direct Debit
 
 Using Direct Debits for your charity lottery helps ensure a reliable and predictable income for your lottery. 
 
