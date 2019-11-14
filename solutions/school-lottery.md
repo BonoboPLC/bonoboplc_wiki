@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T22:49:00.109Z
+date: 2019-11-14T22:54:54.717Z
 tags: school lottery
 ---
 
@@ -53,6 +53,9 @@ Each has their own merits and satisfy different organizational needs.
 
 
 ## 6/42 Lotto;  £25,000 Jackpot
+>**55% Estimated Gross Profit** 
+Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
+{.is-success}
 
 The 6/42 Lottery is one of the most commonly offered games.
 
@@ -61,13 +64,14 @@ It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 
 The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
 
->**55% Estimated Gross Profit** 
-Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
-{.is-success}
+
 
 
 
 ## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
+>**63% Estimated Gross Profit** 
+Choose this Game if you want to have a very low risk of paying the Jackpot. 
+{.is-success}
 
 The 6/49 + 2/19 Super Lotto is modeled after the Euromillions or Powerball.
 
@@ -75,37 +79,21 @@ It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 
 
 The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
->**63% Estimated Gross Profit** 
-Choose this Game if you want to have a very low risk of paying the Jackpot. 
-{.is-success}
+
 
 
 ## Fixed Prize Raffles
-No risk if minimum number of tickets are sold
-
-
 >**50-60% Estimated Gross Profit** 
 Choose this type of game if you have a large active userbase and can comfortably sell at least the minimum number of tickets in order to cover the cost of your prizes. 
 {.is-success}
 
+No risk if minimum number of tickets are sold
 
 
-# Managing Lottery Prize Budgets
-
-On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
-
-This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout will move towards this expected average.
 
 
-We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
-Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
 
 
-### Estimated Revenue
-Bonobo: £0.05
-Ticket Price: £2
-Prizes: 40%*   - Based on Expected Value of your game
-Profits: 60%
 
 
 ## Online Sales
@@ -149,6 +137,15 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 # FAQ
 ### How can I pay winners their prizes?
 ### Who is responsible for paying prizes?
+### How should I budget for paying prizes?
+
+On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
+
+This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout will move towards this expected average.
+
+We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
+Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
+
 ### Can I accept Direct Debit payments?
 ### Can I accept payment via credit cards as well?
 ### How will winners be notified?
