@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T20:44:14.781Z
+date: 2019-11-14T21:01:41.239Z
 tags: school lottery
 ---
 
@@ -11,9 +11,39 @@ tags: school lottery
 ![platform-overview.png](/platform-overview.png)
 
 
-# How much can I expect to make?
+# School Lottery Revenue Expectations
+
+If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
+
+Monthly Subscription lotteries supercharge this opportunity by enabling charities to easily create and then gradually grow their monthly userbase. 
+
+The low attrition rates of Direct Debit Subscription Lotteries, combined with steady marketing efforts can produce net positive increases in your subscriber base and monthly income.
 
 
+
+Over a period of time, your Lottery can become a significant supplement to your income.
+
+
+Because of the low cancellation
+
+
+
+
+
+## Factors
+
+When designing your Lottery, there are a few key factors that will determine the profitability of your Lottery.
+
+- **Portion of sales alloted to prizes**
+- **How many tickets you sell**
+- **The cost of selling each ticket**
+
+
+## Estimated Revenue
+Bonobo: 0.05P
+Ticket Price: 2 Pounds
+Prizes: 40%*   - Based on Expected Value of your game
+Profits: 60%
 
 ## Estimated Revenue
 Bonobo: 0.05P
@@ -29,7 +59,8 @@ Profits: 60%
 
 On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
 
-This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. 
+This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. The more tickets you sell, you'll average prize payout will move towards this expected payout.
+
 
 We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
 Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
