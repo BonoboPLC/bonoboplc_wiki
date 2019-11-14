@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T20:42:21.578Z
+date: 2019-11-14T20:44:14.781Z
 tags: school lottery
 ---
 
@@ -14,11 +14,16 @@ tags: school lottery
 # How much can I expect to make?
 
 
-### Estimated Revenue
+
+## Estimated Revenue
 Bonobo: 0.05P
 Ticket Price: 2 Pounds
 Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
+
+# Choosing Your Game
+
+
 
 # Managing Prize Budgets
 
