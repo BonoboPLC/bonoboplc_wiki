@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T22:09:12.382Z
+date: 2019-11-14T22:14:46.637Z
 tags: school lottery
 ---
 
@@ -25,11 +25,8 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 ## Key Factors
 
-When designing your Lottery, there are a few key factors that will determine the profitability of your Lottery.
 
-- **Prize Table** 
-- **Cost of sales** 
-- **Number of Tickets Sold**
+
 
 
 
@@ -39,16 +36,18 @@ When designing your Lottery, there are a few key factors that will determine the
 
 # Pre-Configured Lottery Game Templates
 
+When designing your Lottery, there are a few key factors that will determine the profitability that you should keep in mind.
 
+- **Prize Table**; How much will you give back to your supporters? 
+- **Cost of sales**; Can you sign up subscribers 
 
 ## 6/42 Lotto;  £25,000 Jackpot
 
 
 
-| 63% Expected Gross Revenue | Low Chance of Jackpot Win | Frequent Winnners |
-|----------------------------|---------------------------|----------------------------|
-|                            |      **1 in 14 Million to win £25,000 Jackpot**    |  **1 in 5 chance of winning** |
-
+- 63% Expected Gross Revenue 
+- **1 in 14 Million to win £25,000 Jackpot**
+- **1 in 5 chance of winning** 
 
 
 
@@ -65,6 +64,11 @@ When designing your Lottery, there are a few key factors that will determine the
 
 
 ## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
+
+
+| 63% Expected Gross Revenue | Low Chance of Jackpot Win | Frequent Winnners |
+|----------------------------|---------------------------|----------------------------|
+|                            |      **1 in 14 Million to win £25,000 Jackpot**    |  **1 in 5 chance of winning** |
 
 
 1 in 5 Chance of Winning a prize under 25
