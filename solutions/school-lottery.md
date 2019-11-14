@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:06:05.950Z
+date: 2019-11-14T21:08:29.961Z
 tags: school lottery
 ---
 
@@ -26,7 +26,15 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 
 
-## Factors
+
+## Estimated Revenue
+
+Bonobo: 0.05P
+Ticket Price: 2 Pounds
+Prizes: 40%*   - Based on Expected Value of your game
+Profits: 60%
+
+### Factors
 
 When designing your Lottery, there are a few key factors that will determine the profitability of your Lottery.
 
@@ -34,29 +42,22 @@ When designing your Lottery, there are a few key factors that will determine the
 - **How many tickets you sell**
 - **The cost of selling each ticket**
 
-
-## Estimated Revenue
-Bonobo: 0.05P
-Ticket Price: 2 Pounds
-Prizes: 40%*   - Based on Expected Value of your game
-Profits: 60%
-
-## Estimated Revenue
-Bonobo: 0.05P
-Ticket Price: 2 Pounds
-Prizes: 40%*   - Based on Expected Value of your game
-Profits: 60%
-
 # Pre-Configured Lottery Game Templates
 
 
 
 ## 6/49 Lotto;  $25,000 Jackpot
-
+1 in 6 Chance of Winning a prize under 25
+1 in 15 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 35%
 Winning Prizes: 
 
 ## 6/60 Lotto;  $25,000 Jackpot
+1 in 6 Chance of Winning a prize under 25
+1 in 15 Milion chance of hitting the $25,000 Jackpot
+Expected Payout: 28%
+Winning Prizes: 
+
 
 ## Fixed Prize Raffles
 No risk if minimum number of tickets are sold
