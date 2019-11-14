@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T22:14:46.637Z
+date: 2019-11-14T22:46:56.701Z
 tags: school lottery
 ---
 
@@ -22,8 +22,15 @@ The low attrition rates of Direct Debit Subscription Lotteries, combined with st
 Over a period of time, your Lottery can become a significant supplement to your income.
 
 
+Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 
-## Key Factors
+|                            | Amount | Percentage|
+|----------------------------|--------|---------------------|
+| **Ticket Price**               | £2.00  | 100%                |
+| <i class="fas fa-minus"></i> Less Estimated Prize Expense          | £0.70  | 35%                 |
+| <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.05**  | **2.5%**        |
+| <i class="fas fa-minus"></i> Less Direct Debit Fee| £0.038 | 2%                  |
+|  **Estimated Gross Revenue:**              | **£1.25**  | **60.5%**                |
 
 
 
@@ -41,46 +48,45 @@ When designing your Lottery, there are a few key factors that will determine the
 - **Prize Table**; How much will you give back to your supporters? 
 - **Cost of sales**; Can you sign up subscribers 
 
+You can choose between traditional Lottery games, or fixed prize games. 
+Each has their own merits and satisfy different organizational needs.
+
+
 ## 6/42 Lotto;  £25,000 Jackpot
 
+The 6/42 Lottery is one of the most commonly offered games.
+
+It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 5 Chance of winning any prize. 
+
+The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
 
-- 63% Expected Gross Revenue 
-- **1 in 14 Million to win £25,000 Jackpot**
-- **1 in 5 chance of winning** 
-
-
-
-### Estimated Revenues:  6/42 Lottery @ £2 Per Ticket
-
-|                            | Amount | Percentage|
-|----------------------------|--------|---------------------|
-| **Ticket Price**               | £2.00  | 100%                |
-| <i class="fas fa-minus"></i> Less Estimated Prize Expense          | £0.70  | 35%                 |
-| <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.05**  | **2.5%**        |
-| <i class="fas fa-minus"></i> Less Direct Debit Fee| £0.038 | 2%                  |
-|  **Estimated Gross Revenue:**              | **£1.25**  | **63%**                |
+>**55% Estimated Gross Profit** 
+Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
+{.is-success}
 
 
 
 ## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
 
+The 6/49 + 2/19 Super Lotto is modeled after the Euromillions or Powerball.
 
-| 63% Expected Gross Revenue | Low Chance of Jackpot Win | Frequent Winnners |
-|----------------------------|---------------------------|----------------------------|
-|                            |      **1 in 14 Million to win £25,000 Jackpot**    |  **1 in 5 chance of winning** |
+It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 5 Chance of winning any prize. 
 
+The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
-1 in 5 Chance of Winning a prize under 25
-1 in 45 Milion chance of hitting the $25,000 Jackpot
-Expected Payout: 28%
-Winning Prizes: 
+>**63% Estimated Gross Profit** 
+Choose this Game if you want to have a very low risk of paying the Jackpot. 
+{.is-success}
 
 
 ## Fixed Prize Raffles
 No risk if minimum number of tickets are sold
 
 
+>**50-60% Estimated Gross Profit** 
+Choose this type of game if you have a large active userbase and can comfortably sell at least the minimum number of tickets in order to cover the cost of your prizes. 
+{.is-success}
 
 
 
