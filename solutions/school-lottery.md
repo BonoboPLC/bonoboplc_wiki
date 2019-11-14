@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:08:29.961Z
+date: 2019-11-14T21:19:57.903Z
 tags: school lottery
 ---
 
@@ -11,7 +11,7 @@ tags: school lottery
 ![platform-overview.png](/platform-overview.png)
 
 
-# School Lottery Revenue Expectations
+# Revenue Estimates
 
 If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
 
@@ -19,40 +19,40 @@ Monthly Subscription lotteries supercharge this opportunity by enabling charitie
 
 The low attrition rates of Direct Debit Subscription Lotteries, combined with steady marketing efforts can produce net positive increases in your subscriber base and monthly income.
 
-
-
 Over a period of time, your Lottery can become a significant supplement to your income.
 
 
 
-
-
-## Estimated Revenue
-
-Bonobo: 0.05P
-Ticket Price: 2 Pounds
-Prizes: 40%*   - Based on Expected Value of your game
-Profits: 60%
-
-### Factors
+## Key Factors
 
 When designing your Lottery, there are a few key factors that will determine the profitability of your Lottery.
 
-- **Portion of sales alloted to prizes**
+- **Prizes in your game** 
+- **Your cost of sales** 
 - **How many tickets you sell**
-- **The cost of selling each ticket**
+
+
+
+## Sample Revenue Calculation
+
+Bonobo: £0.05
+Ticket Price: £2
+Prizes: 40%*   - Based on Expected Value of your game
+Profits: 60%
+
+
 
 # Pre-Configured Lottery Game Templates
 
 
 
-## 6/49 Lotto;  $25,000 Jackpot
+## 6/49 Lotto;  £25,000 Jackpot
 1 in 6 Chance of Winning a prize under 25
 1 in 15 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 35%
 Winning Prizes: 
 
-## 6/60 Lotto;  $25,000 Jackpot
+## 6/60 Lotto;  £25,000 Jackpot
 1 in 6 Chance of Winning a prize under 25
 1 in 15 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 28%
@@ -78,8 +78,8 @@ Even if only 5% of sales receipts are won as prizes in any given draw, set aside
 
 
 ### Estimated Revenue
-Bonobo: 0.05P
-Ticket Price: 2 Pounds
+Bonobo: £0.05
+Ticket Price: £2
 Prizes: 40%*   - Based on Expected Value of your game
 Profits: 60%
 
