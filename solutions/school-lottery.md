@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T21:50:59.723Z
+date: 2019-11-14T21:57:35.312Z
 tags: school lottery
 ---
 
@@ -27,13 +27,13 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 When designing your Lottery, there are a few key factors that will determine the profitability of your Lottery.
 
-- **Prizes in your game** 
-- **Your cost of sales** 
-- **How many tickets you sell**
+- **Prize Table** 
+- **Cost of sales** 
+- **Number of Tickets Sold**
 
 
 
-## Sample Revenue Calculation
+## Estimated Revenue Model - £2, 6/49 Lottery 
 
 |                            | Amount | Percentage|
 |----------------------------|--------|---------------------|
@@ -44,19 +44,21 @@ When designing your Lottery, there are a few key factors that will determine the
 |  **Estimated Gross Revenue:**              | **£1.25**  | **63%**                |
 
 
+
+
 # Pre-Configured Lottery Game Templates
 
 
 
-## 6/49 Lotto;  £25,000 Jackpot
+## 6/42 Lotto;  £25,000 Jackpot
 1 in 6 Chance of Winning a prize under 25
-1 in 15 Milion chance of hitting the $25,000 Jackpot
+1 in 14.5 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 35%
 Winning Prizes: 
 
-## 6/60 Lotto;  £25,000 Jackpot
-1 in 6 Chance of Winning a prize under 25
-1 in 15 Milion chance of hitting the $25,000 Jackpot
+## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
+1 in 5 Chance of Winning a prize under 25
+1 in 45 Milion chance of hitting the $25,000 Jackpot
 Expected Payout: 28%
 Winning Prizes: 
 
