@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T22:54:54.717Z
+date: 2019-11-14T23:01:21.465Z
 tags: school lottery
 ---
 
@@ -11,16 +11,17 @@ tags: school lottery
 ![platform-overview.png](/platform-overview.png)
 
 
-# Revenue Estimates
+# Using Subscription to Grow your Lottery
 
 If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
 
-Monthly Subscription lotteries supercharge this opportunity by enabling charities to easily create and then gradually grow their monthly userbase. 
+Monthly Subscription lotteries supercharge this opportunity by enabling charities to easily create a Lotto and then gradually grow their monthly userbase over time. 
 
 The low attrition rates of Direct Debit Subscription Lotteries, combined with steady marketing efforts can produce net positive increases in your subscriber base and monthly income.
 
 Over a period of time, your Lottery can become a significant supplement to your income.
 
+# Revenue Estimates
 
 Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 
@@ -34,7 +35,11 @@ Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 
 
 
+# Online Sales - Your own Lotto Site
 
+
+
+# Retail Sales - Sell Anywhere!
 
 
 
@@ -46,7 +51,7 @@ Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
 When designing your Lottery, there are a few key factors that will determine the profitability that you should keep in mind.
 
 - **Prize Table**; How much will you give back to your supporters? 
-- **Cost of sales**; Can you sign up subscribers 
+- **Cost of sales**; Can you sign up subscribers without eating away at your bottom line?
 
 You can choose between traditional Lottery games, or fixed prize games. 
 Each has their own merits and satisfy different organizational needs.
@@ -96,14 +101,10 @@ No risk if minimum number of tickets are sold
 
 
 
-## Online Sales
 
 
 
-## Retail Sales
-
-
-## How can I accept Direct Debit payments?
+# Setting up Direct Debit payments
 
 Using Direct Debits for your charity lottery helps ensure a reliable and predictable income for your lottery. 
 
@@ -119,7 +120,9 @@ Bonobo's Lottery platform comes pre-integrated with <a href="https://rapidataser
 
 If you have already have your SUN number, setting up an account shouldn't take more than a few days.
 
-Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. It's as easy as that!
+Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. 
+
+**It's as easy as that!**
 
 
 
@@ -128,13 +131,14 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 
 
 
-## Can I use your system for one-time games?
+
 
 
 
 
 
 # FAQ
+### Can I use your system for one-time games?
 ### How can I pay winners their prizes?
 ### Who is responsible for paying prizes?
 ### How should I budget for paying prizes?
