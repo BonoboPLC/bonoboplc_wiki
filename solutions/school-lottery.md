@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T12:54:07.577Z
+date: 2019-11-15T13:00:44.808Z
 tags: school lottery
 ---
 
@@ -53,7 +53,7 @@ Monthly Subscription: **£8.67**
 
 
 
-# Sell Subscriptions Online
+# ![admin-app-tiny35.png](/admin-app-tiny35.png) Sell Subscriptions Online
 
 Players can access and register for your subscription Lottery from any device.
 
