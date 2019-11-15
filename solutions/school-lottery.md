@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T11:09:19.952Z
+date: 2019-11-15T11:10:01.064Z
 tags: school lottery
 ---
 
@@ -162,7 +162,7 @@ This expected value is estimated to be reached over a statistically meaningful s
 
 Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize.
 
-Additionaly, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund, to cover any unexpected wins in future draws.
+Additionaly, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
 ### Can I accept Direct Debit payments?
 ### Can I accept payment via credit cards as well?
