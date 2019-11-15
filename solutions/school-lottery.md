@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-14T23:06:16.124Z
+date: 2019-11-15T10:55:59.591Z
 tags: school lottery
 ---
 
@@ -88,6 +88,16 @@ It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 
 The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
 
+## 6/30 Lotto;  £5,000 Jackpot
+>**55% Estimated Gross Profit** 
+Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
+{.is-success}
+
+The 6/42 Lottery is one of the most commonly offered games.
+
+It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 5 Chance of winning any prize. 
+
+The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
 
 
 
@@ -141,7 +151,7 @@ No risk if minimum number of tickets are sold
 ### Can I use your system for one-time games?
 ### How can I pay winners their prizes?
 ### Who is responsible for paying prizes?
-### How should I budget for paying prizes?
+### How should I budget for paying Lottery prizes?
 
 On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
 
