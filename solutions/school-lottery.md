@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T10:55:59.591Z
+date: 2019-11-15T11:09:19.952Z
 tags: school lottery
 ---
 
@@ -23,7 +23,10 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 # Revenue Estimates
 
-Estimated Revenues of 6/42 Lottery @ £2 Per Ticket
+The table shows the estimated revenues for a £2 Weekly Lottery. 
+
+Monthly Subscription: **£8.67** 
+
 
 |                            | Amount | Percentage|
 |----------------------------|--------|---------------------|
@@ -157,8 +160,9 @@ On average, a Lottery game will pay prizes, equal to approximately 35% of the va
 
 This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout will move towards this expected average.
 
-We therefore suggest, that you always set aside at least 35% of your gross proceeds for prizes. 
-Even if only 5% of sales receipts are won as prizes in any given draw, set aside at least another 30% as a reserve for future draws.
+Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize.
+
+Additionaly, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund, to cover any unexpected wins in future draws.
 
 ### Can I accept Direct Debit payments?
 ### Can I accept payment via credit cards as well?
