@@ -2,11 +2,11 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T11:28:56.143Z
+date: 2019-11-15T11:41:09.666Z
 tags: school lottery
 ---
 
-# How do Subscription Lotteries Work?
+# How do Fundraising Lotteries Work?
 
 ![platform-overview.png](/platform-overview.png)
 
@@ -70,17 +70,18 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 
 # Pre-Configured Lottery Game Templates
 
-When designing your Lottery, there are a few key factors that will determine the profitability that you should keep in mind.
+Your lottery platform comes complete with a selection of pre-configured Lottery games and raffle templates.
+
+Each has their own merits and are designed to meet different operations and needs.
 
 - **Prize Table**; How much will you give back to your supporters? 
 - **Cost of sales**; Can you sign up subscribers without eating away at your bottom line?
 
-You can choose between traditional Lottery games, or fixed prize games. 
-Each has their own merits and satisfy different organizational needs.
 
 
 ## 6/42 Lotto;  £25,000 Jackpot
->**55% Estimated Gross Profit** 
+>Estimated Gross Revenue: **55%** 
+Best Suited to **Medium to Large charities** 
 Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
 {.is-success}
 
