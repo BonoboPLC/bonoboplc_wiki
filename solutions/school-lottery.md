@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T11:10:01.064Z
+date: 2019-11-15T11:22:06.344Z
 tags: school lottery
 ---
 
@@ -154,17 +154,31 @@ No risk if minimum number of tickets are sold
 ### Can I use your system for one-time games?
 ### How can I pay winners their prizes?
 ### Who is responsible for paying prizes?
+
+You, the operator of the Lottery, would be responsible for paying prizes at all times.
+
+Prizes should be paid from Ticket Sales and your Prize Trust Fund.
+
 ### How should I budget for paying Lottery prizes?
 
 On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
 
-This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout will move towards this expected average.
-
-Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize.
+This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout percentage will move towards this expected average.
+However, there can be fluctuations in the short run. 
+Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize, in case of an unlikely win that cannot be covered by ticket sales.
 
 Additionaly, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
-### Can I accept Direct Debit payments?
+The remaining 65% is used to pay for operation of the game and to your benefit.
+
+### Can I accept Direct Debit payments for my weekly lottery?
+
+Yes, you can accept Direct Debit payments. Lottery subscription payments are processed once a month and cover all the lottery games for the next month.
+
+The monthly payments per each Lottery ticket are equal to **(Total Games Per year * Cost Per Ticket)/12 **
+
+Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
+
 ### Can I accept payment via credit cards as well?
 ### How will winners be notified?
 
