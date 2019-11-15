@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T12:49:20.201Z
+date: 2019-11-15T12:54:07.577Z
 tags: school lottery
 ---
 
@@ -33,7 +33,7 @@ Over a period of time, your Lottery can become a significant supplement to your 
 | ![agent-app-icon.png](/agent-app-icon.png)   | **Retail Sales**         | Turn any smart device into a point of sale         |
 | ![streaming-app-icon.png](/streaming-app-icon.png) | **Stream Draws LIVE!** | Boost your lottery with direct debit               |
 | dd | Direct Debit Payments | Boost your lottery with direct debit               |
-|  | Back Office           | Manage your players, games and more                |
+| ![admin-app-icon.png](/admin-app-icon.png) | Back Office           | Manage your players, games and more                |
 
 
 # Revenue Estimates
