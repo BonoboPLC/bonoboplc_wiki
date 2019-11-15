@@ -2,7 +2,7 @@
 title: School Lottery
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T11:22:06.344Z
+date: 2019-11-15T11:24:32.312Z
 tags: school lottery
 ---
 
