@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T12:18:35.916Z
+date: 2019-11-15T12:31:32.382Z
 tags: school lottery
 ---
 
@@ -24,7 +24,11 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 # What's included in this Lottery bundle?
 
-1. Your own HTML5 website, 
+1. Pre-configured Games |Selection of ready to use Lottery games
+2. Online Sales | Your own HTML5 website
+3. Retail Sales | Turn any smart device into a point of sale
+4. Direct Debit payments |
+5. Back-office  | Manage your players, games and reports with ease
 
 
 
@@ -47,9 +51,14 @@ Monthly Subscription: **£8.67**
 
 # Sell Subscriptions Online
 
-Players can register for subscriptions online, from any device.
+Players can access and register for your subscription Lottery from any device.
 
-Your HTML5 web site can be accessed from any device.
+**Web Site Features:**
+- Sign up to Subscriptions
+- Stream the draws LIVE!
+- Replay draws
+- Log in and manage account
+
 
 Optionally you may enable complete Log in and self-service account management.
 
@@ -197,7 +206,7 @@ Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
 ### How will winners be notified?
 ### What's my web sites URL?
 Your web site will be available at  yourCharityName.bonoboplc.com at no cost.
-If you would prefer to have it pointed to your own subdomain (lottery.yourdomain.com), please let us know.
+If you would prefer to have it pointed to your own subdomain (i.e. lottery.yourdomain.com), please let us know.
 
 ### How can I report Lottery activity to my Authority?
 ### Can I also sell one time tickets?
