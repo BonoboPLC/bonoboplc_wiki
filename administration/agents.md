@@ -1,7 +1,12 @@
-<!-- TITLE: Managing Sales Agents -->
-<!-- SUBTITLE: A quick overview on how to create and manage your sellers -->
+---
+title: Managing Sales Agents
+description: A quick overview on how to create and manage your sellers
+published: 1
+date: 2019-11-15T10:44:04.972Z
+tags: 
+---
 
-# Creating Sales Agents
+# Creating Lottery Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 
 Sales Agents can be anyone of your staff, an external sales representative or volunteer. 
