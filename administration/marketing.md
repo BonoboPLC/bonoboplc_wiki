@@ -2,7 +2,7 @@
 title: Marketing
 description: How to manage your campaign and promotions
 published: 1
-date: 2019-11-09T16:00:25.175Z
+date: 2019-11-19T16:35:41.791Z
 tags: 
 ---
 
@@ -17,6 +17,12 @@ tags:
 ## Payment Registration Bonus
 ## Wagering Requirements
 ## Trickled release Bonus
+# Fraud Prevention
+## Security Flags
+## Preventing Bonus in suspicous scenarios
+### Quick Referrals
+### Multiple Referrals from same IP
+### Whitelisting Players
 
 
 # Acquisition Campaigns
