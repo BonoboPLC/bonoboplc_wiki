@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-19T17:12:03.430Z
+date: 2019-11-19T17:37:32.684Z
 tags: school lottery
 ---
 
