@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-19T17:08:44.955Z
+date: 2019-11-19T17:12:03.430Z
 tags: school lottery
 ---
 
@@ -40,7 +40,7 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 The table shows the estimated revenues for a £2 Weekly Lottery. 
 
-Your Fees due to Bonobo are 5 pence per ticket sold. 
+Your Fees due to Bonobo are a flat rate of 5 pence per ticket sold. See following section for details.
 
 
 
