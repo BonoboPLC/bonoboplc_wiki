@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-19T16:58:50.276Z
+date: 2019-11-19T17:08:44.955Z
 tags: school lottery
 ---
 
@@ -58,14 +58,21 @@ Monthly Subscription: **£8.67**
 
 # How to pay Bonobo for using the service
 
-You will need to pre-purchase credits, at 5 pence each, prior to starting your lottery.
-Credits will remain on your account until used. 
+Bonobo charges a simple flat rate pricing for each ticket you sell on the system.
 
-Each time a ticket is sold, your account will be debited, one credit.
+You will need to **pre-purchase Bonobo Credits** prior to starting your lottery.
 
-If you are running low on credits, you will receive email notifications to top up your account.
+**Each Credit costs £0.05** and will remain on your Bonobo Account until used. 
 
-You can pre-purchase credits during your sign up process.
+Each time an entry/line is entered into a game, your Bonobo Account will be debited one Credit, regardless of the cost of your tickets. 
+
+If you are running low on Credits, you will receive email notifications to top up your account.
+
+You can pre-purchase Credits during your sign up process or at any time thereafter.
+
+> **Flat Rate Pricing:** If your ticket costs £5.00, one Credit, costing £0.05, will be debited from your Bonobo account. 
+If your ticket costs £1.00, the same one Credit, costing £0.05, will be debited from your Bonobo account.
+{.is-success}
 
 
 # Sell Subscriptions Online
