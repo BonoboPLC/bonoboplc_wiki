@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-15T13:34:39.970Z
+date: 2019-11-19T16:51:41.450Z
 tags: school lottery
 ---
 
@@ -28,12 +28,12 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 |   |  |  |
 |----|-----------------------|----------------------------------------------------|
-|  ![your-lotto2.png](/your-lotto2.png) | Pre-Configured Games  | A selection of ready to use Lottery & Raffle games |
-|![player-app-icon.png](/player-app-icon.png)| Online Sales          | Your own HTML5 responsive website                  |
+|  ![your-lotto2.png](/your-lotto2.png) | **Pre-Configured Games**  | A selection of ready to use Lottery & Raffle games |
+|![player-app-icon.png](/player-app-icon.png)| **Online Sales**          | Your own HTML5 responsive website                  |
 | ![agent-app-icon.png](/agent-app-icon.png)   | **Retail Sales**         | Turn any smart device into a point of sale         |
 | ![streaming-app-icon.png](/streaming-app-icon.png) | **Stream Draws LIVE!** | Let everyone watch, LIVE!           |
-| ![dd.png](/dd.png) | Direct Debit Payments | Boost your lottery with direct debit               |
-| ![admin-app-icon.png](/admin-app-icon.png) | Back Office           | Manage your players, games and more                |
+| ![dd.png](/dd.png) | **Direct Debit Payments** | Boost your lottery with direct debit               |
+| ![admin-app-icon.png](/admin-app-icon.png) | **Back Office**           | Manage your players, games and more                |
 
 
 # Revenue Estimates!
@@ -63,15 +63,18 @@ Players can access and register for your subscription Lottery from any device.
 - Replay draws
 - Log in and manage account
 
-
 Optionally you may enable complete Log in and self-service account management.
 
 
 
 # Sell via Canvassers and at Events 
 
+Canvassers can sign customers up directly from any smart device, including phones and tablets.
+The Sales Agent application can be accessed from any smartphone and can help you track your agents activity and sales efforts in real time.
 
+Alternatively you can use an All-in-one POS, perfectly suited for mobile ticket sellers than need to sell, print and scan tickets.
 
+![sales-agent-admin.png](/sales-agent-admin.png)
 
 # Accepting Direct Debit
 
