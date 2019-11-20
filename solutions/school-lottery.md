@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T19:12:46.600Z
+date: 2019-11-20T19:48:45.692Z
 tags: school lottery
 ---
 
@@ -236,4 +236,5 @@ You can also allow players to purchase single tickets, if you have credit card p
 
 ### Can I customize my website Pages?
 
-Yes you can customize 
+Yes you can create and customize new pages for your site.
+Go to Configuration -> Custom Pages
