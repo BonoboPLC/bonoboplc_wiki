@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T19:48:45.692Z
+date: 2019-11-20T19:51:03.776Z
 tags: school lottery
 ---
 
@@ -217,7 +217,11 @@ The monthly payments per each Lottery ticket are equal to **(Total Games Per yea
 
 Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
 
-### Can I accept payment via credit cards as well?
+### Can I accept payment via credit cards and other payment methods?
+
+Yes, we can integrate any form of payment processor with a valid API.
+
+
 ### How will winners be notified?
 Following each Lottery draw, All players, including winners and non-winners will be notified by email. This email also includes a summary of the game and a link to Replay the draw.
 
@@ -229,6 +233,9 @@ Your web site will be available at  yourCharityName.bonoboplc.com at no cost.
 If you would prefer to have it pointed to your own subdomain (i.e. lottery.yourdomain.com), please let us know.
 
 ### How can I report Lottery activity to my Authority?
+
+Once the game has completed, view the games details page in your back office for all the info you need to report on your lottery's activity.
+
 ### Can I also sell one time tickets?
 Yes, you can sell single tickets to your Lottery using the Retail Sales module.
 
@@ -237,4 +244,5 @@ You can also allow players to purchase single tickets, if you have credit card p
 ### Can I customize my website Pages?
 
 Yes you can create and customize new pages for your site.
+
 Go to Configuration -> Custom Pages
