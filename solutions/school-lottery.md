@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T20:12:32.504Z
+date: 2019-11-20T20:40:13.790Z
 tags: school lottery
 ---
 
@@ -18,7 +18,7 @@ For example, a Weekly Lottery at £1.00 works out to just £4.34 Per month.
 
 Bonobo's Lottery platform enables you to create your own weekly or monthly Lottery, and then sell subscriptions online, over the phone, or even in person through canvassers. 
 
-The subscriptions will automatically process Direct Debit payments, receiving cash from ticket sales and trasnfering them directly to your account.
+The subscriptions will automatically process Direct Debit payments, receiving cash from ticket sales and crediting them directly to your Bank account.
 
 
 ![subscriptions-overview.png](/subscriptions-overview.png)
