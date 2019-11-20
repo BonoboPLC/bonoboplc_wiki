@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T18:42:35.650Z
+date: 2019-11-20T18:55:29.869Z
 tags: school lottery
 ---
 
@@ -152,63 +152,16 @@ When choosing a lottery you should keep the following factors in mind:
 
 See Sample Lottery Games Below
 
-### 6/42 Lotto;  £25,000 Jackpot
->Estimated Gross Revenue: **59% of ticket Sales** 
-Estimated Player Wins: **41% of ticket Sales** 
-Odds of winning Jackpot: **1 in 5,245,786** 
-Odds of winning any prize: **1 in 5** 
-Best Suited to **Medium to Large charities** 
+|                           | [6/42 Lotto](https://docs.bonoboplc.com/en/games/lotto/642) | [5/30 Lotto](https://docs.bonoboplc.com/en/games/lotto/530) | Custom Lotto |
+|---------------------------|------------|------------|--------------|
+| Jackpot                   | 25,000     | 5,000      | ?            |
+| Estimated Gross Revenue:  | 59%        | 51%        | ?            |
+| Estimated Player Wins     | 41%        | 48%        | ?            |
+| Odds of Winning Jackpot   | 1 in 5     | 1 in 5     | ?            |
+| Odds of Winning any prize | 1 in 5     | 1 in 5     | ?            |
+|                           | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/642)    | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/530)    |              |
 
-| Matches       | Prize   | Odds                             | Expected Wins         |                       |
-|---------------|---------|----------------------------------|-----------------------|-----------------------|
-| Match 6       | £25,000 | 1 in 5,245,786                   | £0.005                |                       |
-| Match 5       | £1,000  | 1 in 24,286                      | £0.041                |                       |
-| Match 4       | £50     | 1 in 555                         | £0.09                 |                       |
-| Match 3       | £4      | 1 in 36                          | £0.109                |                       |
-|     Match 2          | £1      | 1 in 6                           | £0.167                |                       |
-| |       |**Expected Payout**  | (£0.41) **41%**  |  |
-| |       |**Expected Gross**  | (£0.59) **59%**   |  |
-
-
-
-
-
-
-
-
-### 5/30 Lotto;  £5,000 Jackpot
-
->Estimated Gross Revenue: **51% of ticket Sales** 
-Estimated Player Wins: **49% of ticket Sales** 
-Odds of winning Jackpot: **1 in 142,506** 
-Odds of winning any prize: **1 in 5** 
-Best Suited to **Small to medium charities** 
-
-| Matches       | Prize   | Odds                             | Expected Wins         |                       |
-|---------------|---------|----------------------------------|-----------------------|-----------------------|
-| Match 5       | £5,000 | 1 in 142,506                  | £0.035                |                       |
-| Match 4       | £200  | 1 in 1,140                      | £0.175                |                       |
-| Match 3       | £5     | 1 in 47                         | £0.106                 |                       |
-| Match 2       | £1      | 1 in 6                          | £0.167                |                       |                |
-| |       |**Expected Payout**  | (£0.49) **41%**  |  |
-| |       |**Expected Gross**  | (£0.51) **59%**   |  |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 
 
