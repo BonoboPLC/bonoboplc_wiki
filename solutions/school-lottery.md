@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T10:56:36.618Z
+date: 2019-11-20T11:02:24.355Z
 tags: school lottery
 ---
 
@@ -203,8 +203,18 @@ No risk if minimum number of tickets are sold
 
 
 # FAQ
-### Can I use your system for one-time games?
+### Can I use your system for to setup a Lottery/Raffle at an event?
+
+Yes, you can create additional one-time games to support a fundraising lottery at an event.
+Your sellers can sell one-time tickets which can be printed or emailed. 
+
 ### How can I pay winners their prizes?
+
+A. If you are using direct credits
+
+B. If you are paying out manually.
+
+
 ### Who is responsible for paying prizes?
 
 You, the operator of the Lottery, would be responsible for paying prizes at all times.
@@ -244,4 +254,8 @@ If you would prefer to have it pointed to your own subdomain (i.e. lottery.yourd
 
 ### How can I report Lottery activity to my Authority?
 ### Can I also sell one time tickets?
+Yes, you can sell single tickets to your Lottery using the Retail Sales module.
+
+You can also allow players to purchase single tickets, if you have a credit card payment processing setup on your account. 
+
 ### Can I customize my website Pages?
