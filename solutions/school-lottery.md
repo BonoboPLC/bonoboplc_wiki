@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T20:40:13.790Z
+date: 2019-11-20T20:45:07.648Z
 tags: school lottery
 ---
 
@@ -10,7 +10,7 @@ tags: school lottery
 
 If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
 
-Subscription Lotteries enable you to "sell once" and then generate ticket sales on an ongoing basis. This saves the costs and time associated with generating one time ticket sales, for each draw.
+Subscription Lotteries enable you to "sell once" and then generate ticket sales on an ongoing basis. The subscription saves the costs and time associated with selling one-time ticket for each draw.
 
 The Player's subscription fees are billed once a month, in advance, and cover all the games in the upcoming month.
 
@@ -30,7 +30,7 @@ Direct Debit Monthly Subscription lotteries supercharge fundraising opportunitie
 
 The low attrition rates of Direct Debit Subscription Lotteries, combined with steady marketing efforts can produce net positive increases in your subscriber base and monthly income.
 
-Over a period of time, your Lottery can become a significant supplement to your income.
+Over some time, your Lottery can become an important supplement to your income.
 
 
 # What's included in this Lottery bundle?
@@ -51,7 +51,7 @@ Over a period of time, your Lottery can become a significant supplement to your 
 
 The table shows the estimated revenues for a £2 Weekly Lottery. 
 
-Your Fees due to Bonobo are a flat rate of 5 pence per ticket sold. See following section for details.
+Your Fees due to Bonobo are a flat rate of 5 pence per ticket sold. See the following section for details.
 
 
 
@@ -69,17 +69,17 @@ Monthly Subscription: **£8.67**
 
 # How to pay Bonobo for using the service
 
-Bonobo charges a simple flat rate pricing for each ticket you sell on the system.
+Bonobo charges a simple flat-rate pricing for each ticket you sell on the system.
 
-You will need to **pre-purchase Bonobo Credits** prior to starting your lottery.
+You will need to **pre-purchase Bonobo Credits** before starting your lottery.
 
 **Each Credit costs £0.05** and will remain on your Bonobo Account until used. 
 
-Each time an entry/line is entered into a game, your Bonobo Account will be debited one Credit, regardless of the cost of your tickets. 
+Each time an entry/line is entered in a game, your Bonobo Account will be debited one Credit, regardless of the cost of your tickets. 
 
-If you are running low on Credits, you will receive email notifications to top up your account.
+If you are running low on credits, you will receive email notifications to top up your account.
 
-You can pre-purchase Credits during your sign up process or at any time thereafter.
+You can pre-purchase Credits during your sign up process or at any time after that.
 
 > **Flat Rate Pricing:** If your ticket costs £5.00, one Credit, costing £0.05, will be debited from your Bonobo account. 
 If your ticket costs £1.00, the same one Credit, costing £0.05, will be debited from your Bonobo account.
@@ -96,16 +96,16 @@ Players can access and register for your subscription Lottery from any device.
 - Replay draws
 - Log in and manage account
 
-Optionally you may enable complete Log in and self-service account management.
+Optionally you may enable complete Login and self-service account management.
 
 
 
 # Sell via Canvassers and at Events 
 
 Canvassers can sign customers up directly from any smart device, including phones and tablets.
-The Sales Agent application can be accessed from any smartphone and can help you track your agents activity and sales efforts in real time.
+The Sales Agent application can be accessed from any smartphone and can help you track your agents' activity and sales efforts in real-time.
 
-Alternatively you can use an All-in-one POS, perfectly suited for mobile ticket sellers than need to sell, print and scan tickets.
+Alternatively, you can use an All-in-one POS, ideally suited for mobile ticket sellers than need to sell, print and scan tickets.
 
 ![sales-agent-admin.png](/sales-agent-admin.png)
 
@@ -123,9 +123,9 @@ Bonobo's Lottery platform comes pre-integrated with <a href="https://rapidataser
 
 <a href="https://rapidataservices.com/service/lottery-payment-provider/" target="_blank">Create your account with Rapidata</a>  and let them know that you are setting up your Lottery with Bonobo.
 
-If you have already have your SUN number, setting up an account shouldn't take more than a few days.
+If you have already had your SUN number, setting up an account shouldn't take more than a few days.
 
-Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. 
+Once you have your RapiData Account setup, plug your account ID into your Bonobo back office, and you are ready to accept payments via Direct Debit. 
 
 **It's as easy as that!**
 
@@ -148,10 +148,10 @@ Prize games offer a fixed number of prizes that are always guaranteed to be won 
 
 ![raffle-games.png](/raffle-games.png)
 
-When choosing a prize raffle lottery you should keep the following factors in mind:
+When choosing a prize raffle lottery, you should keep the following factors in mind:
 
-- **Leverage Experiences**: Do you have access to a VIP experience that your supports would be willing to pay for a chance to have? I.e. Lunch with the team captain?
-- **Leverage Donations & Discounts**: Do you have access to discounted or donated items that you can put in your raffle? I.e. Include sponsors name in game in exchange for discount which can add to your bottom line.
+- **Leverage Experiences**: Do you have access to a VIP experience that your supports would be willing to pay for a chance to have? I.e., Lunch with the team captain?
+- **Leverage Donations & Discounts**: Do you have access to discounted or donated items that you can put in your raffle? I.e., Include sponsors' names in the games in exchange for a discount which can add to your bottom line.
 - **Selling All Tickets**: If you are buying and paying for your prizes, do you have confidence in being able to sell all tickets?
 
 
@@ -190,10 +190,10 @@ See Sample Lottery Games Below
 
 
 # FAQ
-### Can I use your system for to setup a Lottery/Raffle at an event?
+### Can I use your system to set up a Lottery/Raffle at an event?
 
 Yes, you can create additional one-time games to support a fundraising lottery at an event.
-Your sellers can sell one-time tickets which can be printed or emailed. 
+Your sellers can sell one-time tickets that can be printed or emailed. 
 
 ### How can I pay winners their prizes?
 
@@ -216,9 +216,9 @@ This expected value is estimated to be reached over a statistically meaningful s
 However, there can be fluctuations in the short run. 
 Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize, in case of an unlikely win that cannot be covered by ticket sales.
 
-Additionaly, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
+Additionally, after each game, we suggest that you set aside at least 35% of your gross proceeds for prizes. Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
-The remaining 65% is used to pay for operation of the game and to your benefit.
+The remaining 65% is used to pay for the operation of the game and to your benefit.
 
 ### Can I accept Direct Debit payments for my weekly lottery?
 
@@ -230,11 +230,11 @@ Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
 
 ### Can I accept payment via credit cards and other payment methods?
 
-Yes, we can integrate any form of payment processor with a valid API.
+Yes, we can integrate any payment processor with a valid API.
 
 
 ### How will winners be notified?
-Following each Lottery draw, All players, including winners and non-winners will be notified by email. This email also includes a summary of the game and a link to Replay the draw.
+Following each Lottery draw, All players, including winners and non-winners, will be notified by email. This email also includes a summary of the game and a link to Replay the draw.
 
 
 A game summary email is also sent to players who did not win a prize. 
@@ -250,10 +250,10 @@ Once the game has completed, view the games details page in your back office for
 ### Can I also sell one time tickets?
 Yes, you can sell single tickets to your Lottery using the Retail Sales module.
 
-You can also allow players to purchase single tickets, if you have credit card payment processing setup on your account. 
+You can also allow players to purchase single tickets if you have Credit Card payment processing setup on your account. 
 
 ### Can I customize my website Pages?
 
-Yes you can create and customize new pages for your site.
+Yes, you can create and customize new pages for your site.
 
 Go to Configuration -> Custom Pages
