@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T19:05:59.533Z
+date: 2019-11-20T19:12:46.600Z
 tags: school lottery
 ---
 
@@ -128,7 +128,6 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 Your lottery platform comes complete with a selection of pre-configured Lottery games and raffle templates.
 
 
-
 Each has their own merits and are designed to meet different operations and needs.
 
 You can choose between two different types of games; Traditional Lottery or Prize Lottery (Raffle).
@@ -136,6 +135,7 @@ You can choose between two different types of games; Traditional Lottery or Priz
 ## **Fixed Prize Lottery (Raffle)** 
 Prize games offer a fixed number of prizes that are always guaranteed to be won in the Lottery, regardless of the number of tickets sold. Prizes can range from cash, to cars and even experiences. 
 
+![raffle-games.png](/raffle-games.png)
 
 When choosing a prize raffle lottery you should keep the following factors in mind:
 
