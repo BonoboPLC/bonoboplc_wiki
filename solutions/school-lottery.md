@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T11:07:35.931Z
+date: 2019-11-20T16:43:52.018Z
 tags: school lottery
 ---
 
@@ -119,7 +119,6 @@ Once you have your RapiData Account setup, just plug your account ID into to you
 **It's as easy as that!**
 
 
-# Customizing my Lottery Site
 
 
 
@@ -130,8 +129,12 @@ Your lottery platform comes complete with a selection of pre-configured Lottery 
 
 Each has their own merits and are designed to meet different operations and needs.
 
-- **Prize Table**; How much will you give back to your supporters? 
-- **Cost of sales**; Can you sign up subscribers without eating away at your bottom line?
+Key differentiators: 
+
+- **Traditional Lottery or Fixed Prize Lottery**; A numbers lottery game vs. a Prize raffle offering prizes like a new auto or holiday package
+- **Estimated Return to Player**: What percentage of ticket sales will be won as prizes by your supporters? 
+- **Lottery Jackpot Prize** Do you want to start small or do you want to start with the max £25,000 Jackpot?
+
 
 
 
