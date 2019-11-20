@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T17:46:02.550Z
+date: 2019-11-20T18:42:35.650Z
 tags: school lottery
 ---
 
@@ -178,34 +178,20 @@ Best Suited to **Medium to Large charities**
 
 ### 5/30 Lotto;  £5,000 Jackpot
 
->Estimated Gross Revenue: **59% of ticket Sales** 
-Estimated Player Wins: **41% of ticket Sales** 
-Odds of winning Jackpot: **1 in 5,245,786** 
+>Estimated Gross Revenue: **51% of ticket Sales** 
+Estimated Player Wins: **49% of ticket Sales** 
+Odds of winning Jackpot: **1 in 142,506** 
 Odds of winning any prize: **1 in 5** 
-Best Suited to **Medium to Large charities** 
+Best Suited to **Small to medium charities** 
 
 | Matches       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
-| Match 6       | £25,000 | 1 in 5,245,786                   | £0.005                |                       |
-| Match 5       | £1,000  | 1 in 24,286                      | £0.041                |                       |
-| Match 4       | £50     | 1 in 555                         | £0.09                 |                       |
-| Match 3       | £4      | 1 in 36                          | £0.109                |                       |
-|     Match 2          | £1      | 1 in 6                           | £0.167                |                       |
-| |       |**Expected Payout**  | (£0.41) **41%**  |  |
-| |       |**Expected Gross**  | (£0.59) **59%**   |  |
-
-
-
-## 6/49 + 2/19 Super Lotto;  £25,000 Jackpot
->**63% Estimated Gross Profit** 
-Choose this Game if you want to have a very low risk of paying the Jackpot. 
-{.is-success}
-
-The 6/49 + 2/19 Super Lotto is modeled after the Euromillions or Powerball.
-
-It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 5 Chance of winning any prize. 
-
-The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
+| Match 5       | £5,000 | 1 in 142,506                  | £0.035                |                       |
+| Match 4       | £200  | 1 in 1,140                      | £0.175                |                       |
+| Match 3       | £5     | 1 in 47                         | £0.106                 |                       |
+| Match 2       | £1      | 1 in 6                          | £0.167                |                       |                |
+| |       |**Expected Payout**  | (£0.49) **41%**  |  |
+| |       |**Expected Gross**  | (£0.51) **59%**   |  |
 
 
 
