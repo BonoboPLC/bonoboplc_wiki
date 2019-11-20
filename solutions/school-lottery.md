@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T11:02:24.355Z
+date: 2019-11-20T11:07:35.931Z
 tags: school lottery
 ---
 
@@ -117,6 +117,11 @@ If you have already have your SUN number, setting up an account shouldn't take m
 Once you have your RapiData Account setup, just plug your account ID into to your Bonobo back office, and you are ready to accept payments via Direct Debit. 
 
 **It's as easy as that!**
+
+
+# Customizing my Lottery Site
+
+
 
 
 # Pre-Configured Lottery Game Templates
@@ -256,6 +261,8 @@ If you would prefer to have it pointed to your own subdomain (i.e. lottery.yourd
 ### Can I also sell one time tickets?
 Yes, you can sell single tickets to your Lottery using the Retail Sales module.
 
-You can also allow players to purchase single tickets, if you have a credit card payment processing setup on your account. 
+You can also allow players to purchase single tickets, if you have credit card payment processing setup on your account. 
 
 ### Can I customize my website Pages?
+
+Yes you can customize 
