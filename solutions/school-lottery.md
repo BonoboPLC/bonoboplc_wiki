@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T16:51:44.567Z
+date: 2019-11-20T16:53:49.574Z
 tags: school lottery
 ---
 
@@ -133,13 +133,17 @@ You can choose between two different types of games; Traditional Lottery or Priz
 
 **Traditional Lottery** games offer a maximum Jackpot prize of £25,000 and have preset payout tables. The amount of revenue you earn from Lottery games can vary based on the probability of winning a prize and the respective outcomes in each game.
 
+When choosing a lottery you should keep the following factors in mind:
+
+- **Estimated Return to Player**: What percentage of ticket sales do you expect to be won as prizes? 
+- **Lottery Jackpot Prize** Do you want to start small or do you want to start with the max £25,000 Jackpot? (if you only sell a handful of tickets, are you able to pay the Jackpot prize in case of an unlikely win?)
+
 **Prize Lottery (Raffle)** games offer a fixed number of prizes that are always guaranteed to be won in the game, regardless of the number of tickets sold. Prizes can range from cash, to cars and even experiences. 
 
 Key differentiators: 
 
 - **Traditional or Fixed Prize Lottery**; A numbers lottery game vs. a Prize raffle offering prizes like a new auto or holiday package
-- **Estimated Return to Player**: What percentage of ticket sales do you expect to be won as prizes? 
-- **Lottery Jackpot Prize** Do you want to start small or do you want to start with the max £25,000 Jackpot?
+
 
 
 
