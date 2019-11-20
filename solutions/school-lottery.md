@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T17:33:41.898Z
+date: 2019-11-20T17:41:11.539Z
 tags: school lottery
 ---
 
@@ -131,6 +131,17 @@ Each has their own merits and are designed to meet different operations and need
 
 You can choose between two different types of games; Traditional Lottery or Prize Lottery (Raffle).
 
+## **Prize Lottery (Raffle)** 
+Prize games offer a fixed number of prizes that are always guaranteed to be won in the Lottery, regardless of the number of tickets sold. Prizes can range from cash, to cars and even experiences. 
+
+
+When choosing a prize raffle lottery you should keep the following factors in mind:
+
+- **Leverage Experiences**: Do you have access to a VIP experience that your supports would be willing to pay for a chance to have?
+- **Leverage Donations & Discounts**: Do you have access to discounted or donated items that you can put in your raffle? 
+- **Selling All Tickets**: If you are buying and paying for your prizes, do you have confidence in being able to sell all tickets?
+
+
 ## **Traditional Lottery**
 Pre-configured Lottery games offer a maximum Jackpot prize of £25,000 and have preset payout tables. The amount of revenue you earn from Lottery games can vary based on the probability of winning a prize and the respective outcomes in each game.
 
@@ -155,12 +166,8 @@ Best Suited to **Medium to Large charities**
 | Match 4       | £50     | 1 in 555                         | £0.09                 |                       |
 | Match 3       | £4      | 1 in 36                          | £0.109                |                       |
 |     Match 2          | £1      | 1 in 6                           | £0.167                |                       |
-| |       |**Expected Payout**  | **41%** (£0.41) |  |
-| |       |**Expected Gross**  | **59%** (£0.59)  |  |
-
-
-## **Prize Lottery (Raffle)** 
-Prize games offer a fixed number of prizes that are always guaranteed to be won in the Lottery, regardless of the number of tickets sold. Prizes can range from cash, to cars and even experiences. 
+| |       |**Expected Payout**  | (£0.41) **41%**  |  |
+| |       |**Expected Gross**  | (£0.59) **59%**   |  |
 
 
 
@@ -169,17 +176,23 @@ Prize games offer a fixed number of prizes that are always guaranteed to be won 
 
 
 
-## 6/30 Lotto;  £5,000 Jackpot
->**55% Estimated Gross Profit** 
-Choose this Game if you want your supporters to have a moderate chance of winning the Jackpot
-{.is-success}
+### 5/30 Lotto;  £5,000 Jackpot
 
-The 6/42 Lottery is one of the most commonly offered games.
+>Estimated Gross Revenue: **59% of ticket Sales** 
+Estimated Player Wins: **41% of ticket Sales** 
+Odds of winning Jackpot: **1 in 5,245,786** 
+Odds of winning any prize: **1 in 5** 
+Best Suited to **Medium to Large charities** 
 
-It's configured to payout 35% of tickets sales in prizes whilst offering a 1 in 5 Chance of winning any prize. 
-
-The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Million  
-
+| Matches       | Prize   | Odds                             | Expected Wins         |                       |
+|---------------|---------|----------------------------------|-----------------------|-----------------------|
+| Match 6       | £25,000 | 1 in 5,245,786                   | £0.005                |                       |
+| Match 5       | £1,000  | 1 in 24,286                      | £0.041                |                       |
+| Match 4       | £50     | 1 in 555                         | £0.09                 |                       |
+| Match 3       | £4      | 1 in 36                          | £0.109                |                       |
+|     Match 2          | £1      | 1 in 6                           | £0.167                |                       |
+| |       |**Expected Payout**  | (£0.41) **41%**  |  |
+| |       |**Expected Gross**  | (£0.59) **59%**   |  |
 
 
 
