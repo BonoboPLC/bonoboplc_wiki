@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T18:55:29.869Z
+date: 2019-11-20T18:57:43.194Z
 tags: school lottery
 ---
 
@@ -154,11 +154,11 @@ See Sample Lottery Games Below
 
 |                           | [6/42 Lotto](https://docs.bonoboplc.com/en/games/lotto/642) | [5/30 Lotto](https://docs.bonoboplc.com/en/games/lotto/530) | Custom Lotto |
 |---------------------------|------------|------------|--------------|
-| Jackpot                   | 25,000     | 5,000      | ?            |
-| Estimated Gross Revenue:  | 59%        | 51%        | ?            |
-| Estimated Player Wins     | 41%        | 48%        | ?            |
-| Odds of Winning Jackpot   | 1 in 5     | 1 in 5     | ?            |
-| Odds of Winning any prize | 1 in 5     | 1 in 5     | ?            |
+| Jackpot                   | **£25,000**     | **£5,000**      | ?            |
+| Estimated Gross Revenue:  | **59%**        | **51%**        | ?            |
+| Estimated Player Wins     | **41%**        | **48%**        | ?            |
+| Odds of Winning Jackpot   | **1 in 5,245,786**     | **1 in 142,506**     | ?            |
+| Odds of Winning any prize | **1 in 5**    | **1 in 5**     | ?            |
 |                           | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/642)    | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/530)    |              |
 
  
