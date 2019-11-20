@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T17:41:48.661Z
+date: 2019-11-20T17:46:02.550Z
 tags: school lottery
 ---
 
@@ -131,14 +131,14 @@ Each has their own merits and are designed to meet different operations and need
 
 You can choose between two different types of games; Traditional Lottery or Prize Lottery (Raffle).
 
-## **Prize Lottery (Raffle)** 
+## **Fixed Prize Lottery (Raffle)** 
 Prize games offer a fixed number of prizes that are always guaranteed to be won in the Lottery, regardless of the number of tickets sold. Prizes can range from cash, to cars and even experiences. 
 
 
 When choosing a prize raffle lottery you should keep the following factors in mind:
 
-- **Leverage Experiences**: Do you have access to a VIP experience that your supports would be willing to pay for a chance to have?
-- **Leverage Donations & Discounts**: Do you have access to discounted or donated items that you can put in your raffle? 
+- **Leverage Experiences**: Do you have access to a VIP experience that your supports would be willing to pay for a chance to have? I.e. Lunch with the team captain?
+- **Leverage Donations & Discounts**: Do you have access to discounted or donated items that you can put in your raffle? I.e. Include sponsors name in game in exchange for discount which can add to your bottom line.
 - **Selling All Tickets**: If you are buying and paying for your prizes, do you have confidence in being able to sell all tickets?
 
 
@@ -210,12 +210,6 @@ The chance of one of your supporters winning the £25,000 Jackpot is 1 in 14 Mil
 
 
 
-## Fixed Prize Raffles
->**50-60% Estimated Gross Profit** 
-Choose this type of game if you have a large active userbase and can comfortably sell at least the minimum number of tickets in order to cover the cost of your prizes. 
-{.is-success}
-
-No risk if minimum number of tickets are sold
 
 
 
