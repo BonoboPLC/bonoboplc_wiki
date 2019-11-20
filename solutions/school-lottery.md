@@ -2,20 +2,26 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T19:51:03.776Z
+date: 2019-11-20T20:03:17.921Z
 tags: school lottery
 ---
 
-# How do Fundraising Lotteries Work?
+# How do Subscription Lotteries Work?
 
-![platform-overview.png](/platform-overview.png)
+If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
+
+Subscription Lotteries enable you to "sell once" and then generate ticket sales on an ongoing basis. This saves the costs and time associated with generating one time ticket sales, for each draw.
+
+Bonobo's Lottery platform enables you to create your own Lottery, and then sell subscriptions  online, over the phone, or in person through canvassers. 
+
+With integrated Direct Debit payment collection, receiving cash from ticket sales has never been easier.
+
+![subscriptions-overview.png](/subscriptions-overview.png)
 
 
 # Using Direct Debit to grow your Lottery subscriptions
 
-If you are on this page, you probably agree that Lotteries are a very profitable way for charities and non-profits to raise funds. 
-
-Direct Debit Monthly Subscription lotteries supercharge this opportunity by enabling charities to easily create a Lotto and then gradually grow their monthly userbase over time. 
+Direct Debit Monthly Subscription lotteries supercharge fundraising opportunities by enabling charities to easily create a Lotto and then gradually grow their monthly userbase over time. 
 
 The low attrition rates of Direct Debit Subscription Lotteries, combined with steady marketing efforts can produce net positive increases in your subscriber base and monthly income.
 
