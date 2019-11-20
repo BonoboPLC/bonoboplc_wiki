@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-19T17:37:32.684Z
+date: 2019-11-20T10:56:36.618Z
 tags: school lottery
 ---
 
@@ -233,6 +233,11 @@ Example: Weekly Lottery at £1.00 equals (52 x 1)/12 = £4.34 Per month.
 
 ### Can I accept payment via credit cards as well?
 ### How will winners be notified?
+Following each Lottery draw, All players, including winners and non-winners will be notified by email. This email also includes a summary of the game and a link to Replay the draw.
+
+
+A game summary email is also sent to players who did not win a prize. 
+
 ### What's my web sites URL?
 Your web site will be available at  yourCharityName.bonoboplc.com at no cost.
 If you would prefer to have it pointed to your own subdomain (i.e. lottery.yourdomain.com), please let us know.
