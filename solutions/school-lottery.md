@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does the School Lottery Solution work?
 published: 1
-date: 2019-11-20T20:03:17.921Z
+date: 2019-11-20T20:09:57.508Z
 tags: school lottery
 ---
 
@@ -12,9 +12,13 @@ If you are on this page, you probably agree that Lotteries are a very profitable
 
 Subscription Lotteries enable you to "sell once" and then generate ticket sales on an ongoing basis. This saves the costs and time associated with generating one time ticket sales, for each draw.
 
-Bonobo's Lottery platform enables you to create your own Lottery, and then sell subscriptions  online, over the phone, or in person through canvassers. 
+The fees for the subscription are billed once a month, in advance, and cover all the games in the upcoming month.
 
-With integrated Direct Debit payment collection, receiving cash from ticket sales has never been easier.
+For example, a Weekly Lottery at £1.00 works out to £4.34 Per month.
+
+Bonobo's Lottery platform enables you to create your own weekly or monthly Lottery, and then sell subscriptions online, over the phone, or even in person through canvassers. 
+
+With integrated Direct Debit payment collection, receiving cash from ticket sales has never been easier. 
 
 ![subscriptions-overview.png](/subscriptions-overview.png)
 
@@ -35,7 +39,7 @@ Over a period of time, your Lottery can become a significant supplement to your 
 |   |  |  |
 |----|-----------------------|----------------------------------------------------|
 |  ![your-lotto2.png](/your-lotto2.png) | **Pre-Configured Games**  | A selection of ready to use Lottery & Raffle games |
-|![player-app-icon.png](/player-app-icon.png)| **Online Sales**          | Your own HTML5 responsive website                  |
+|![player-app-icon.png](/player-app-icon.png)| **Lottery Website**          | Your own HTML5 responsive website                  |
 | ![agent-app-icon.png](/agent-app-icon.png)   | **Retail Sales**         | Turn any smart device into a point of sale         |
 | ![streaming-app-icon.png](/streaming-app-icon.png) | **Stream Draws LIVE!** | Let everyone watch, LIVE!           |
 | ![dd.png](/dd.png) | **Direct Debit Payments** | Boost your lottery with direct debit               |
