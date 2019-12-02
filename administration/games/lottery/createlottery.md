@@ -2,15 +2,13 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T15:20:27.514Z
+date: 2019-12-02T15:24:28.108Z
 tags: 
 ---
 
 # Lottery Templates (UK)
 
 The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
-
-**The following Lottery templates are pre-configured and ready for use:**
 
 
 |  |   | |   | Lottery Templates| 
@@ -21,12 +19,14 @@ The following lottery games are pre-configured for UK charities and feature a **
 | **Estimated Gross Revenue** | **70%**   | **60%**  | **50%**   | **50%**   | 
 | **Chance of Jackpot** | 1 in 324,632   | 1 in 142,506  | 1 in 142,506  |  1 in 5,245,786| 
 | **Chance of winning any prize** | 1 in 7   | 1 in 5 | 1 in 5  | 1 in 5   | 
+| **Prize Rollover Option** | Yes   | Yes  | Yes  | No    | 
 
+Entry price and payout tables can be customized if needed.
 
 
 # Other Lottery Templates
 
-The following lottery games are pre-configured for UK charities and feature a maximum Jackpot of **£25,000**. You can create any variation on the most commonly found lottery games. 
+The following lottery games are modeled after some of the most popular lotteries today.
 
 **The following Lottery templates are pre-configured and ready for use:**
 
