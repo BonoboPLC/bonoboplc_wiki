@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T17:15:32.506Z
+date: 2019-12-02T17:17:14.123Z
 tags: 
 ---
 
@@ -19,7 +19,7 @@ The following lottery games are pre-configured for UK charities and feature a **
 | **Est. Gross Revenue^***^** | **70%**   | **40%**  | **50%**   | **50%**   | 
 | **Chance of winning any prize**| 1 in 7| 1 in 5 | 1 in 5  |  1 in 5|
 | **Chance of Jackpot**^**^| 1 in 324,632  | 1 in 142,506 | 1 in 142,506*  | 1 in 5,245,786 |
-| | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/535-10k)  |[DETAILS](https://docs.bonoboplc.com/en/games/lotto/530)  |[DETAILS](https://docs.bonoboplc.com/en/games/lotto/530-10k)  |[DETAILS](https://docs.bonoboplc.com/en/games/lotto/642)  |
+| | [Lotto 5/35](https://docs.bonoboplc.com/en/games/lotto/535-10k)  |[Lotto 5/30 (a)](https://docs.bonoboplc.com/en/games/lotto/530)  |[Lotto 5/30 (b)](https://docs.bonoboplc.com/en/games/lotto/530-10k)  |[Lotto 6/42](https://docs.bonoboplc.com/en/games/lotto/642)  |
 
 ^*^ *Jackpot* Based on payout table
 ^**^ *Chance of Jackpot* is estimated based on the games Pick Size and Range. I.e. Pick from 1 to 42. 
