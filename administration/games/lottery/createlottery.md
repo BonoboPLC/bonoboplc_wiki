@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T17:18:12.181Z
+date: 2019-12-02T17:22:19.105Z
 tags: 
 ---
 
@@ -35,6 +35,9 @@ You can add the following:
 - Bonus Balls
 - Custom Pay Table
 
+## Is there a software manual?
+
+Yes, you can use this guide to learn how to [create and/or customize your lottery](http://docs.bonoboplc.com/administration/games/lottery).
 
 
 ## How should I budget for paying Lottery prizes?
