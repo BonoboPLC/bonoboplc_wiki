@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T16:07:07.851Z
+date: 2019-12-02T16:07:24.819Z
 tags: 
 ---
 
@@ -30,10 +30,11 @@ Entry price and payout tables can be customized if needed.
 ## How else can I customize my Lottery?
 
 You can add the following:
+- Custom Logo & CSS
 - Prize Roll Over
 - Bonus Balls
 - Custom Pay Table
-- Custom Logo & CSS
+
 
 
 ## How should I budget for paying Lottery prizes?
