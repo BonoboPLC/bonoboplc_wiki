@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T16:09:33.850Z
+date: 2019-12-02T16:10:14.225Z
 tags: 
 ---
 
@@ -49,16 +49,6 @@ Before starting your Lottery, you should create a **Prize Trust Fund**, equal to
 It is good budgeting practice, that afer each game, to set the aside the expected payout, even if no prizes are won. For example, in a game where you expect 35% of sales receipts to be won as prizes, but only 5% of are in fact won, you should still contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
 The remaining percentages are used to pay for the operation of the game and to your benefit.
-
-
-
-|  |   | |   | Estimated Outcomes^**^| 
-| ------ | ------ | ------ | ------ | ------ | 
-| | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="75px" width="75px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} |![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} |
-| **Jackpot^*^** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
-| **Prizes vs. Gross Revenue^***^** | **30% - 70%**   | **40% - 60%**  | **50% - 50%**   | **50% - 50%**   | 
-| **Chance of winning any prize**<br>Chance of Jackpot^**^| 1 in 7<br>*1 in 324,632*  | 1 in 5<br>*1 in 142,506* | 1 in 5<br>*1 in 142,506*  |  1 in 5<br>*1 in 5,245,786* 
-
 
 
 
