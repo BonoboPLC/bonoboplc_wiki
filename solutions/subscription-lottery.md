@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-02T15:33:18.570Z
+date: 2019-12-02T15:37:36.312Z
 tags: 
 ---
 
@@ -216,9 +216,9 @@ This expected value is estimated to be reached over a statistically meaningful s
 However, there can be fluctuations in the short run. 
 Before starting your Lottery, you should create a Prize Trust Fund, equal to your top prize, in case of an unlikely win that cannot be covered by ticket sales.
 
-It is good budgeting practice, that afer each game, to set the aside the expected payout, even if no prizes are won.   Therefore, if only 5% of sales receipts are won as prizes in any given draw, contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
+It is good budgeting practice, that afer each game, to set the aside the expected payout, even if no prizes are won.   For example, in a game where you expect 35% of sales receipts to be won as prizes, but only 5% of are in fact won, you should still contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
-The remaining 65% is used to pay for the operation of the game and to your benefit.
+The remaining percentages are used to pay for the operation of the game and to your benefit.
 
 ### Can I accept Direct Debit payments for my weekly lottery?
 
