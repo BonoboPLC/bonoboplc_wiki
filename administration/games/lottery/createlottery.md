@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T16:21:34.725Z
+date: 2019-12-02T16:31:05.881Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ The following lottery games are pre-configured for UK charities and feature a **
 
 |  |   | |   | Estimated Outcomes^**^| 
 | ------ | ------ | ------ | ------ | ------ | 
-| | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="75px" width="75px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} |![lotto-642.png](/lotto-642.png){:height="75px" width="75px"} |
+| | ![lotto-535.png](/lotto-535.png "5/35 Lottery"){:height="75px" width="75px"} | ![lotto-530.png](/lotto-530.png "5/30 Lottery"){:height="75px" width="75px"} | ![lotto-530-10k.png](/lotto-530-10k.png "5/30 Lottery"){:height="75px" width="75px"} |![lotto-642.png](/lotto-642.png "6/42 Lottery"){:height="75px" width="75px"} |
 | **Jackpot^*^** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
 | **Est. Prizes** | **30%**   | **40%**  | **50%**   | **50%**   | 
 | **Est. Gross Revenue^***^** | **70%**   | **40%**  | **50%**   | **50%**   | 
