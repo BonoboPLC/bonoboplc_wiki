@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T15:09:10.909Z
+date: 2019-12-02T15:10:11.696Z
 tags: 
 ---
 
@@ -10,7 +10,7 @@ tags:
 
 You can create any variation on the most commonly found lottery games. 
 
-A selection of games is pre-configured and can be used as is, or further customized.
+A selection of games is pre-configured and can be used as is or customized.
 
 
 ## Charity Lottery templates - UK
