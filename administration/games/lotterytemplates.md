@@ -2,7 +2,7 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2019-12-02T17:24:10.552Z
+date: 2019-12-02T18:09:02.405Z
 tags: 
 ---
 
@@ -14,6 +14,7 @@ The following lottery games are pre-configured for UK charities and feature a **
 |  |   | |   | Estimated Outcomes^**^| 
 | ------ | ------ | ------ | ------ | ------ | 
 | | ![lotto-535.png](/lotto-535.png "5/35 Lottery"){:height="75px" width="75px"} | ![lotto-530.png](/lotto-530.png "5/30 Lottery"){:height="75px" width="75px"} | ![lotto-530-10k.png](/lotto-530-10k.png "5/30 Lottery"){:height="75px" width="75px"} |![lotto-642.png](/lotto-642.png "6/42 Lottery"){:height="75px" width="75px"} |
+| **Ticket Price** | **£1** | **£1** | **£1** | **£1** | 
 | **Jackpot^*^** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
 | **Est. Prizes** | **30%**   | **40%**  | **50%**   | **50%**   | 
 | **Est. Gross Revenue^***^** | **70%**   | **40%**  | **50%**   | **50%**   | 
