@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-02T16:50:51.705Z
+date: 2019-12-02T16:52:05.664Z
 tags: 
 ---
 
@@ -170,8 +170,8 @@ See Sample Lottery Games Below
 |                           | [6/42 Lotto](https://docs.bonoboplc.com/en/games/lotto/642) | [5/30 Lotto](https://docs.bonoboplc.com/en/games/lotto/530) | Custom Lotto |
 |---------------------------|------------|------------|--------------|
 | Jackpot                   | **£25,000**     | **£5,000**      | ?            |
-| Estimated Gross Revenue:  | **59%**        | **51%**        | ?            |
-| Estimated Player Wins     | **41%**        | **48%**        | ?            |
+| Estimated Gross Revenue:  | **50%**        | **60%**        | ?            |
+| Estimated Player Wins     | **50%**        | **40%**        | ?            |
 | Odds of Winning Jackpot   | **1 in 5,245,786**     | **1 in 142,506**     | ?            |
 | Odds of Winning any prize | **1 in 5**    | **1 in 5**     | ?            |
 |                           | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/642)    | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/530)    |              |
