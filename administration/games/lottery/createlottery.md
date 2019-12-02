@@ -2,7 +2,7 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T15:46:55.246Z
+date: 2019-12-02T15:56:46.398Z
 tags: 
 ---
 
@@ -11,16 +11,18 @@ tags:
 The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
 
 
-|  |   | |   | Lottery Templates| 
+|  |   | |   | Estimated Outcomes^**^| 
 | ------ | ------ | ------ | ------ | ------ | 
 | | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="75px" width="75px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} |![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="75px" width="75px"} |
-| **Jackpot** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
-| **Estimated Prizes as % of Sales**| 30%  | 40%   | 50%   |  50%   | 
-| **Estimated Gross Revenue** | **70%**   | **60%**  | **50%**   | **50%**   | 
-| **Prize Vs. Revenue Split**<BR>as a percentage of sales | **30% - 70%**   | **40% - 60%**  | **50% - 50%**   | **50% - 50%**   | 
-| **Chance of Jackpot** | 1 in 324,632   | 1 in 142,506  | 1 in 142,506  |  1 in 5,245,786| 
+| **Jackpot^*^** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
+| **Prizes vs. Gross Revenue^***^** | **30% - 70%**   | **40% - 60%**  | **50% - 50%**   | **50% - 50%**   | 
+| **Chance of Jackpot^**^** | 1 in 324,632   | 1 in 142,506  | 1 in 142,506  |  1 in 5,245,786| 
 | **Chance of winning any prize** | 1 in 7   | 1 in 5 | 1 in 5  | 1 in 5   | 
 
+
+^*^ *Jackpot* Based on payout table
+^**^ *Chance of Jackpot* is estimated based on the games Pick Size and Range. I.e. Pick from 1 to 42. 
+^***^ *Prizes vs. Gross Revenue* is estimated. See each games payout and odds table for more detail. See more information about budgeting for prizes below.
 
 Entry price and payout tables can be customized if needed.
 
