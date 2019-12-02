@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-11-29T14:53:24.054Z
+date: 2019-12-02T15:31:40.776Z
 tags: 
 ---
 
@@ -210,7 +210,7 @@ Prizes should be paid from Ticket Sales and your Prize Trust Fund.
 
 ### How should I budget for paying Lottery prizes?
 
-On average, a Lottery game will pay prizes, equal to approximately 35% of the value of ticket sales.
+On average, our pre-configured Lottery games will expect to pay 35-60% of ticket sales as prizes. 
 
 This expected value is estimated to be reached over a statistically meaningful sample of tickets sold. As you sell more tickets, the prize payout percentage will move towards this expected average.
 However, there can be fluctuations in the short run. 
