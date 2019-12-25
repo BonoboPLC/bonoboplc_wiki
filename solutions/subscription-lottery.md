@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-25T12:25:51.090Z
+date: 2019-12-25T12:28:19.697Z
 tags: 
 ---
 
@@ -51,7 +51,7 @@ Over some time, your Lottery can become an important supplement to your income.
 
 The table shows the estimated revenues for a £2 Weekly Lottery. 
 
-Your Fees due to Bonobo are a flat rate of 5 pence per ticket sold. See the following section for details.
+Your Fees due to Bonobo are a flat rate per ticket sold. See the following section for details.
 
 
 
