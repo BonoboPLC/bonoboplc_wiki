@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-25T12:28:31.792Z
+date: 2019-12-26T12:16:53.996Z
 tags: 
 ---
 
@@ -62,7 +62,7 @@ Monthly Subscription: **£8.67**
 |----------------------------|--------|---------------------|
 | **Ticket Price**               | £2.00  | 100%                |
 | <i class="fas fa-minus"></i> Less Estimated Prize Expense          | £0.70  | 35%                 |
-| <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.03**  | **2.5%**        |
+| <i class="fas fa-minus"></i> Less Bonobo Fixed Fee             | **£0.03**  | **1.5%**        |
 | <i class="fas fa-minus"></i> Less Direct Debit Fee| £0.038 | 2%                  |
 |  **Estimated Gross Profit:**              | **£1.25**  | **60.5%**                |
 
