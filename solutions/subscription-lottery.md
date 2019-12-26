@@ -2,7 +2,7 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-26T13:46:47.758Z
+date: 2019-12-26T13:54:40.596Z
 tags: 
 ---
 
@@ -73,7 +73,7 @@ Bonobo charges a simple flat-rate pricing for each ticket you sell on the system
 
 You will need to **pre-purchase Lottery Ticket Credits** before starting your lottery.
 
-**Each Credit costs £0.05** and will remain on your Bonobo Account until used. 
+**Each Credit costs £0.03** and will remain on your Bonobo Account until used. 
 
 Each time an entry/line is entered in a game, your Bonobo Account will be debited one Credit, regardless of the cost of your tickets. 
 
