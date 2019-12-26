@@ -2,7 +2,7 @@
 title: Direct Debit Subscription Lottery for Schools (UK)
 description: How does your School Lottery work?
 published: 1
-date: 2019-11-21T16:48:56.717Z
+date: 2019-12-26T13:44:26.448Z
 tags: school lottery
 ---
 
@@ -165,18 +165,28 @@ When choosing a lottery you should keep the following factors in mind:
 - **Estimated Return to Player**: What percentage of ticket sales do you expect to be won as prizes? 
 - **Lottery Jackpot Prize** Do you want to start small or do you want to start with the max £25,000 Jackpot? (if you only sell a handful of tickets, are you able to pay the Jackpot prize in case of an unlikely win?)
 
-See Sample Lottery Games Below
+**See Sample Lottery Games Below**
 
-|                           | [6/42 Lotto](https://docs.bonoboplc.com/en/games/lotto/642) | [5/30 Lotto](https://docs.bonoboplc.com/en/games/lotto/530) | Custom Lotto |
-|---------------------------|------------|------------|--------------|
-| Jackpot                   | **£25,000**     | **£5,000**      | ?            |
-| Estimated Gross Revenue:  | **59%**        | **51%**        | ?            |
-| Estimated Player Wins     | **41%**        | **48%**        | ?            |
-| Odds of Winning Jackpot   | **1 in 5,245,786**     | **1 in 142,506**     | ?            |
-| Odds of Winning any prize | **1 in 5**    | **1 in 5**     | ?            |
-|                           | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/642)    | [DETAILS](https://docs.bonoboplc.com/en/games/lotto/530)    |              |
+The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
 
- 
+
+|  |   | |   | Estimated Outcomes^**^| 
+| ------ | ------ | ------ | ------ | ------ | 
+| | ![lotto-535.png](/lotto-535.png "5/35 Lottery"){:height="75px" width="75px"} | ![lotto-530.png](/lotto-530.png "5/30 Lottery"){:height="75px" width="75px"} | ![lotto-530-10k.png](/lotto-530-10k.png "5/30 Lottery"){:height="75px" width="75px"} |![lotto-642.png](/lotto-642.png "6/42 Lottery"){:height="75px" width="75px"} |
+| **Ticket Price** | **£1** | **£1** | **£1** | **£1** | 
+| **Jackpot^*^** | **£10,000** | **£5,000** | **£10,000** | **£25,000** | 
+| **Est. Prizes** | **30%**   | **40%**  | **50%**   | **50%**   | 
+| **Est. Gross Revenue^***^** | **70%**   | **40%**  | **50%**   | **50%**   | 
+| **Chance of winning any prize**| 1 in 7| 1 in 5 | 1 in 5  |  1 in 5|
+| **Chance of Jackpot**^**^| 1 in 324,632  | 1 in 142,506 | 1 in 142,506*  | 1 in 5,245,786 |
+| | [Lotto 5/35](https://docs.bonoboplc.com/en/games/lotto/535-10k)  |[Lotto 5/30 (a)](https://docs.bonoboplc.com/en/games/lotto/530)  |[Lotto 5/30 (b)](https://docs.bonoboplc.com/en/games/lotto/530-10k)  |[Lotto 6/42](https://docs.bonoboplc.com/en/games/lotto/642)  |
+
+^*^ *Jackpot* Based on payout table
+^**^ *Chance of Jackpot* is estimated based on the games Pick Size and Range. I.e. Pick from 1 to 42. 
+^***^ *Prizes vs. Gross Revenue* is estimated. See each games payout and odds table for more detail. See more information about budgeting for prizes below.
+
+Entry price and payout tables can be customized if needed.
+
 
 
 
