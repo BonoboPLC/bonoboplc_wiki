@@ -2,7 +2,7 @@
 title: Basic Lottery
 description: A typical lottery game where players can pick X numbers from a range Y.
 published: 1
-date: 2020-02-03T12:32:58.497Z
+date: 2020-02-03T12:33:13.467Z
 tags: basic lottery, lottery, lotto, traditional lottery
 ---
 
@@ -17,9 +17,9 @@ Players must select from a Primary range. Their prizes are determined based on t
 You can customize your pick range (i.e. Pick 6 between 1 and 49) and the consequent payout table for your custom game.
 
 >**Sample 6/49**
-Estimated Gross Revenue: **30% of ticket Sales** 
-Estimated Player Wins: **70% of ticket Sales** 
-Odds of winning Jackpot: **1 in 61,680,080 ** 
+Estimated Gross Revenue: **50% of ticket Sales** 
+Estimated Player Wins: **50% of ticket Sales** 
+Odds of winning Jackpot: **1 in 13,983,816  ** 
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
 
