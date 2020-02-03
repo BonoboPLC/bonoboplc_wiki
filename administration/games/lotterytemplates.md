@@ -2,7 +2,7 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-02-03T12:46:30.074Z
+date: 2020-02-03T12:47:11.298Z
 tags: 
 ---
 
@@ -17,7 +17,7 @@ The following lottery Master Templates can be used to create your own Lottery ga
 |  |   | |   | | 
 | ------ | ------ | ------ | ------ | ------ | 
 | | ![basic-lottery.png](/uploads/basic-lottery.png "Basic Lottery"){:height="75px" width="75px"} | ![bonusball-lottery.png](/uploads/bonusball-lottery.png "Bonus Ball Lottery"){:height="75px" width="75px"}  | ![powerball-lottery.png](/uploads/powerball-lottery.png "Powerballs Lottery"){:height="75px" width="75px"} |![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png "Any Place can Pay Lottery"){:height="75px" width="75px"} |
-| **Game Type** | **Basic Lottery** | **Bonus Ball Lottery** | **Power Balls Lottery** | **Any Place Lottery** | 
+| **Game Type** | **Traditional Lottery** | **Bonus Ball Lottery** | **Power Balls Lottery** | **Any Place Lottery** | 
 | **Example** | **Pick 6/49** | **Bonus Ball Drawn** | **Pick 5/35 + 2/20** | **No Matches pays** | 
 | **Customize Payouts** | Yes   | Yes | Yes   |Yes | 
 | **Customize Branding** | Yes   | Yes | Yes   |Yes | 
