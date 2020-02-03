@@ -2,7 +2,7 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-02-03T12:20:15.966Z
+date: 2020-02-03T12:46:01.925Z
 tags: 
 ---
 
@@ -22,7 +22,7 @@ The following lottery games are pre-configured for UK charities and feature a **
 | **Customize Branding** | Yes   | Yes | Yes   |Yes | 
 | **Instant Lotto variation** | Yes   | Yes | Yes   |Yes | 
 | **Scheduled Tournaments** | Yes   | Yes | Yes   |Yes | 
-| | [View Details](https://docs.bonoboplc.com/games/lotto/powerballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |
+| | [View Details](https://docs.bonoboplc.com/games/lotto/basic-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/powerballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/anyplace-lotto)  |
 
 # Pre-Configured Lottery Games (UK)
 
