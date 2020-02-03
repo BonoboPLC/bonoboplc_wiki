@@ -2,7 +2,7 @@
 title: Any Place can Pay Lottery
 description: Each match can pay a specific amount, even zero matches!
 published: 1
-date: 2020-02-03T12:45:27.103Z
+date: 2020-02-03T12:45:45.776Z
 tags: lottery, lotto
 ---
 
@@ -25,9 +25,9 @@ Assumed Ticket Price: **£1**
 
 ## Any Place Lottery Lottery Sample Payout
 
-![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png)
 
-| ![anyplace-lottery.png](/uploads/anypalce-lottery.png "Traditional Basic Lottery"){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
+
+| ![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
 | Match 5 Balls     | £16,000 | 1 in 324,632                   | £0.049               |                       |
 | Match 4 Balls     | £100 | 1 in 2,164                   | £0.046            |                       |
