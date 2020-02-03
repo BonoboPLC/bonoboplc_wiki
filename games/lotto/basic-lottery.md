@@ -2,7 +2,7 @@
 title: Basic Lottery
 description: A typical lottery game where players can pick X numbers from a range Y.
 published: 1
-date: 2020-02-03T12:32:13.739Z
+date: 2020-02-03T12:32:58.497Z
 tags: basic lottery, lottery, lotto, traditional lottery
 ---
 
@@ -23,11 +23,11 @@ Odds of winning Jackpot: **1 in 61,680,080 **
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
 
-## Powerballs Lottery Sample Payout
+## Traditional Lottery Sample Payout
 
 
 
-| ![powerball-lottery.png](/uploads/powerball-lottery.png){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
+| ![basic-lottery.png](/uploads/basic-lottery.png "Traditional Basic Lottery"){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
 | Match 6 Balls     | £1,500,000 | 1 in 13,983,816                   | £0.107               |                       |
 | Match 5 Balls     | £7,500  | 1 in 54,200                   | £0.138              |                       |
