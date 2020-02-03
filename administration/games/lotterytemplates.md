@@ -2,11 +2,29 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-01-08T14:17:09.347Z
+date: 2020-02-03T11:59:29.740Z
 tags: 
 ---
 
-# Lottery Templates (UK)
+
+# Lottery Master Templates
+
+The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
+
+
+
+|  |   | |   | | 
+| ------ | ------ | ------ | ------ | ------ | 
+| | ![basic-lottery.png](/uploads/basic-lottery.png "Basic Lottery"){:height="75px" width="75px"} | ![bonusball-lottery.png](/uploads/bonusball-lottery.png "Bonus Ball Lottery"){:height="75px" width="75px"}  | ![powerball-lottery.png](/uploads/powerball-lottery.png "Powerballs Lottery"){:height="75px" width="75px"} |![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png "Any Place can Pay Lottery"){:height="75px" width="75px"} |
+| **Game Type** | **Basic Lottery** | **Bonus Ball Lottery** | **Power Balls Lottery** | **Any Place Lottery** | 
+| **Example** | **Pick 6/49** | **Bonus Ball Drawn** | **Pick 5/35 + 2/20** | **No Matches pays** | 
+| **Customize Payouts** | Yes   | Yes | Yes   |Yes | 
+| **Customize Branding** | Yes   | Yes | Yes   |Yes | 
+| **Instant Lotto variation** | Yes   | Yes | Yes   |Yes | 
+| **Scheduled Tournaments** | Yes   | Yes | Yes   |Yes | 
+| | [View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |
+
+# Pre-Configured Lottery Games (UK)
 
 The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
 
