@@ -2,7 +2,7 @@
 title: Basic Lottery
 description: A typical lottery game where players can pick X numbers from a range Y.
 published: 1
-date: 2020-02-03T12:33:13.467Z
+date: 2020-02-03T12:33:23.501Z
 tags: basic lottery, lottery, lotto, traditional lottery
 ---
 
@@ -34,5 +34,5 @@ Assumed Ticket Price: **£1**
 | Match 4 Balls     | £75     | 1 in 1,032                        | £0.073              |                       |
 | Match 3 Balls     | £3    | 1 in 57                        | £0.053               |                       |
 | Match 2 Balls     | £1     | 1 in 8                     | £0.132              |                       |
-| |       |**Expected Payout**  | (£.50) **50%**  |  |
+| |       |**Expected Payout**  | (£0.50) **50%**  |  |
 | |       |**Expected Gross**  | (£0.50) **50%**   |  |
