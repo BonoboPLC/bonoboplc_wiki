@@ -2,7 +2,7 @@
 title: Bonus Balls Lottery
 description: A lottery in which a bonus ball is drawn from the remaining numbers, following the main draw
 published: 1
-date: 2020-02-03T12:01:38.780Z
+date: 2020-02-03T12:24:30.101Z
 tags: bonus ball lottery, bonus balls, bonus lottery, bonus lotto
 ---
 
@@ -23,6 +23,7 @@ Odds of winning Jackpot: **1 in 1,906,884**
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
 
+## Bonus Balls Lottery Sample Payout
 
 | ![bonusball-lottery.png](/uploads/bonusball-lottery.png){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
