@@ -2,7 +2,7 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T12:20:01.574Z
+date: 2020-02-03T12:22:30.066Z
 tags: lottery, powerballs
 ---
 
@@ -20,20 +20,15 @@ You can customize your pick range (i.e. Pick 6 between 5 and 35 and 2 from 1 to 
 **£2.00 Ticket **
 Estimated Gross Revenue: **30% of ticket Sales** 
 Estimated Player Wins: **70% of ticket Sales** 
-Odds of winning Jackpot: **1 in 1,906,884** 
-Odds of winning any prize: **1 in 6** 
+Odds of winning Jackpot: **1 in 61,680,080 ** 
+Odds of winning any prize: **1 in 7** 
 Assumed Ticket Price: **£1**  # Powerballs Lottery Template
 
->Estimated Gross Revenue: **66% of ticket Sales** 
-Estimated Player Wins: **34% of ticket Sales** 
-Odds of winning Jackpot: **1 in 1,906,884** 
-Odds of winning any prize: **1 in 6** 
-Assumed Ticket Price: **£1**  
 
 
 | ![powerball-lottery.png](/uploads/powerball-lottery.png){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
-| Match 5 Balls + 2 Bonus      | £6,000,000 | 1 in 6,168,008                   | £0.100               |                       |
+| Match 5 Balls + 2 Bonus      | £6,000,000 | 1 in 61,680,080                   | £0.100               |                       |
 | Match 5 Balls + 1 Bonus     | £175,000  | 1 in 1,713,335                     | £0.100               |                       |
 | Match 4 Balls + 2 Bonus     | £40,000     | 1 in 411,200
 ,120                         | £0.028               |                       |
