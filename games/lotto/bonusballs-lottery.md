@@ -2,14 +2,14 @@
 title: Bonus Balls Lottery
 description: A lottery in which a bonus ball is drawn from the remaining numbers, following the main draw
 published: 1
-date: 2020-02-03T12:00:21.288Z
+date: 2020-02-03T12:01:38.780Z
 tags: bonus ball lottery, bonus balls, bonus lottery, bonus lotto
 ---
 
 
 # Bonus Balls Lottery Template
 
-You can use Lottery templates to create your own Lottery.
+You can use the Bonus Ball Lottery templates to create your own Lottery.
 
 >**Bonus Ball Lottery Rules**
 After the main set of balls are drawn, an additional Bonus Ball is drawn at the end of each draw from the remaining numbers.
