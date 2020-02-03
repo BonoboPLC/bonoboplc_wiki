@@ -2,12 +2,26 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T11:39:11.024Z
+date: 2020-02-03T12:05:27.459Z
 tags: lottery, powerballs
 ---
 
 
-# Powerballs Lottery Template
+# PowerBalls Lottery Template
+
+You can use the PowerBalls Ball Lottery templates to create your own Lottery.
+
+>**Powerballs Lottery Rules**
+Players must select from a Primary range as well as as secondary range. For example, pick 5 numbers between 1 and 50 and 2 numbers between 1 and 20. This format is similar to the Euromillions or Powerballs.
+
+You can customize your pick range (i.e. Pick 6 between 5 and 35 and 2 from 1 to 20) and the consequent payout table for your custom game.
+
+>**Sample 5/35 + 2/20 Game**
+Estimated Gross Revenue: **66% of ticket Sales** 
+Estimated Player Wins: **34% of ticket Sales** 
+Odds of winning Jackpot: **1 in 1,906,884** 
+Odds of winning any prize: **1 in 6** 
+Assumed Ticket Price: **£1**  # Powerballs Lottery Template
 
 >Estimated Gross Revenue: **66% of ticket Sales** 
 Estimated Player Wins: **34% of ticket Sales** 
