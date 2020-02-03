@@ -2,7 +2,7 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T12:05:27.459Z
+date: 2020-02-03T12:14:47.391Z
 tags: lottery, powerballs
 ---
 
@@ -32,14 +32,20 @@ Assumed Ticket Price: **£1**
 
 | ![powerball-lottery.png](/uploads/powerball-lottery.png){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
-| Match 5 Balls       | £25,000 | 1 in 1,906,884                   | £0.013                |                       |
-| Match 4 Balls + Bonus     | £2,000  | 1 in 381,376                      | £0.005                |                       |
-| Match 4 Balls      | £250     | 1 in 8,869                         | £0.028               |                       |
-| Match 3 Balls + Bonus     | £25      | 1 in 4,434                          | £0.006               |                       |
-|     Match 3 Balls        | £25     | 1 in 211                           | £0.118               |                
-|     Match 2 Balls + Bonus        | £1     | 1 in 211                          | £0.005              |     
-|     Match 2 Balls         | £1     | 1 in 15                      | £0.065             |    
-|     Match 1 Ball + Bonus     | £1    | 1 in 30                           | £0.033              |                
+| Match 5 Balls + 2 Bonus      | £6,00,000 | 1 in 6,168,008                   | £0.100               |                       |
+| Match 5 Balls + 1 Bonus     | £175,000  | 1 in 1,713,335                     | £0.100               |                       |
+| Match 4 Balls + 2 Bonus     | £40,000     | 1 in 411,200
+,120                         | £0.028               |                       |
+| Match 5 Balls + 0 Bonus     | £40,000      | 1 in 403,137                        | £0.006               |                       |
+|     Match 3 Balls + 2 Bonus        | £1,400     | 1 in 14,179                           | £0.118               |                
+|     Match 4 Balls + 1 Bonus        | £1,150    | 1 in 11,422                          | £0.005              |     
+|     Match 4 Balls + 0 Bonus       | £275     | 1 in 2,687                      | £0.065             |    
+|     Match 2 Balls + 2 Bonus     | £150    | 1 in 1519                          | £0.033              |      
+|     Match 1 Ball + 2 Bonus     | £45    | 1 in 450                          | £0.033              |  
+|     Match 3 Balls + 1 Bonus     | £39    | 1 in 393                           | £0.033              | 
+|     Match 3 Balls + 0 Bonus     | £9    | 1 in 92                           | £0.033              |   
+|     Match 2 Balls + 1 Bonus     | £4    | 1 in 42                           | £0.033              |  
+|     Match 2 Balls + 0 Bonus     | £2    | 1 in 10                           | £0.033              |   
 |     Match Bonus Ball     | £1    | 1 in 15                           | £0.067                |            
 | |       |**Expected Payout**  | (£0.34) **34%**  |  |
 | |       |**Expected Gross**  | (£0.66) **66%**   |  |
