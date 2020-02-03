@@ -2,7 +2,7 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T11:36:30.780Z
+date: 2020-02-03T11:36:42.790Z
 tags: lottery, powerballs
 ---
 
