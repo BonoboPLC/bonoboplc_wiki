@@ -2,7 +2,7 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T11:36:59.074Z
+date: 2020-02-03T11:39:11.024Z
 tags: lottery, powerballs
 ---
 
@@ -27,5 +27,5 @@ Assumed Ticket Price: **£1**
 |     Match 2 Balls         | £1     | 1 in 15                      | £0.065             |    
 |     Match 1 Ball + Bonus     | £1    | 1 in 30                           | £0.033              |                
 |     Match Bonus Ball     | £1    | 1 in 15                           | £0.067                |            
-| |       |**Expected Payout**  | (£0.28) **34%**  |  |
-| |       |**Expected Gross**  | (£0.72) **66%**   |  |
+| |       |**Expected Payout**  | (£0.34) **34%**  |  |
+| |       |**Expected Gross**  | (£0.66) **66%**   |  |
