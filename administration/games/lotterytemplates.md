@@ -2,7 +2,7 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-02-03T12:46:19.901Z
+date: 2020-02-03T12:46:30.074Z
 tags: 
 ---
 
@@ -25,7 +25,7 @@ The following lottery Master Templates can be used to create your own Lottery ga
 | **Scheduled Tournaments** | Yes   | Yes | Yes   |Yes | 
 | | [View Details](https://docs.bonoboplc.com/games/lotto/basic-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/bonusballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/powerballs-lottery)  |[View Details](https://docs.bonoboplc.com/games/lotto/anyplace-lotto)  |
 
-# Pre-Configured Lottery Games (UK)
+## Pre-Configured Lottery Games (UK)
 
 The following lottery games are pre-configured for UK charities and feature a **£1 entry** with a chance to win a  maximum Jackpot of **£25,000**. 
 
