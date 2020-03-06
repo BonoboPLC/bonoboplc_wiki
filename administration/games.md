@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-06T13:17:50.547Z
+date: 2020-03-06T13:22:31.356Z
 tags: 
 ---
 
@@ -21,26 +21,35 @@ Click on each game type to find out more.
 |[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="200px" width="200px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="200px" width="200px"}](/administration/games/lottery  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="200px" width="200px"}](/administration/games/raffle "Raffles ")|
 
 
-# Game Management
+# Common Game Management Info
 
 The topics contained below apply to all game types and should be read by all game managers.
 
-- Pre-Load Game Templates
+- Pre-loaded Game Templates
 - Creating Games
 - Starting & Stopping Games
+- Managing Game Schedules
 - Game Branding Elements
+
+## Game Templates vs. Game Instances
+
+A Game Template refers to the collection of configurations and branding elements that make up a unique Game.
+
+Each Game Template is assigned a unique Game Template ID (also called Game Definition ID) and can be modified and edited. 
+
+When a game is Started, a new Instance of the game is created based on the current configurations specified in the Game Template.
+
+This game is assigned a unique Game Instance ID and is available for players.
+
+> The players will at all times see references to the Game Instance ID and never to the Game Template
+{.is-warning}
 
 
 
 ## Pre-loaded Game Templates
-Depending on your installation type, we preload a number of pre-configured games for you.
+Depending on your installation type, we preload a number of pre-configured Game Templates for you.
 
 You can use these pre-configured games, or clone a copy to use as a starting point for your own custom game.
-
-
-Each game template is assigned a unique Game Template ID (also called Game Definition ID) and can be modified and edited. 
-
-When a game is started, a new Instance of the game is created based on the current configurations specified in the Game Template.
 
 
 | |||
