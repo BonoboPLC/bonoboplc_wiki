@@ -1,6 +1,10 @@
-<!-- TITLE: Raffle Games -->
-<!-- SUBTITLE: Creating your own custom cash or prize draw raffle -->
-
+---
+title: Raffle Games
+description: Creating your own custom cash or prize draw raffle
+published: 1
+date: 2020-03-06T11:10:04.640Z
+tags: 
+---
 
 # Traditional Raffles
 
@@ -277,6 +281,9 @@ You can easily customize your games branding and Logo.
 # Raffle Rules
 
 
+### Raffle Draw Start time
+Raffles start at a pre-set date & time. 
+Games can be rescheduled or cancelled if the minimum number of tickets are not sold by the scheduled start date. This threshold must be greater or equal to the number of prizes available.
 
 ### Sequential Tickets
 
@@ -285,5 +292,19 @@ Each ticket is sequentially numbered, starting with 000001
 ### 1 Winner Per Draw
 
 There will be one winner selected, on each draw. The draws continue until all prizes are paid out.
+
+### Cancelled Tickets
+
+Cancelled tickets are not re-issued and do not take part in the Raffle draws.
+
+### Drawing for Winners
+
+For each Prize, the system will randomly draw from the pool of eligible and remaining tickets. 
+The draws will continue until all winners are determined for each available prize. 
+
+### Viewing Draws LIVE
+
+Raffle draws can be viewed live, or replayed at any time.
+
 
 
