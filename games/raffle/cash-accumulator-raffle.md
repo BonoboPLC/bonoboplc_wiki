@@ -2,28 +2,37 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T13:36:05.917Z
+date: 2020-03-06T13:52:52.362Z
 tags: 5050 raffle, cash raffle
 ---
 
 
 # Cash Accumulator Raffle
 
-This prize pool grows as each ticket is sold.
+In this type of raffle, the prize pool grows as each ticket is sold.
 
-The starting amount shown, when the game is first turned on, is the Estimated Prize Pool. 
+The amount contributed from the sale of each ticket to the prize pool is configured prior to the start of the game. 
+
+When the game is first turned on, the Estimated Prize Pool is shown until the actual prize pool exceeds this amount.  
+
+## Sample 50/50 Game
+![50-50small.png](/50-50small.png){:height="100px" width="100px"}
+
+A maximum of 1,000 Tickets will be available, priced at £10 each. 
+£5 from each ticket will go to the prize fund, £5 will go to the operator.
+
+We estimate ticket sales of 500 and set the Estimated prize pool at £2,500.
+
+The **Estimated Prize pool** is displayed on tickets and website, until the actual prize fund, exceeds the estimated prize pool.
 
 
-The contribution to the prize pool, from the sale of each ticket, is configured via the Raffle Builder
+>**Sample Cash Accumulator Raffle- 50/50 Raffle**
 
->**Raffle Rules**
-Players must select from a Primary range. Their prizes are determined based on their matches.For example, pick 6 numbers between 1 and 49.
-
-You can customize your pick range (i.e. Pick 6 between 1 and 49) and the consequent payout table for your custom game.
-
->**Sample 6/49**
-Estimated Gross Revenue: **50% of ticket Sales** 
-Estimated Player Wins: **50% of ticket Sales** 
+Ticket Price: **£10**  
+To Prizes: **£5** 
+To Operator/Charity: **£5**
+Total Tickets Available: **1,000** 
+To Prizes: **£5** 
 Odds of winning Jackpot: **1 in 13,983,816  ** 
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
