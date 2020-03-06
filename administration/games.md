@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-06T13:09:47.891Z
+date: 2020-03-06T13:11:31.983Z
 tags: 
 ---
 
@@ -21,9 +21,9 @@ Click on each game type to find out more.
 |[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="200px" width="200px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="200px" width="200px"}](/administration/games/lottery  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="200px" width="200px"}](/administration/games/raffle "Raffles ")|
 
 
+# Game Management
 
-
-# Pre-loaded Game Templates
+## Pre-loaded Game Templates
 Depending on your installation type, we preload a number of pre-configured games for you.
 
 You can use these pre-configured games, or Clone a copy to use as a starting point for your own custom game.
@@ -38,14 +38,14 @@ Each game template is assigned a unique Game Template ID (also called Game Defin
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
 
- # Creating Game Templates
+ ## Creating Game Templates
 
 To create any type of Game Templates, navigate to that game type (Raffle/LottoRace/Lottery) and look for the Create button on the top right corner.
 
  ![Create Lottery](/uploads/create-lottery.png "Create Lottery")
  
 
- # Editing Games
+ ## Editing Games
  In order to edit any of the games configuration, make sure the game is stopped.
  
  Then click "Change" on each configuration group.
@@ -57,7 +57,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 > **Usage note:**  The Game Template must be stopped first, before editing any of the games configuration values, with the exception game branding and schedule which can be edited live.
 {.is-success}
 
-# Starting & Stopping Games
+## Starting & Stopping Games
 
 To manage games, navigate to Games -> LottoRace from the left hand navigation.
 
@@ -111,7 +111,7 @@ If a game is set to closed, the current open Game Instance will be the last one 
 
  
 
-# Managing Schedule
+## Managing Schedule
 
 You can set and update your game schedules at any time, even if the game is already open for registration.
 
@@ -172,7 +172,7 @@ The registration Delay should at least be one second (1000 milliseconds) for mos
 The maximum number of Game Instances that can be created by this game template.
 
 
-# Setting Game Logo/Branding
+## Setting Game Logo/Branding
 
 You can customize up to 5 elements to reflect your games branding and image.
 
