@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T18:57:09.129Z
+date: 2020-03-06T19:27:19.065Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -41,19 +41,23 @@ See Table below for a sample
 
 
 
-## Cash Accumulator Sample Payout
+## Prize Distribution
+  
+- Fixed Number of Winners
+- Based on Percentage of Winners
+  
 
 ### Option 1 - Fixed Number of Winners
 
 
-| ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}       | Prize Pool Shown on Tickets  | Actual Prize Pool                             | Game Time        |                       |
-|---------------|---------|----------------------------------|-----------------------|-----------------------|
-| 10 Entries    | £50 |      £2,500 Est.              | Actual Prize Pool will be used              |                       |
-| 400 Entries     | £2,000  | £2,500 Est.                 | Actual Prize Pool will be used             |                       |
-| 501 Entries      | £2,505     | £2,505                         | Actual Prize Pool will be used              |                       |
-| 600 Entries      | £3,000    | £2,505                        | £0.053               |                       |
-
-
+| ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st  | 2nd | 3rd |   4th | 5th | 6th | 7th | 8th | 9th |                 
+|---------------|---------|---------------|-----------------------|-----------------------|---| ---| ---| ---| ---|
+|1 Winner | 100% | - | - | -|- |-|- |- |- | 
+|2 Winners | 65% | 35% | - |- | -|-| -| -| -| 
+|3 Winners | 50% | 35% | 15% |- | -|| -| -| -| 
+|5 Winners | 45% | 25% |15%  |10% | 5%|-| -| -| -|
+|9 Winners | 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
+  
 
 
 ### Option 2 - Dynamic Winners 
