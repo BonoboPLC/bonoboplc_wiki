@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-06T10:16:39.825Z
+date: 2020-03-06T10:23:12.039Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -31,4 +31,24 @@ Prizes
 | **Prize Type** | Cash only   | Cash/Experiences/Prizes | Cash only   |
 | **Custom Prizes** | Yes   | Yes | Yes   |
 | **Customize Branding** | Yes   | Yes | Yes   |
+| **Minimum Tickets**** | 1   | Equal to No. of prizes | Equal to No. of prizes   |
 | | [View Details](https://docs.bonoboplc.com/games/raffle/cash-accumulator-raffle)  |[View Details](https://docs.bonoboplc.com/games/raffle/prize-draw-raffle)  |[View Details](https://docs.bonoboplc.com/games/raffle/cash-raffle)  |
+
+** If the minimum number of tickets is not sold, the game can be rescheduled or cancelled and refunded.
+
+## Prizes
+
+Raffle prizes can be cash or any arbitrary item or experience.
+
+
+
+These are prizes are guaranteed to be won in all raffle games.
+
+
+
+
+
+
+
+
+
