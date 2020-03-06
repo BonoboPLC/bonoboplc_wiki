@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-06T11:12:48.841Z
+date: 2020-03-06T11:27:10.786Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -48,9 +48,13 @@ These are prizes are guaranteed to be won in all raffle games.
 
 # Raffle Rules
 
+> The following Raffle rules apply to all Raffle types.
+{.is-info}
+
 
 ### Raffle Draw Start time
 Raffles start at a pre-set date & time. 
+
 Games can be rescheduled or cancelled if the minimum number of tickets are not sold by the scheduled start date. This threshold must be greater or equal to the number of prizes available.
 
 ### Sequential Tickets
@@ -59,22 +63,27 @@ Each ticket is sequentially numbered, starting with 000001
 
 ### 1 Winner Per Draw
 
-There will be one winner selected, on each draw. The draws continue until all prizes are paid out.
+There will be one winner selected, on each draw. 
+
+For each Prize, the system will randomly draw from the pool of eligible and remaining tickets.
+
+The draws will continue until all winners are determined for each available prize. 
 
 ### Cancelled Tickets
 
 Cancelled tickets are not re-issued and do not take part in the Raffle draws.
 
-### Drawing for Winners
-
-For each Prize, the system will randomly draw from the pool of eligible and remaining tickets. 
-The draws will continue until all winners are determined for each available prize. 
 
 ### Viewing Draws LIVE
 
 Raffle draws can be viewed live, or replayed at any time.
 
 
+# How to Create your Raffle
+
+Using the Raffle Creator wizard, you can easily create your Raffle and any associated prizes with just a few clicks.
+
+If you are offering prizes, we suggest using the following
 
 
 
