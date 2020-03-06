@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-06T11:27:10.786Z
+date: 2020-03-06T12:40:51.498Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -83,7 +83,11 @@ Raffle draws can be viewed live, or replayed at any time.
 
 Using the Raffle Creator wizard, you can easily create your Raffle and any associated prizes with just a few clicks.
 
-If you are offering prizes, we suggest using the following
+> [Click here to view the Raffle Create Guide](https://docs.bonoboplc.com/administration/games/raffle)
+
+
+
+
 
 
 
