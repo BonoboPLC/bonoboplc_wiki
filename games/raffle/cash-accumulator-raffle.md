@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:29:45.544Z
+date: 2020-03-06T19:30:26.623Z
 tags: 5050 raffle, cash raffle
 ---
 
