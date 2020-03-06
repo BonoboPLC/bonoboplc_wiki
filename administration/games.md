@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-06T13:24:02.220Z
+date: 2020-03-06T13:25:33.282Z
 tags: 
 ---
 
@@ -25,11 +25,11 @@ Click on each game type to find out more.
 
 The topics contained below apply to all game types and should be read by all game managers.
 
-- Pre-loaded Game Templates
-- Creating Games
-- Starting & Stopping Games
-- Managing Game Schedules
-- Game Branding Elements
+- Using Pre-loaded Game Templates
+- How to create a Game
+- How to Start & Stop games
+- How to set Schedule for your games
+- Customizing your game branding and logo
 
 ## Game Templates vs. Game Instances
 
