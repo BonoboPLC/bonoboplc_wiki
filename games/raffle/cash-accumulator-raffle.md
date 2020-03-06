@@ -2,16 +2,21 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T11:04:57.194Z
-tags: cash raffle, 5050 raffle
+date: 2020-03-06T13:36:05.917Z
+tags: 5050 raffle, cash raffle
 ---
 
 
-# Traditional Lottery Template
+# Cash Accumulator Raffle
 
-You can use the traditional Lottery templates to create your simple Lottery.
+This prize pool grows as each ticket is sold.
 
->**Traditional Lottery Rules**
+The starting amount shown, when the game is first turned on, is the Estimated Prize Pool. 
+
+
+The contribution to the prize pool, from the sale of each ticket, is configured via the Raffle Builder
+
+>**Raffle Rules**
 Players must select from a Primary range. Their prizes are determined based on their matches.For example, pick 6 numbers between 1 and 49.
 
 You can customize your pick range (i.e. Pick 6 between 1 and 49) and the consequent payout table for your custom game.
@@ -23,8 +28,9 @@ Odds of winning Jackpot: **1 in 13,983,816  **
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
 
-## Traditional Lottery Sample Payout
+## Cash Accumulator Sample Payout
 
+### Option 1 - Fixed Number of Winners
 
 
 | ![basic-lottery.png](/uploads/basic-lottery.png "Traditional Basic Lottery"){:height="75px" width="75px"}       | Prize   | Odds                             | Expected Wins         |                       |
@@ -36,3 +42,9 @@ Assumed Ticket Price: **£1**
 | Match 2 Balls     | £1     | 1 in 8                     | £0.132              |                       |
 | |       |**Expected Payout**  | (£0.50) **50%**  |  |
 | |       |**Expected Gross**  | (£0.50) **50%**   |  |
+
+
+### Option 2 - Dynamic Winners 
+A percentage of tickets sold, will win
+
+
