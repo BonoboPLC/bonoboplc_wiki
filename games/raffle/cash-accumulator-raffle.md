@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:58:15.587Z
+date: 2020-03-06T19:58:45.071Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -38,7 +38,7 @@ In this example, £5 is contributed to the prize pool from the sale of each tick
 | 10 Entries    | £50 |      £2,500 Estimated              | Actual Prize Pool           |           
 | 400 Entries     | £2,000  | £2,500 Estimated                | Actual Prize Pool              |        
 | 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool      |    
-| 550 Entries      | £2,750     | £2,505 Guaranteed                        | Actual Prize Pool      |      
+| 550 Entries      | £2,750     | £2,750 Guaranteed                        | Actual Prize Pool      |      
 | 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool  |
 
 <BR>
