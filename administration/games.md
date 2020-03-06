@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-06T13:11:31.983Z
+date: 2020-03-06T13:17:50.547Z
 tags: 
 ---
 
@@ -23,12 +23,24 @@ Click on each game type to find out more.
 
 # Game Management
 
+The topics contained below apply to all game types and should be read by all game managers.
+
+- Pre-Load Game Templates
+- Creating Games
+- Starting & Stopping Games
+- Game Branding Elements
+
+
+
 ## Pre-loaded Game Templates
 Depending on your installation type, we preload a number of pre-configured games for you.
 
-You can use these pre-configured games, or Clone a copy to use as a starting point for your own custom game.
+You can use these pre-configured games, or clone a copy to use as a starting point for your own custom game.
 
-Each game template is assigned a unique Game Template ID (also called Game Definition ID).  This is differentiated from Game Instance ID which refers to an actual game, available to be played by players.
+
+Each game template is assigned a unique Game Template ID (also called Game Definition ID) and can be modified and edited. 
+
+When a game is started, a new Instance of the game is created based on the current configurations specified in the Game Template.
 
 
 | |||
