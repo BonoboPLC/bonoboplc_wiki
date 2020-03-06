@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:30:26.623Z
+date: 2020-03-06T19:34:08.631Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -49,15 +49,19 @@ See Table below for a sample
 ### Option 1 - Fixed Number of Winners
   
 Prizes are distributed amongst a fixed number of winners. 
-As the prize pool grows, each player would receive the same percentage.
+As the prize pool grows, each player would end up receiving a larger nominal amount.
+  
+The following distributions are pre-configured
+  
+Winner Take All
 
-| ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st  | 2nd | 3rd |   4th | 5th | 6th | 7th | 8th | 9th |                 
+| ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st <BR>Prize | 2nd <BR>Prize| 3rd<BR>Prize |   4th<BR>Prize | 5th<BR>Prize | 6th<BR>Prize | 7th<BR>Prize | 8th<BR>Prize | 9th<BR>Prize |                 
 |---------------|---------|---------------|-----------------------|-----------------------|---| ---| ---| ---| ---|
-|1 Winner | 100% | - | - | -|- |-|- |- |- | 
-|2 Winners | 65% | 35% | - |- | -|-| -| -| -| 
-|3 Winners | 50% | 35% | 15% |- | -|| -| -| -| 
-|5 Winners | 45% | 25% |15%  |10% | 5%|-| -| -| -|
-|9 Winners | 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
+|Winner Take All Game | 100%<BR>of prize pool | - | - | -|- |-|- |- |- | 
+|2 Winners Game | 65%<BR>of prize pool | 35%<BR>of prize pool | - |- | -|-| -| -| -| 
+|3 Winners Game| 50% | 35% | 15% |- | -|| -| -| -| 
+|5 Winners Game| 45% | 25% |15%  |10% | 5%|-| -| -| -|
+|9 Winners Game| 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
   
 
 
