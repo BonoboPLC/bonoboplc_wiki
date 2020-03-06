@@ -2,13 +2,15 @@
 title: Raffle Games
 description: Creating your own custom cash or prize draw raffle
 published: 1
-date: 2020-03-06T11:19:44.827Z
+date: 2020-03-06T11:22:00.294Z
 tags: 
 ---
 
 # Traditional Raffles
 
 Traditional Raffle games allow you to offer any type of prize, as well as cash in your games.
+
+**This guide will walk you through creating your custom raffle, using anyone of our 3 basic raffle types.**
 
 
 
