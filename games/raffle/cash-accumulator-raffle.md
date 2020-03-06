@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:37:35.501Z
+date: 2020-03-06T19:53:57.461Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -31,21 +31,25 @@ See Table below for a sample
 
 ### Prize Pool Growth
 
-| Number of Entries       | Prize Pool <BR>(as Shown to players)  | Actual Prize Pool                             | Game Time        |                       |
-|---------------|---------|----------------------------------|-----------------------|-----------------------|
-| 10 Entries    | £50 |      £2,500 Estimated              | Actual Prize Pool will be used              |                       |
-| 400 Entries     | £2,000  | £2,500 Estimated                | Actual Prize Pool will be used             |                       |
-| 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool will be used              |                       |
-| 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool will be used   |
+| Number of Entries       | Prize Pool <BR>(as Shown to players)  | Actual Prize Pool                             | Prize Pool at Game Time        |                  
+|---------------|---------|----------------------------------|-----------------------|
+| 10 Entries    | £50 |      £2,500 Estimated              | Actual Prize Pool           |           
+| 400 Entries     | £2,000  | £2,500 Estimated                | Actual Prize Pool              |        
+| 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool      |          
+| 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool  |
 
-
-
+<BR>
 
 ## Prize Distribution
+
+The prize pool can be distributed to the winners in one of two ways. 
   
 - Fixed Number of Winners
-- Based on Percentage of Winners
+- Dynamic Number of winners; Number of Prizes and their respective amounts change in proportion to the number of total tickets sold
+
+<BR>
   
+    
 ### Option 1 - Fixed Number of Winners
   
 Prizes are distributed amongst a fixed number of winners. 
