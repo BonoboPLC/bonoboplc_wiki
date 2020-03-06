@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T18:38:10.707Z
+date: 2020-03-06T18:40:02.978Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -21,7 +21,7 @@ When the game is first turned on, the Estimated Prize Pool is shown until the ac
 A maximum of 1,000 Tickets will be available, priced at £10 each. 
 £5 from each ticket will go to the prize fund, £5 will go to the operator.
 
-We estimate ticket sales of 500 and set the Estimated prize pool at £2,500.
+We estimate ticket sales of 500 and will therefore set the Estimated prize pool at £2,500 (£5 x 500).
 
 The **Estimated Prize pool** is displayed on tickets and website, until the actual prize fund, exceeds the estimated prize pool.
 
