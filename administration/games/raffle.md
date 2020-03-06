@@ -2,20 +2,24 @@
 title: Raffle Games
 description: Creating your own custom cash or prize draw raffle
 published: 1
-date: 2020-03-06T12:35:16.153Z
+date: 2020-03-06T12:44:46.269Z
 tags: 
 ---
 
-# Traditional Raffles
+# Creating your Raffle
 
-Traditional Raffle games allow you to offer any type of prize, as well as cash in your games.
 
 **This guide will walk you through creating your custom raffle, using anyone of our 3 basic raffle types.**
 
+Traditional Raffle games allow you to offer any type of prize, as well as cash in your games.
 
+**To Get started**
 
-![raffle-prizes.png](/raffle-prizes.png)
-
+1. Logon to your admin panel
+2. Navigate to Games -> Raffles
+3. Click on "Create Raffle"
+4. This will Launch the Raffle Builder
+5. Complete each section, as described below
 
 # Tickets & Price
 
