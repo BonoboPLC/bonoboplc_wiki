@@ -2,7 +2,7 @@
 title: Raffle Games
 description: Creating your own custom cash or prize draw raffle
 published: 1
-date: 2020-03-06T11:18:43.351Z
+date: 2020-03-06T11:19:44.827Z
 tags: 
 ---
 
@@ -10,13 +10,9 @@ tags:
 
 Traditional Raffle games allow you to offer any type of prize, as well as cash in your games.
 
-You can offer as many prizes and as many tickets as you like.
-
-Tickets are sequentially numbered, and a winning ticket will be randomly selected during each draw.
-
-![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
 
 
+![raffle-prizes.png](/raffle-prizes.png)
 
 
 # Tickets & Price
