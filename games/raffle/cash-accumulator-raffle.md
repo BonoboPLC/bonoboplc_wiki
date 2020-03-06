@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T18:54:57.103Z
+date: 2020-03-06T18:57:09.129Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -27,14 +27,16 @@ This **Estimated Prize pool** is displayed on tickets and website, until the act
 
 Once the actual prizes exceed this amount, i.e. after selling the 501st ticket, the prize pool will increase to £2,505 from £2,500. 
 
+See Table below for a sample
 
-| Number of Entries       | Prize Pool (as Shown to players)  | Actual Prize Pool                             | Game Time        |                       |
+### Prize Pool Growth
+
+| Number of Entries       | Prize Pool <BR>(as Shown to players)  | Actual Prize Pool                             | Game Time        |                       |
 |---------------|---------|----------------------------------|-----------------------|-----------------------|
-| 10 Entries    | £50 |      £2,500 Est.              | Actual Prize Pool will be used              |                       |
-| 400 Entries     | £2,000  | £2,500 Est.                 | Actual Prize Pool will be used             |                       |
-| 501 Entries      | £2,505     | £2,505                         | Actual Prize Pool will be used              |                       |
-| 600 Entries      | £3,000    | £3,000                        | Actual Prize Pool will be used              |                       |
-
+| 10 Entries    | £50 |      £2,500 Estimated              | Actual Prize Pool will be used              |                       |
+| 400 Entries     | £2,000  | £2,500 Estimated                | Actual Prize Pool will be used             |                       |
+| 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool will be used              |                       |
+| 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool will be used   |
 
 
 
