@@ -1,12 +1,25 @@
-<!-- TITLE: Games -->
-<!-- SUBTITLE: A quick summary of Games -->
+---
+title: Games
+description: A quick summary of Games
+published: 1
+date: 2020-03-06T13:09:47.891Z
+tags: 
+---
 
 # Available Game Types
 
-There are 3 different type of games currently offered on the Platform.
-| Available Game Types | | |
+The following game types are currently available on the Bonobo game library.
+
+You can use pre-configured games, or modify them to create your unique and custom game.
+
+Ask us if you need any help with implementing your game ideas.
+
+Click on each game type to find out more. 
+
+|  | | |
 | ------ | ------ | ------ | 
-|[ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}Lottery Games](/administration/games/lottery  "Managing your Lottery Games") | [![Daily Raffle](/uploads/daily-raffle.png "Daily Raffle"){:height="100px" width="100px"}Raffle Games](/administration/games/raffle "Managing your Raffle Games ")|
+|[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="200px" width="200px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="200px" width="200px"}](/administration/games/lottery  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="200px" width="200px"}](/administration/games/raffle "Raffles ")|
+
 
 
 
