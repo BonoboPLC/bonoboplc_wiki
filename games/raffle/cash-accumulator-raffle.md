@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:28:42.304Z
+date: 2020-03-06T19:29:45.544Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -49,7 +49,7 @@ See Table below for a sample
 ### Option 1 - Fixed Number of Winners
   
 Prizes are distributed amongst a fixed number of winners. 
-As the prize pool grows, the priz
+As the prize pool grows, each player would receive the same percentage.
 
 | ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st  | 2nd | 3rd |   4th | 5th | 6th | 7th | 8th | 9th |                 
 |---------------|---------|---------------|-----------------------|-----------------------|---| ---| ---| ---| ---|
