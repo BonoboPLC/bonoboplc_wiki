@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-06T10:23:12.039Z
+date: 2020-03-06T10:46:27.294Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -40,6 +40,7 @@ Prizes
 
 Raffle prizes can be cash or any arbitrary item or experience.
 
+![raffle-prizes.png](/raffle-prizes.png)
 
 
 These are prizes are guaranteed to be won in all raffle games.
