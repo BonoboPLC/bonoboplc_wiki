@@ -2,7 +2,7 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-02-03T12:47:11.298Z
+date: 2020-03-06T07:23:57.111Z
 tags: 
 ---
 
@@ -69,7 +69,7 @@ However, there can be fluctuations in the short run.
 
 Before starting your Lottery, you should create a **Prize Trust Fund**, equal to your top prize, in case of an unlikely win that cannot be covered by ticket sales.
 
-It is good budgeting practice, that afer each game, to set the aside the expected payout, even if no prizes are won. For example, in a game where you expect 35% of sales receipts to be won as prizes, but only 5% of are in fact won, you should still contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
+It is good budgeting practice, that after each game, to set the aside the expected payout, even if no prizes are won. For example, in a game where you expect 35% of sales receipts to be won as prizes, but only 5% of are in fact won, you should still contribute the remaining 30% to your Prize Trust Fund to cover any unexpected wins in future draws.
 
 The remaining percentages are used to pay for the operation of the game and to your benefit.
 
