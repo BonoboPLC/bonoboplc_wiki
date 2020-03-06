@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:53:57.461Z
+date: 2020-03-06T19:55:13.637Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -29,7 +29,7 @@ Once the actual prizes exceed this amount, i.e. after selling the 501st ticket, 
 
 See Table below for a sample
 
-### Prize Pool Growth
+## Prize Pool Growth
 
 | Number of Entries       | Prize Pool <BR>(as Shown to players)  | Actual Prize Pool                             | Prize Pool at Game Time        |                  
 |---------------|---------|----------------------------------|-----------------------|
@@ -40,7 +40,7 @@ See Table below for a sample
 
 <BR>
 
-## Prize Distribution
+## Prize Pool Distribution
 
 The prize pool can be distributed to the winners in one of two ways. 
   
@@ -76,7 +76,9 @@ The following distributions are pre-configured
 Custom payout tables can be configured on request.
   
 
-
+<BR>
+ <BR>
+   
 ### Option 2 - Dynamic Winners 
 A percentage of tickets sold, will win
 
