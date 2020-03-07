@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T16:33:25.269Z
+date: 2020-03-07T16:41:38.669Z
 tags: 
 ---
 
@@ -36,13 +36,13 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 
 In this example, £5 is contributed to the prize pool from the sale of each ticket.
 
-| Rank     | Prize   | Actual Prize Pool  |       |        
+| Rank     | Wins  | Prize | Value      |        
 |---------------|---------|----------------------------------|--|
-| 1st Place   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $5,000 cash            | Actual Prize Pool           |           
-|      | £2,000  | £2,500 Estimated                | Actual Prize Pool              |        
-| 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool      |    
-| 550 Entries      | £2,750     | £2,750 Guaranteed                        | Actual Prize Pool      |      
-| 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool  |
+| **1st Place**   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $100,000 Cash            | $100,000           |           
+| **2nd Place**     |![porsche-red.png](/porsche-red.png){:height="75px" width="150px"}  | Porsche 911            | £45,000            |        
+| **3rd Place**      | Trip for Two to Spain!     | Trip for Two to Spain!                       | £3,500     |    
+| **4th - 10th Place**     | 7 Prizes of £1,000 Cash    | 7 Prizes of £1,000 Cash                       | £1,000      |      
+| **11th - 15th**     | £3,000    | 5 Prizes win iPhone x11                        | £500  |
 
 <BR>
 
