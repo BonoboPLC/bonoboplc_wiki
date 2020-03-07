@@ -2,7 +2,7 @@
 title: Raffle Games
 description: Creating your own custom cash or prize draw raffle
 published: 1
-date: 2020-03-06T12:44:57.725Z
+date: 2020-03-07T17:38:01.904Z
 tags: 
 ---
 
@@ -155,7 +155,7 @@ Prize Name,
 Prize Value
 Cash Alternative (if you allow players to take cash instead of the prize)
 A brief description
-An Image - For best results use transparent PNG at 600x400 (h/w) at a minimum.
+An Image - For best results use transparent PNG at 800x400 (h/w) at a minimum.
 
 ![Create Prize](/uploads/create-prize.png "Create Prize")
 
