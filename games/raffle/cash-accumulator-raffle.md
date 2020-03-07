@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T13:36:59.053Z
+date: 2020-03-07T13:38:12.361Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -88,12 +88,12 @@ As more tickets are sold, a higher number of ticket will win.
    
 The following distribution options are pre-configured.
 
-- [1 in 3](../payout-tables/dynamic-1in3)
-- [1 in 5](../payout-tables/dynamic-1in5)
-- [1 in 10](../payout-tables/dynamic-1in10) 
-- [1 in 20](../payout-tables/dynamic-1in20)
-- [1 in 25](../payout-tables/dynamic-1in25)
-- [1 in 100](../payout-tables/dynamic-1in100)
+- [1 in 3](/en/administration/games/payout-tables/dynamic-1in3)
+- [1 in 5](/en/administration/games/payout-tables/dynamic-1in5)
+- [1 in 10](/en/administration/games/payout-tables/dynamic-1in10) 
+- [1 in 20](/en/administration/games/payout-tables/dynamic-1in20)
+- [1 in 25](/en/administration/games/payout-tables/dynamic-1in25)
+- [1 in 100](/en/administration/games/payout-tables/dynamic-1in100)
 
 <BR><BR>
 
