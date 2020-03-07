@@ -2,7 +2,7 @@
 title: Payout Tables
 description: Pre-configured payout tables
 published: 1
-date: 2020-03-07T10:10:31.244Z
+date: 2020-03-07T10:11:16.095Z
 tags: dynamic prizes, payout tables , payouts, prize tables
 ---
 
@@ -35,7 +35,7 @@ As more tickets are sold, a higher number of ticket will win.
    
 The following distribution options are pre-configured.
 
-- [1 in 3]()
+- [1 in 3](/dynamic-1in3)
 - 1 in 5
 - 1 in 10 
 - 1 in 20
