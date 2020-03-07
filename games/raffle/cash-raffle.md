@@ -2,7 +2,7 @@
 title: Fixed Prize Cash Raffles
 description: Raffle with Cash prizes
 published: 1
-date: 2020-03-07T18:51:54.957Z
+date: 2020-03-07T19:02:26.460Z
 tags: cash raffle, fixed cash prizes
 ---
 
@@ -48,25 +48,18 @@ If ticket are £10, with each ticket contributing £5 to the prize pool fund, th
 
 
 
-# Creating Prizes
+# Setting Cash Prizes
 
-You can award any prize in your game including:
-
-- Experiences
-- Items
-- Cash
-
+You can set Cash prizes for one Rank or a range of ranks at once.
 
 For each prize, you need to set the following:
 
-1. Prize Name
-2. Prize Value
-3. Cash Alternative (if you allow players to take cash instead of the prize)
-4. A brief description
+1. Click "Add new prize"
+2. Set the rank or range of ranks
+2. Click Yes to "Is this a cash prize?"
+3. Click Set Prize
 
-![Create Prize](/uploads/create-prize.png "Create Prize")
-
-You can then assign the prize to one or more ranks.
+![raffle-cash-prize.png](/raffle-cash-prize.png){height="300px" width="600px"}  
 
 > A Prize **cannot be edited or altered** if it has been previously awarded in a game, or is currently included in the prizes for an Active Game
 {.is-warning}
