@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T13:43:20.076Z
+date: 2020-03-07T13:49:54.917Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -59,13 +59,7 @@ Prizes are distributed amongst a fixed number of winners.
 As the prize pool grows, each player would end up receiving a larger nominal amount.
   
 The following distributions are pre-configured
- 
-- Winner Take All
--   2 Winners
--   3 Winners
--   5 Winners
--   9 Winners
-  
+   
  See the distribution of prizes to each rank, for each respective configuration below.
 
 | ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st <BR>Prize | 2nd <BR>Prize| 3rd<BR>Prize |   4th<BR>Prize | 5th<BR>Prize | 6th<BR>Prize | 7th<BR>Prize | 8th<BR>Prize | 9th<BR>Prize |                 
@@ -97,22 +91,22 @@ The following distribution options are pre-configured.
 
 <BR><BR>
 
+ ## SAMPLE
  #### 1 in 10 Wins  
  See the distribution of prizes to each rank, for 1 in 10 Wins Dynamic distribution.
    
 
-|Range|1st<Br>Prize|2nd<Br>Prize|3rd<Br>Prize|4th<Br>Prize|5th <Br>Prize|By Formula|Up to N|Total|
-|--|--|--|--|--|--|--|--|--|
-|1 to 10 Players|100%|0%|0%|0%|0%|...|N|100%|
-|11 to 20 Players|75%|25%|0%|0%|0%|...|N|100%|
-|21 to 30 Players|60%|30%|10%|0%|0%|...|N|100%|
-|31 to 40 Players|50%|25%|15%|10%|0%|...|N|100%|
-|41 to 50 Players|40%|27%|15%|10%|8%|...|N|100%|
-|51 to 100 Players|35%|23%|16%|10%|7%|...|N|100%|
-|101 to 150 Players|30%|20%|15%|9%|7%|...|N|100%|
-|151 to 250 Players|25%|17%|12%|8.5%|6.5%|...|N|100%|
-|251 to 350 Players|17%|11%|9%|8%|6%|...|N|100%|
-|Up o N Player| ..% |..%|..%|..%|..%|...|N|100%|
+|Range|Total prizes|1st<Br>Prize|2nd<Br>Prize|3rd<Br>Prize|4th<Br>Prize|5th<Br>Prize|Other prizes|Total|
+   |--|--|--|--|--|--|--|--|--|
+|1 to 10 Players|Max of 1 Prizes|100%|-|-|-|-|N/A|100%|
+|11 to 20 Players|Max of 2 Prizes|75%|25%|-|-|-|N/A|100%|
+|21 to 30 Players|Max of 3 Prizes|60%|30%|10%|-|-|N/A|100%|
+|31 to 40 Players|Max of 4 Prizes|50%|25%|15%|10%|-|N/A|100%|
+|41 to 50 Players|Max of 5 Prizes|40%|27%|15%|10%|8%|N/A|100%|
+|51 to 100 Players|Max of 10 Prizes|35%|23%|16%|10%|7%|up to 5 more prizes by formula|100%|
+|101 to 150 Players|Max of 15 Prizes|30%|20%|15%|9%|7%|up to 10 more prizes by formula|100%|
+|151 to 250 Players|Max of 25 Prizes|25%|17%|12%|8.5%|6.5%|up to 20 more prizes by formula|100%|
+|251 to 350 Players|Max of 35 Prizes|17%|11%|9%|8%|6%|up to 30 more prizes by formula|100%|
 
 View complete [Payout Tables](https://docs.bonoboplc.com/administration/games/payout-tables) 
    
