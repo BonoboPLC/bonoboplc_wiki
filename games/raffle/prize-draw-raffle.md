@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T17:38:22.476Z
+date: 2020-03-07T17:42:07.249Z
 tags: 
 ---
 
@@ -47,18 +47,33 @@ In this example, £5 is contributed to the prize pool from the sale of each tick
 
 # Creating Prizes
 
+You can award any prize in your game including:
+
+- Experiences
+- Items
+- Cash
+
+
 For each prize, you need to set the following:
 
-Prize Name,
-Prize Value
-Cash Alternative (if you allow players to take cash instead of the prize)
-A brief description
-An Image - For best results use transparent PNG at 800x400 (h/w) at a minimum.
+1. Prize Name
+2. Prize Value
+3. Cash Alternative (if you allow players to take cash instead of the prize)
+4. A brief description
 
+![Create Prize](/uploads/create-prize.png "Create Prize")
+
+You can then assign the prize to one or more ranks.
+
+> A Prize **cannot be edited or altered** if it has been previously awarded in a game, or is currently included in the prizes for an Active Game
+{.is-warning}
 
 
 
 ## Prize Images
+
+An Image - For best results use transparent PNG at 800x400 (h/w) at a minimum.
+
 
 [prize-template.psd](/prize-template.psd)
 
