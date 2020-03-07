@@ -2,18 +2,20 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T18:22:27.590Z
+date: 2020-03-07T18:25:05.246Z
 tags: 
 ---
 
 
 # Mixed Prize Raffle
 
-In this type of raffle, the prize pool grows as each ticket is sold.
+In this type of raffle, all the prizes are Guaranteed to be won.
 
-The amount contributed from the sale of each ticket to the prize pool is configured prior to the start of the game. 
+The amount contributed from the sale of each ticket to the Prize Pool is configured prior to the start of the game. 
 
-When the game is first turned on, the Estimated Prize Pool is shown until the actual prize pool exceeds this amount.  
+The Prize Pool budget (Total tickets x Prize Pool contribution per ticket) must equal total prizes in the game.
+
+
 
 ## Sample Prize Draw  Raffle
 ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"}
