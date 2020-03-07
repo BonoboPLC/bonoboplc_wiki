@@ -2,7 +2,7 @@
 title: Fixed Prize Cash Raffles
 description: Raffle with Cash prizes
 published: 1
-date: 2020-03-07T19:02:26.460Z
+date: 2020-03-07T19:19:48.942Z
 tags: cash raffle, fixed cash prizes
 ---
 
@@ -66,42 +66,12 @@ For each prize, you need to set the following:
 
 
 
+
 ## Prize Images
 
-For best results use a transparent PNG at 800x400 (h/w) at a minimum.
+A default image representing a cash prize will be used throughout site.
 
-You can download the following Photoshop (.psd) template to help you get started.
-[prize-template.psd](/prize-template.psd)
-
-The image will be used through out the game including the following sections:
-
-### Game Lobby
-The top prize will be showcased.
-![raffle-game-lobby.png](/raffle-game-lobby.png){:height="300px" width="450px"}
-
-### Home Page Tile View 
-Tile view appears if more than one active game on site. The top prize will be showcased.
-![raffle-tile-lobby.png](/raffle-tile-lobby.png){:height="400px" width="350px"}
-![raffle-tile-view.png](/raffle-tile-view.png)
-
-
-### Game Playout
-Each prize is showcased during the draw.
-![raffle-playout.png](/raffle-playout.png){:height="300px" width="450px"}
-
-### Pay Table
-
-All prizes are shown on the Pay table.
-![raffle-payout-table.png](/raffle-payout-table.png){:height="300px" width="450px"}
-
-### Win Screen
-
-A summary of prizes on the game over/Win screen, shows all the winners and their respective prizes.
-
-
-![raffle-payout-table.png](/raffle-win-screen.png){:height="300px" width="450px"}
-
-
+You do not need to upload any further images.
 
 
 # How to Create your Raffle
