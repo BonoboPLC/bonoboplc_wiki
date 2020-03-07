@@ -2,8 +2,8 @@
 title: Payout Tables
 description: Pre-configured payout tables
 published: 1
-date: 2020-03-07T10:04:41.970Z
-tags: payout tables , prize tables, payouts, dynamic prizes
+date: 2020-03-07T10:07:01.903Z
+tags: dynamic prizes, payout tables , payouts, prize tables
 ---
 
 # Payout tables
