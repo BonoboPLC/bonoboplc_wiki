@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-06T19:58:45.071Z
+date: 2020-03-07T08:54:15.015Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -82,11 +82,23 @@ Custom payout tables can be configured on request.
 <BR>
  <BR>
    
-### Option 2 - Dynamic Winners 
-A percentage of tickets sold, will win
+### Option 2 - Dynamic No. of Winners - as a % of tickets sold
+A specific percentage of all tickets sold, will win. For example, 10% of tickets sold, will win a prize.
+As more tickets are sold, a higher number of ticket will win.
+   
+The following distribution options are pre-configured.
+   
+- 1 in 3
+- 1 in 5
+- 1 in 10 
+- 1 in 20
+- 1 in 25
+- 1 in 100
+-    1 in 1000
+   
 
-
-
-
-asd
-
+## Guaranteed Prizes
+   
+   
+   ## Prize Pool Seeding
+   
