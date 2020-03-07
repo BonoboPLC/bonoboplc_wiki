@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T16:41:38.669Z
+date: 2020-03-07T16:55:33.253Z
 tags: 
 ---
 
@@ -36,13 +36,13 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 
 In this example, £5 is contributed to the prize pool from the sale of each ticket.
 
-| Rank     | Wins  | Prize | Value      |        
+| Rank     | Wins  | Prize | Total Value      |        
 |---------------|---------|----------------------------------|--|
 | **1st Place**   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $100,000 Cash            | $100,000           |           
 | **2nd Place**     |![porsche-red.png](/porsche-red.png){:height="75px" width="150px"}  | Porsche 911            | £45,000            |        
-| **3rd Place**      | Trip for Two to Spain!     | Trip for Two to Spain!                       | £3,500     |    
-| **4th - 10th Place**     | 7 Prizes of £1,000 Cash    | 7 Prizes of £1,000 Cash                       | £1,000      |      
-| **11th - 15th**     | £3,000    | 5 Prizes win iPhone x11                        | £500  |
+| **3rd Place**      | ![trip-to-vegas.png](/trip-to-vegas.png){:height="75px" width="150px"}      | Trip for Two to Vegas!                       | £3,500     |    
+| **4th - 10th Place**     |![cash.png](/cash.png){:height="75px" width="150px"}    | 7 Prizes of £1,000 Cash                       | 7 x £1,000      |      
+| **11th - 15th**     |![hermes-watch.png](/hermes-watch.png){:height="75px" width="150px"}   | 5 Prizes win the Hermes Apple watch                        | 5 x £500  |
 
 <BR>
 
