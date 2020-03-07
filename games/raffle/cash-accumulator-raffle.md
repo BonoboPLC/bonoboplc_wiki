@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T10:05:59.962Z
+date: 2020-03-07T10:08:25.669Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -115,7 +115,7 @@ The following distribution options are pre-configured.
 |251 to 350 Players|17%|11%|9%|8%|6%|...|N|100%|
 |Up o N Player| ..% |..%|..%|..%|..%|...|N|100%|
 
-View complete [Payout Tables](../administration/games/payout-tables) 
+View complete [Payout Tables](https://docs.bonoboplc.com/administration/games/payout-tables) 
    
    
 Custom payout tables can be configured on request.
