@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T08:54:15.015Z
+date: 2020-03-07T09:54:31.584Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -94,9 +94,32 @@ The following distribution options are pre-configured.
 - 1 in 20
 - 1 in 25
 - 1 in 100
--    1 in 1000
+- 1 in 1000
+
+<BR><BR>
+
+ #### 1 in 10 Wins  
+ See the distribution of prizes to each rank, for 1 in 10 Wins Dynamic distribution.
    
 
+|Range|1st<Br>Prize|2nd<Br>Prize|3rd<Br>Prize|4th<Br>Prize|5th <Br>Prize|By Formula|Up to N|Total|
+|--|--|--|--|--|--|--|--|--|
+|1 to 10 Players|100%|0%|0%|0%|0%|...|N|100%|
+|11 to 20 Players|75%|25%|0%|0%|0%|...|N|100%|
+|21 to 30 Players|60%|30%|10%|0%|0%|...|N|100%|
+|31 to 40 Players|50%|25%|15%|10%|0%|...|N|100%|
+|41 to 50 Players|40%|27%|15%|10%|8%|...|N|100%|
+|51 to 100 Players|35%|23%|16%|10%|7%|...|N|100%|
+|101 to 150 Players|30%|20%|15%|9%|7%|...|N|100%|
+|151 to 250 Players|25%|17%|12%|8.5%|6.5%|...|N|100%|
+|251 to 350 Players|17%|11%|9%|8%|6%|...|N|100%|
+|Up o N Player| ..% |..%|..%|..%|..%|...|N|100%|
+
+
+   
+   
+Custom payout tables can be configured on request.
+   
 ## Guaranteed Prizes
    
    
