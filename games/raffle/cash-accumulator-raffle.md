@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T13:38:12.361Z
+date: 2020-03-07T13:43:20.076Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -71,10 +71,10 @@ The following distributions are pre-configured
 | ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st <BR>Prize | 2nd <BR>Prize| 3rd<BR>Prize |   4th<BR>Prize | 5th<BR>Prize | 6th<BR>Prize | 7th<BR>Prize | 8th<BR>Prize | 9th<BR>Prize |                 
 |---------------|---------|---------------|-----------------------|-----------------------|---| ---| ---| ---| ---|
 |**Winner Take All Game** | 100%<BR>of prize pool | - | - | -|- |-|- |- |- | 
-|**2 Winners Game** | 65%<BR>of prize pool | 35%<BR>of prize pool | - |- | -|-| -| -| -| 
-|**3 Winners Game**| 50% | 35% | 15% |- | -|| -| -| -| 
-|**5 Winners Game**| 45% | 25% |15%  |10% | 5%|-| -| -| -|
-|**9 Winners Game**| 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
+|**Distribution with 2 Winners configured** | 65%<BR>of prize pool | 35%<BR>of prize pool | - |- | -|-| -| -| -| 
+|**Distribution with 3 Winners configured**| 50% | 35% | 15% |- | -|| -| -| -| 
+|**Distribution with 5 Winners configured**| 45% | 25% |15%  |10% | 5%|-| -| -| -|
+|**Distribution with 9 Winners configured**| 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
  
 Custom payout tables can be configured on request.
   
