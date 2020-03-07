@@ -2,7 +2,7 @@
 title: Payout Tables
 description: Pre-configured payout tables
 published: 1
-date: 2020-03-07T13:03:34.922Z
+date: 2020-03-07T13:35:40.457Z
 tags: dynamic prizes, payout tables , payouts, prize tables
 ---
 
@@ -41,7 +41,7 @@ The following distribution options are pre-configured.
 - [1 in 20](../payout-tables/dynamic-1in20)
 - [1 in 25](../payout-tables/dynamic-1in25)
 - [1 in 100](../payout-tables/dynamic-1in100)
-- [1 in 1000](../payout-tables/dynamic-1in1000)
+
 
 
 > Available for Cash Accumulator Raffles & LottoRace games
