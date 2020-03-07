@@ -2,7 +2,7 @@
 title: 1 in 10 Wins - Dynamic payout table
 description: Prize distribution table for 1 in 10 wins
 published: 1
-date: 2020-03-07T11:11:05.907Z
+date: 2020-03-07T11:46:08.589Z
 tags: 1 in 10 wins, raffle dynamic payout
 ---
 
