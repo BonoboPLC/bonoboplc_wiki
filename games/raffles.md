@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-07T13:56:59.618Z
+date: 2020-03-07T13:57:07.409Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -51,7 +51,7 @@ These are prizes are guaranteed to be won in all raffle games.
 > The following Raffle rules apply to all Raffle types.
 {.is-info}
 
-> The following set of rules should be included in the Rules section of your Raffle game. You can also add your own Terms and Condition to the Rules section. 
+> The following set of rules should be included in the Rules section of your Raffle game. <BR>You can also add your own Terms and Condition to the Rules section. 
 {.is-success}
 
 
