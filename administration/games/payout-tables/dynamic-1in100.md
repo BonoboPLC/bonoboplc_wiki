@@ -2,7 +2,7 @@
 title: 1 in 100 Wins - Dynamic payout table
 description: Prize distribution table for 1 in 100 wins
 published: 1
-date: 2020-03-07T13:32:58.903Z
+date: 2020-03-07T13:40:28.037Z
 tags: 1 in 100 wins, payout formula
 ---
 
