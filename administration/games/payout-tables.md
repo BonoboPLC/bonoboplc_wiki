@@ -2,32 +2,13 @@
 title: Payout Tables
 description: Pre-configured payout tables
 published: 1
-date: 2020-03-07T13:45:41.158Z
+date: 2020-03-07T13:47:12.157Z
 tags: dynamic prizes, payout tables , payouts, prize tables
 ---
 
 # Payout tables
 
 The following Payout distributions are pre-configured.
-
-
-
-## Option 1 - Fixed Number of Winners
-  
-Prizes are distributed amongst a fixed number of winners. 
-As the prize pool grows, each player would end up receiving a larger nominal amount.
-  
-The following distributions are pre-configured
- 
-- Winner Take All
--   2 Winners
--   3 Winners
--   5 Winners
--   9 Winners
- 
-> Available for Cash Accumulator Raffles & LottoRace games
-{.is-info}
-
 
 ## Dynamic No. of Winners - as a % of tickets sold
 A specific percentage of all tickets sold, will win. For example, 10% of tickets sold, will win a prize.
@@ -46,3 +27,28 @@ The following distribution options are pre-configured.
 
 > Available for Cash Accumulator Raffles & LottoRace games
 {.is-info}
+
+
+## Option 1 - Fixed Number of Winners
+  
+Prizes are distributed amongst a fixed number of winners. 
+As the prize pool grows, each player would end up receiving a larger nominal amount.
+  
+The following distributions are pre-configured
+   
+ See the distribution of prizes to each rank, for each respective configuration below.
+
+| ![50-50small.png](/50-50small.png "Cash Raffle"){:height="75px" width="75px"}   | 1st <BR>Prize | 2nd <BR>Prize| 3rd<BR>Prize |   4th<BR>Prize | 5th<BR>Prize | 6th<BR>Prize | 7th<BR>Prize | 8th<BR>Prize | 9th<BR>Prize |                 
+|---------------|---------|---------------|-----------------------|-----------------------|---| ---| ---| ---| ---|
+|**Winner Take All Game** | 100%<BR>of prize pool | - | - | -|- |-|- |- |- | 
+|**Distribution with 2 Winners configured** | 65%<BR>of prize pool | 35%<BR>of prize pool | - |- | -|-| -| -| -| 
+|**Distribution with 3 Winners configured**| 50% | 35% | 15% |- | -|| -| -| -| 
+|**Distribution with 5 Winners configured**| 45% | 25% |15%  |10% | 5%|-| -| -| -|
+|**Distribution with 9 Winners configured**| 52% | 6% | 6% |6% | 6%|6%| 6%| 6%| 6%| 
+ 
+Custom payout tables can be configured on request.
+ 
+> Available for Cash Accumulator Raffles & LottoRace games
+{.is-info}
+
+
