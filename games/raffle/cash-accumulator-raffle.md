@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T13:49:54.917Z
+date: 2020-03-07T16:13:07.372Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -113,8 +113,12 @@ View complete [Payout Tables](https://docs.bonoboplc.com/administration/games/pa
    
 Custom payout tables can be configured on request.
    
-## Guaranteed Prizes
-   
+## Guaranteed Prize Pool
+  
+  You can set a minimum prize which is guaranteed to be won, regardless of the number of tickets sold. 
+ 
+ If at the start of the Draw, the actual prize pool is less than the Guaranteed Prize Pool, then the system will automatically top up the prize pool to reach the Guaranteed prize pool. 
+ 
    
    ## Prize Pool Seeding
    
