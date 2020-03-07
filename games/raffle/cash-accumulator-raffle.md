@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T16:13:07.372Z
+date: 2020-03-07T16:16:36.070Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -91,11 +91,10 @@ The following distribution options are pre-configured.
 
 <BR><BR>
 
- ## SAMPLE
- #### 1 in 10 Wins  
- See the distribution of prizes to each rank, for 1 in 10 Wins Dynamic distribution.
+ ## Sample Game
+ 
+ **See below prize payout distribution for Game with 10% winners (1 in 10 Wins)**
    
-
 |Range|Total prizes|1st<Br>Prize|2nd<Br>Prize|3rd<Br>Prize|4th<Br>Prize|5th<Br>Prize|Other prizes|Total|
    |--|--|--|--|--|--|--|--|--|
 |1 to 10 Players|Max of 1 Prizes|100%|-|-|-|-|N/A|100%|
@@ -115,10 +114,9 @@ Custom payout tables can be configured on request.
    
 ## Guaranteed Prize Pool
   
-  You can set a minimum prize which is guaranteed to be won, regardless of the number of tickets sold. 
+  You can set a Guaranteed Prize which is certain to be available to be won, regardless of the number of tickets sold. 
  
  If at the start of the Draw, the actual prize pool is less than the Guaranteed Prize Pool, then the system will automatically top up the prize pool to reach the Guaranteed prize pool. 
  
-   
-   ## Prize Pool Seeding
+
    
