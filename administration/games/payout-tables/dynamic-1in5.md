@@ -2,7 +2,7 @@
 title: 1 in 20 Wins - Dynamic payout table
 description: Prize distribution table for 1 in 20 wins
 published: 1
-date: 2020-03-07T11:04:43.881Z
+date: 2020-03-07T13:04:48.184Z
 tags: 
 ---
 
