@@ -2,7 +2,7 @@
 title: Fixed Prize Cash Raffles
 description: Raffle with Cash prizes
 published: 1
-date: 2020-03-07T18:44:20.047Z
+date: 2020-03-07T18:44:46.973Z
 tags: cash raffle, fixed cash prizes
 ---
 
@@ -17,7 +17,7 @@ The Prize Pool budget (Total tickets x Prize Pool contribution per ticket) must 
 
 
 
-## Sample Prize Draw  Raffle
+## Sample Cash Draw Raffle
 ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"}
 A maximum of **1,000 Tickets** will be available, priced at **£10 each**. 
 £5 from each ticket will go to the prize fund, £5 will go to the operator.
