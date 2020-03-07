@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-07T19:24:10.117Z
+date: 2020-03-07T19:24:49.042Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -75,7 +75,6 @@ The draws will continue until all winners are determined for each available priz
 ### Cancelled Tickets
 
 Cancelled tickets are not re-issued and do not take part in the Raffle draws.
-
 
 ### Viewing Draws LIVE
 
