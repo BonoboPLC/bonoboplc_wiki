@@ -2,7 +2,7 @@
 title: Fixed Prize Cash Raffles
 description: Raffle with Cash prizes
 published: 1
-date: 2020-03-07T18:44:46.973Z
+date: 2020-03-07T18:51:54.957Z
 tags: cash raffle, fixed cash prizes
 ---
 
@@ -17,8 +17,8 @@ The Prize Pool budget (Total tickets x Prize Pool contribution per ticket) must 
 
 
 
-## Sample Cash Draw Raffle
-![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"}
+## Sample Fixed Cash Raffle
+![cash-raffles.png](/cash-raffles.png){:height="100px" width="100px"}
 A maximum of **1,000 Tickets** will be available, priced at **£10 each**. 
 £5 from each ticket will go to the prize fund, £5 will go to the operator.
 
@@ -36,16 +36,16 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 
 ## Sample Prize Table
 
-In this example, there are 16 prizes, with a total prize value of £160,000.
-If ticket are £10, with each ticket contributing £5 to the prize pool fund, then we must sell 32,000 Tickets.
+In this example, there are 16 prizes, with a total prize value of £5,000.
+If ticket are £10, with each ticket contributing £5 to the prize pool fund, then we must sell 1,000 Tickets.
 
 | Rank     | Wins  | Prize | Total Value      |        
 |---------------|---------|----------------------------------|--|
-| **1st Place**   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $100,000 Cash            | $100,000           |           
-| **2nd Place**     |![porsche-red.png](/porsche-red.png){:height="75px" width="150px"}  | Porsche 911            | £45,000            |        
-| **3rd Place**      | ![trip-to-vegas.png](/trip-to-vegas.png){:height="75px" width="150px"}      | Trip for Two to Vegas!                       | £5,000     |    
-| **4th - 10th Place**     |![cash.png](/cash.png){:height="75px" width="150px"}    | 7 Prizes of £1,000 Cash                       | 7 x £1,000      |      
-| **11th - 16th**     |![hermes-watch.png](/hermes-watch.png){:height="75px" width="150px"}   | 6 Prizes win the Hermes Apple watch                        | 6 x £500  |
+| **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      $1,500 Cash            | $1,500           |           
+| **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | £1,250             | £1,250            |        
+| **3rd Place**      | ![cash.png](/cash.png){height="100px" width="100px"}  | £750                        | £750     |    
+| **4th - 6th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 3 Prizes of £500 Cash                       | 3 x £500      |      
+
 
 
 # Creating Prizes
