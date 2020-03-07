@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T16:29:34.829Z
+date: 2020-03-07T16:33:25.269Z
 tags: 
 ---
 
@@ -16,8 +16,7 @@ The amount contributed from the sale of each ticket to the prize pool is configu
 When the game is first turned on, the Estimated Prize Pool is shown until the actual prize pool exceeds this amount.  
 
 ## Sample Prize Draw  Raffle
-
-![cash-accumulator-raffle2.png](/cash-accumulator-raffle2.png){:height="100px" width="100px"}
+![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"}
 A maximum of **1,000 Tickets** will be available, priced at **£10 each**. 
 £5 from each ticket will go to the prize fund, £5 will go to the operator.
 
@@ -33,20 +32,14 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 {.is-warning}
 
 
-This **Estimated Prize pool** is displayed on tickets and website, until the actual prize fund, exceeds the estimated prize pool.
-
-Once the actual prizes exceed this amount, i.e. after selling the 501st ticket, the prize pool will increase to £2,505 from £2,500. 
-
-See Table below for a sample
-
-## Prize Pool growth
+## Sample Prize Table
 
 In this example, £5 is contributed to the prize pool from the sale of each ticket.
 
-| Number of Entries       | Prize Pool <BR>(as Shown to players)  | Actual Prize Pool                             | Prize Pool at Game Time        |                  
-|---------------|---------|----------------------------------|-----------------------|
-| 10 Entries    | £50 |      £2,500 Estimated              | Actual Prize Pool           |           
-| 400 Entries     | £2,000  | £2,500 Estimated                | Actual Prize Pool              |        
+| Rank     | Prize   | Actual Prize Pool  |       |        
+|---------------|---------|----------------------------------|--|
+| 1st Place   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $5,000 cash            | Actual Prize Pool           |           
+|      | £2,000  | £2,500 Estimated                | Actual Prize Pool              |        
 | 501 Entries      | £2,505     | £2,505 Guaranteed                        | Actual Prize Pool      |    
 | 550 Entries      | £2,750     | £2,750 Guaranteed                        | Actual Prize Pool      |      
 | 600 Entries      | £3,000    | £3,000 Guaranteed                        | Actual Prize Pool  |
