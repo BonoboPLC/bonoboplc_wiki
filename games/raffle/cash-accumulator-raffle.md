@@ -2,7 +2,7 @@
 title: Cash Accumulator Raffle
 description: A cash raffle with a growing prize pool
 published: 1
-date: 2020-03-07T10:00:38.752Z
+date: 2020-03-07T10:02:49.472Z
 tags: 5050 raffle, cash raffle
 ---
 
@@ -87,7 +87,7 @@ A specific percentage of all tickets sold, will win. For example, 10% of tickets
 As more tickets are sold, a higher number of ticket will win.
    
 The following distribution options are pre-configured.
-   [link text](http://example.com){:target="_blank"}
+
 - 1 in 3
 - 1 in 5
 - 1 in 10 
@@ -115,7 +115,7 @@ The following distribution options are pre-configured.
 |251 to 350 Players|17%|11%|9%|8%|6%|...|N|100%|
 |Up o N Player| ..% |..%|..%|..%|..%|...|N|100%|
 
-
+View complete [Payout Tables](administration/games/payout-tables) 
    
    
 Custom payout tables can be configured on request.
