@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-07T18:40:04.226Z
+date: 2020-03-07T18:42:10.137Z
 tags: 
 ---
 
@@ -18,7 +18,7 @@ Click on each game type to find out more.
 
 |  | | |
 | ------ | ------ | ------ | 
-|[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="200px" width="200px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="200px" width="200px"}](/administration/games/lottery  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="200px" width="200px"}](/games/raffles "Raffles ")|
+|[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="200px" width="200px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="200px" width="200px"}](/administration/games/lotterytemplates  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="200px" width="200px"}](/games/raffles "Raffles ")|
 
 
 # Common Game Management Info
