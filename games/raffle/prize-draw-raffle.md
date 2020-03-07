@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T16:28:01.842Z
+date: 2020-03-07T16:29:34.829Z
 tags: 
 ---
 
@@ -29,7 +29,9 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 |Contributed to Operator| £5 per ticket | £5,000 Gross Earnings| 
 
 
-We estimate that we will sell **500** tickets and therefore set the prize pool Estimate at £2,500 (£5 x 500).
+> The game will start as long as the minimum number of tickets (configurable) has been sold. All fixed prizes are then guaranteed to be won in the game. 
+{.is-warning}
+
 
 This **Estimated Prize pool** is displayed on tickets and website, until the actual prize fund, exceeds the estimated prize pool.
 
