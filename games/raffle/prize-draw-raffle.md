@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T17:59:00.503Z
+date: 2020-03-07T18:22:27.590Z
 tags: 
 ---
 
@@ -74,15 +74,36 @@ You can then assign the prize to one or more ranks.
 
 For best results use a transparent PNG at 800x400 (h/w) at a minimum.
 
+You can download the following Photoshop (.psd) template to help you get started.
 [prize-template.psd](/prize-template.psd)
 
-The image will be used through out the game including
+The image will be used through out the game including the following sections:
 
-Game Lobby - The top prize will be used 
+### Game Lobby
+The top prize will be showcased.
+![raffle-game-lobby.png](/raffle-game-lobby.png){:height="300px" width="450px"}
 
-Game Playout
+### Home Page Tile View 
+Tile view appears if more than one active game on site. The top prize will be showcased.
+![raffle-tile-lobby.png](/raffle-tile-lobby.png){:height="400px" width="350px"}
+![raffle-tile-view.png](/raffle-tile-view.png)
 
-Pay Table
+
+### Game Playout
+Each prize is showcased during the draw.
+![raffle-playout.png](/raffle-playout.png){:height="300px" width="450px"}
+
+### Pay Table
+
+All prizes are shown on the Pay table.
+![raffle-payout-table.png](/raffle-payout-table.png){:height="300px" width="450px"}
+
+### Win Screen
+
+A summary of prizes on the game over/Win screen, shows all the winners and their respective prizes.
+
+
+![raffle-payout-table.png](/raffle-win-screen.png){:height="300px" width="450px"}
 
 
 
