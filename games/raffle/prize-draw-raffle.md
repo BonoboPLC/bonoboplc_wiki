@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T17:44:15.085Z
+date: 2020-03-07T17:59:00.503Z
 tags: 
 ---
 
@@ -78,7 +78,7 @@ For best results use a transparent PNG at 800x400 (h/w) at a minimum.
 
 The image will be used through out the game including
 
-Tile Image - The top prize will be used 
+Game Lobby - The top prize will be used 
 
 Game Playout
 
