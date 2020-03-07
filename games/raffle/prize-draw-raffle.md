@@ -2,14 +2,14 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T19:22:25.941Z
+date: 2020-03-07T19:29:37.073Z
 tags: 
 ---
 
 
 # Mixed Prize Raffle
 
-In this type of raffle, all the prizes are Guaranteed to be won.
+In this type of Raffle, all the prizes are Guaranteed to be won.
 
 The amount contributed from the sale of each ticket to the Prize Pool is configured prior to the start of the game. 
 
