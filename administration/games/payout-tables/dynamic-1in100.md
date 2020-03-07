@@ -2,13 +2,13 @@
 title: 1 in 100 Wins - Dynamic payout table
 description: Prize distribution table for 1 in 100 wins
 published: 1
-date: 2020-03-07T13:32:46.528Z
+date: 2020-03-07T13:32:58.903Z
 tags: 1 in 100 wins, payout formula
 ---
 
-# Dynamic No. of Winners - 1 in 10 Wins
+# Dynamic No. of Winners - 1 in 100 Wins
 
-1 in 10 Tickets sold, will win a prize.
+1 in 100 Tickets sold, will win a prize.
 
 As more tickets are sold, a higher number of ticket will win.
    
