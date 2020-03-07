@@ -2,7 +2,7 @@
 title: Payout Tables
 description: Pre-configured payout tables
 published: 1
-date: 2020-03-07T13:47:12.157Z
+date: 2020-03-07T13:47:44.027Z
 tags: dynamic prizes, payout tables , payouts, prize tables
 ---
 
@@ -10,7 +10,7 @@ tags: dynamic prizes, payout tables , payouts, prize tables
 
 The following Payout distributions are pre-configured.
 
-## Dynamic No. of Winners - as a % of tickets sold
+## Dynamic number of Winners - as a % of tickets sold
 A specific percentage of all tickets sold, will win. For example, 10% of tickets sold, will win a prize.
 As more tickets are sold, a higher number of ticket will win.
    
@@ -29,7 +29,7 @@ The following distribution options are pre-configured.
 {.is-info}
 
 
-## Option 1 - Fixed Number of Winners
+## Fixed number of Winners
   
 Prizes are distributed amongst a fixed number of winners. 
 As the prize pool grows, each player would end up receiving a larger nominal amount.
