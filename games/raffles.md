@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-07T13:57:22.455Z
+date: 2020-03-07T19:24:10.117Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -43,7 +43,7 @@ Raffle prizes can be cash or any arbitrary item or experience.
 ![raffle-prizes.png](/raffle-prizes.png)
 
 
-These are prizes are guaranteed to be won in all raffle games.
+These prizes are guaranteed to be won in all raffle games.
 
 
 # Raffle Rules
@@ -62,7 +62,7 @@ Games can be rescheduled or cancelled if the minimum number of tickets are not s
 
 ### Sequential Tickets
 
-Each ticket is sequentially numbered, starting with 000001
+Each ticket is sequentially numbered, starting with 000001, followed by 000002 up to N tickets.
 
 ### 1 Winner Per Draw
 
