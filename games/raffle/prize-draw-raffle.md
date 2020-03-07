@@ -2,7 +2,7 @@
 title: Prize Draw Raffle
 description: Raffle with mixed prizes including cash and items
 published: 1
-date: 2020-03-07T18:25:05.246Z
+date: 2020-03-07T18:28:35.254Z
 tags: 
 ---
 
@@ -13,7 +13,7 @@ In this type of raffle, all the prizes are Guaranteed to be won.
 
 The amount contributed from the sale of each ticket to the Prize Pool is configured prior to the start of the game. 
 
-The Prize Pool budget (Total tickets x Prize Pool contribution per ticket) must equal total prizes in the game.
+The Prize Pool budget (Total tickets x Prize Pool contribution per ticket) must equal the total value of all prizes in the game.
 
 
 
@@ -36,15 +36,16 @@ A maximum of **1,000 Tickets** will be available, priced at **£10 each**.
 
 ## Sample Prize Table
 
-In this example, £5 is contributed to the prize pool from the sale of each ticket.
+In this example, there are 16 prizes, with a total prize value of £160,000.
+If ticket are £10, with each ticket contributing £5 to the prize pool fund, then we must sell 32,000 Tickets.
 
 | Rank     | Wins  | Prize | Total Value      |        
 |---------------|---------|----------------------------------|--|
 | **1st Place**   | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png){:height="100px" width="100px"} |      $100,000 Cash            | $100,000           |           
 | **2nd Place**     |![porsche-red.png](/porsche-red.png){:height="75px" width="150px"}  | Porsche 911            | £45,000            |        
-| **3rd Place**      | ![trip-to-vegas.png](/trip-to-vegas.png){:height="75px" width="150px"}      | Trip for Two to Vegas!                       | £3,500     |    
+| **3rd Place**      | ![trip-to-vegas.png](/trip-to-vegas.png){:height="75px" width="150px"}      | Trip for Two to Vegas!                       | £5,000     |    
 | **4th - 10th Place**     |![cash.png](/cash.png){:height="75px" width="150px"}    | 7 Prizes of £1,000 Cash                       | 7 x £1,000      |      
-| **11th - 15th**     |![hermes-watch.png](/hermes-watch.png){:height="75px" width="150px"}   | 5 Prizes win the Hermes Apple watch                        | 5 x £500  |
+| **11th - 16th**     |![hermes-watch.png](/hermes-watch.png){:height="75px" width="150px"}   | 6 Prizes win the Hermes Apple watch                        | 6 x £500  |
 
 
 # Creating Prizes
