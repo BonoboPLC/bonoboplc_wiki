@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-07T19:24:49.042Z
+date: 2020-03-09T10:06:31.763Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -23,9 +23,8 @@ Prizes
 
 
 
-|  |   | |   |  
+| &nbsp; | ![cash-accumulator-raffle2.png](/cash-accumulator-raffle2.png "Cash Accumulator Raffle"){:height="100px" width="100px"} | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png "Mixed Prize Draw raffles"){:height="100px" width="100px"} | ![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png "Any Place can Pay Lottery"){:height="100px" width="100px"}  |  
 | ------ | ------ | ------ | ------ | 
-| | ![cash-accumulator-raffle2.png](/cash-accumulator-raffle2.png "Cash Accumulator Raffle"){:height="100px" width="100px"} | ![mixed-prize-raffles2.png](/mixed-prize-raffles2.png "Mixed Prize Draw raffles"){:height="100px" width="100px"}  | ![cash-raffles.png](/cash-raffles.png "Cash Raffles"){:height="100px" width="100px"} |![anyplace-wins-lottery.png](/uploads/anyplace-wins-lottery.png "Any Place can Pay Lottery"){:height="100px" width="100px"} |
 | **Game Type** |**Cash Accumulator Raffle** | **Mixed Prize Raffles** | **Fixed Cash Prizes** | 
 | **Prize Pool** | Growing   | Fixed | Fixed   |
 | **Prize Type** | Cash only   | Cash/Experiences/Prizes | Cash only   |
