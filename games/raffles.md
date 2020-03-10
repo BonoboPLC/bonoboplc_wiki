@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-09T11:56:01.960Z
+date: 2020-03-10T10:24:27.345Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -14,12 +14,13 @@ Bonobo Raffle Creator allows you to create raffles of the following type:
 - Cash Prizes
 - Cash Accumulator
 
-You can customize the following for your raffles:
+**You can customize the following for your raffles:**
 
-Total Tickets Avaiable for sale
-Price of each ticket
-Contribution to prize pool vs. the operation from each ticket
-Prizes 
+- Total Tickets Avaiable for sale
+- Price of each ticket
+- Contribution to prize pool vs. the operation from each ticket
+- Prizes 
+- Logos, terms and description
 
 
 
