@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-10T10:24:27.345Z
+date: 2020-03-10T10:26:07.568Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
