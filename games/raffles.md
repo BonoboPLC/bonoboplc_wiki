@@ -2,7 +2,7 @@
 title: Raffle 
 description: Raffle Game Types on the Bonobo platform
 published: 1
-date: 2020-03-10T10:27:15.294Z
+date: 2020-03-10T10:28:00.884Z
 tags: 50 50 raffle, cash raffle, prize draws, prize raffles, raffles
 ---
 
@@ -56,7 +56,7 @@ These prizes are guaranteed to be won in all raffle games.
 
 
 ### Raffle Draw Start time
-Raffles start at a pre-set date & time. 
+Raffles start at a pre-set date and time. 
 
 Games can be rescheduled or cancelled if the minimum number of tickets are not sold by the scheduled start date. This threshold must be greater or equal to the number of prizes available.
 
