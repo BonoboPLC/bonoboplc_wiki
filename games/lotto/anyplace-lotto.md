@@ -2,7 +2,7 @@
 title: Any Place can Pay Lottery
 description: Each match can pay a specific amount, even zero matches!
 published: 1
-date: 2020-02-03T12:45:45.776Z
+date: 2020-04-10T10:50:03.611Z
 tags: lottery, lotto
 ---
 
@@ -14,9 +14,9 @@ You can use the this Lottery template to create your own Lottery variation.
 >**Any Place can Pay Lottery Rules**
 Players must select from a Primary range. Their prizes are determined based on their matches. For example, pick 6 numbers between 1 and 49. Payout tables can be configured to NOT PAY on certain matches, but pay on ZERO matches. This variation adds a new twist to Lottery games and can be used to offer interesting new products.
 
-You can customize your pick range (i.e. Pick 6 between 1 and 49) and the consequent payout table for your custom game.
+You can customize your pick range (i.e. Pick 5 between 1 and 35) and the consequent payout table for your custom game.
 
->**Sample 6/49**
+>**Sample 5/35**
 Estimated Gross Revenue: **40% of ticket Sales** 
 Estimated Player Wins: **60% of ticket Sales** 
 Odds of winning Jackpot: **1 in 324,632   ** 
