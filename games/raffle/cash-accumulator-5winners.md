@@ -2,7 +2,7 @@
 title: Cash Accumulator with 5 Winners
 description: A raffle with a growing cash prize pool
 published: 1
-date: 2020-04-17T09:04:29.722Z
+date: 2020-04-17T09:06:19.924Z
 tags: 
 ---
 
@@ -37,5 +37,5 @@ If ticket are £10, with each ticket contributing £5 to the prize pool fund the
 | **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      45% of Pool            | £225          |           
 | **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | 25% of Pool            | £125            |        
 | **3rd Place**      | ![cash.png](/cash.png){height="100px" width="100px"}  | 15% of Pool                        | £75    |    
-| **4th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 10% of Poolh                       | £50      |      
+| **4th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 10% of Pool                       | £50      |      
 | **5th  Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 5% of Pool                      | £25      |    
