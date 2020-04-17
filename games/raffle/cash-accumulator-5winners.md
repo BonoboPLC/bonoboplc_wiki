@@ -2,12 +2,13 @@
 title: Cash Accumulator with 5 Winners
 description: A raffle with a growing cash prize pool
 published: 1
-date: 2020-04-17T09:07:52.040Z
+date: 2020-04-17T09:30:49.298Z
 tags: 
 ---
 
 # Cash Accumulator - 5 Winners
 
+![raffle-luckyfive.png](/raffle-luckyfive.png){:height="150px" width="150px"}
 All prizes **are Cash and are Guaranteed to be won**.
 
 The Prize Pool grows as each ticket is sold and will be updated live on the Game Lobby.
@@ -26,6 +27,18 @@ Operator Fees: **£5**
 
 > The game will start as long as the minimum number of tickets (configurable) has been sold. All fixed prizes are then guaranteed to be won in the game. 
 {.is-warning}
+
+## £50 Prize Pool based on 10 Entries
+
+£10 per ticket, with each ticket contributing £5 to the prize pool; **£50**.
+
+| Rank     |   | Percentage of Pool | Total Value      |        
+|---------------|---------|----------------------------------|--|
+| **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      45% of Pool            | £22.50          |           
+| **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | 25% of Pool            | £12.50            |        
+| **3rd Place**      | ![cash.png](/cash.png){height="100px" width="100px"}  | 15% of Pool                        | £7.50    |    
+| **4th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 10% of Pool                       | £5.00      |      
+| **5th  Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 5% of Pool                      | £2.50      |    
 
 
 ## £500 Prize Pool based on 100 Entries
