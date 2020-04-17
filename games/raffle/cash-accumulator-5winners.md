@@ -2,7 +2,7 @@
 title: Cash Accumulator with 5 Winners
 description: A raffle with a growing cash prize pool
 published: 1
-date: 2020-04-17T09:06:19.924Z
+date: 2020-04-17T09:07:52.040Z
 tags: 
 ---
 
@@ -30,9 +30,9 @@ Operator Fees: **£5**
 
 ## £500 Prize Pool based on 100 Entries
 
-If ticket are £10, with each ticket contributing £5 to the prize pool fund the prize pool is **£500**.
+£10 per ticket, with each ticket contributing £5 to the prize pool; **£500**.
 
-| Rank     | Wins  | Percentage of Pool | Total Value      |        
+| Rank     |   | Percentage of Pool | Total Value      |        
 |---------------|---------|----------------------------------|--|
 | **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      45% of Pool            | £225          |           
 | **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | 25% of Pool            | £125            |        
