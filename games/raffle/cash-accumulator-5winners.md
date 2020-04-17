@@ -2,7 +2,7 @@
 title: Cash Accumulator with 5 Winners
 description: A raffle with a growing cash prize pool
 published: 1
-date: 2020-04-17T08:56:47.837Z
+date: 2020-04-17T09:04:29.722Z
 tags: 
 ---
 
@@ -10,9 +10,7 @@ tags:
 
 All prizes **are Cash and are Guaranteed to be won**.
 
-The amount contributed from the sale of each ticket to the Prize Pool is configured prior to the start of the game. 
-
-The Prize Pool grows  total value of all cash prizes in the game.
+The Prize Pool grows as each ticket is sold and will be updated live on the Game Lobby.
 
 >Total Tickets Available for sale: 1,000
 Minimum Number of Tickets: **5**
@@ -30,14 +28,14 @@ Operator Fees: **£5**
 {.is-warning}
 
 
-## Prize Table based on 100 Entries
+## £500 Prize Pool based on 100 Entries
 
-In this example, there are 16 prizes, with a total prize value of £5,000.
-If ticket are £10, with each ticket contributing £5 to the prize pool fund, then we must sell 1,000 Tickets.
+If ticket are £10, with each ticket contributing £5 to the prize pool fund the prize pool is **£500**.
 
-| Rank     | Wins  | Prize | Total Value      |        
+| Rank     | Wins  | Percentage of Pool | Total Value      |        
 |---------------|---------|----------------------------------|--|
-| **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      $1,500 Cash            | $1,500           |           
-| **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | £1,250             | £1,250            |        
-| **3rd Place**      | ![cash.png](/cash.png){height="100px" width="100px"}  | £750                        | £750     |    
-| **4th - 6th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 3 Prizes of £500 Cash                       | 3 x £500      |      
+| **1st Place**   | ![cash.png](/cash.png){height="100px" width="100px"} |      45% of Pool            | £225          |           
+| **2nd Place**     |![cash.png](/cash.png){height="100px" width="100px"}  | 25% of Pool            | £125            |        
+| **3rd Place**      | ![cash.png](/cash.png){height="100px" width="100px"}  | 15% of Pool                        | £75    |    
+| **4th Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 10% of Poolh                       | £50      |      
+| **5th  Place**     |![cash.png](/cash.png){height="100px" width="100px"}   | 5% of Pool                      | £25      |    
