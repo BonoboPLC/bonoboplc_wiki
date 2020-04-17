@@ -2,11 +2,11 @@
 title: Cash Accumulator with 5 Winners
 description: A raffle with a growing cash prize pool
 published: 1
-date: 2020-04-17T09:30:49.298Z
+date: 2020-04-17T13:13:27.478Z
 tags: 
 ---
 
-# Cash Accumulator - 5 Winners
+# Lucky 5 | Cash Accumulator with 5 Winners
 
 ![raffle-luckyfive.png](/raffle-luckyfive.png){:height="150px" width="150px"}
 All prizes **are Cash and are Guaranteed to be won**.
