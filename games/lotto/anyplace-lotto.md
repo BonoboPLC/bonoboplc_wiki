@@ -2,7 +2,7 @@
 title: Any Place can Pay Lottery
 description: Each match can pay a specific amount, even zero matches!
 published: 1
-date: 2020-04-10T10:50:03.611Z
+date: 2020-05-28T14:30:43.162Z
 tags: lottery, lotto
 ---
 
@@ -17,8 +17,8 @@ Players must select from a Primary range. Their prizes are determined based on t
 You can customize your pick range (i.e. Pick 5 between 1 and 35) and the consequent payout table for your custom game.
 
 >**Sample 5/35**
-Estimated Gross Revenue: **40% of ticket Sales** 
-Estimated Player Wins: **60% of ticket Sales** 
+Estimated Gross Revenue: **39.85% of ticket Sales** 
+Estimated Player Wins: **60.15% of ticket Sales** 
 Odds of winning Jackpot: **1 in 324,632   ** 
 Odds of winning any prize: **1 in 2** 
 Assumed Ticket Price: **£1**  
@@ -33,5 +33,5 @@ Assumed Ticket Price: **£1**
 | Match 4 Balls     | £100 | 1 in 2,164                   | £0.046            |                       |
 | Match 3 Balls     | £5     | 1 in 75                        | £0.067           |                       |
 | Match No Balls     | £1    | 1 in 2.25                        | £0.441              |                       |
-| |       |**Expected Payout**  | (£0.60) **50%**  |  |
-| |       |**Expected Gross**  | (£0.40) **50%**   |  |
+| |       |**Expected Payout**  | (£0.6015) **60.15%**  |  |
+| |       |**Expected Gross**  | (£0.3985) **39.85%**   |  |
