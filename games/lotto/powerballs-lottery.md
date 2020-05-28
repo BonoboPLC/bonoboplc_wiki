@@ -2,7 +2,7 @@
 title: Powerballs Lottery
 description: Lottery game where players select from a primary and secondary range
 published: 1
-date: 2020-02-03T12:49:19.608Z
+date: 2020-05-28T14:32:24.364Z
 tags: lottery, powerballs
 ---
 
@@ -17,8 +17,8 @@ Players must select from a Primary range as well as as secondary range. For exam
 You can customize your pick range (i.e. Pick 6 between 5 and 35 and 2 from 1 to 20) and the consequent payout table for your custom game.
 
 >**Sample 5/35 + 2/20 Game**
-Estimated Gross Revenue: **30% of ticket Sales** 
-Estimated Player Wins: **70% of ticket Sales** 
+Estimated Gross Revenue: **29.57% of ticket Sales** 
+Estimated Player Wins: **69.43% of ticket Sales** 
 Odds of winning Jackpot: **1 in 61,680,080 ** 
 Odds of winning any prize: **1 in 7** 
 Assumed Ticket Price: **£2**  
@@ -42,5 +42,5 @@ Assumed Ticket Price: **£2**
 |     Match 3 Balls + 0 Bonus     | £9    | 1 in 92                           | £0.100              |   
 |     Match 2 Balls + 1 Bonus     | £4    | 1 in 42                           | £0.100              |  
 |     Match 2 Balls + 0 Bonus     | £2    | 1 in 10                           | £0.100              |        
-| |       |**Expected Payout**  | (£1.40) **70%**  |  |
-| |       |**Expected Gross**  | (£0.60) **30%**   |  |
+| |       |**Expected Payout**  | (£1.40) **69.43%**  |  |
+| |       |**Expected Gross**  | (£0.60) **29.57%**   |  |
