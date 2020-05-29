@@ -2,7 +2,7 @@
 title: Bonus Balls Lottery
 description: A lottery in which a bonus ball is drawn from the remaining numbers, following the main draw
 published: 1
-date: 2020-05-28T16:23:14.624Z
+date: 2020-05-29T11:53:54.313Z
 tags: bonus ball lottery, bonus balls, bonus lottery, bonus lotto
 ---
 
@@ -17,8 +17,8 @@ After the main set of balls are drawn, an additional Bonus Ball is drawn at the 
 You can customize your pick range (i.e. Pick 6 between 1 and 60) and the consequent payout table for your custom game.
 
 >**Sample 5/49 Game**
-Estimated Gross Revenue: **66.25% of ticket Sales** 
-Estimated Player Wins: **33.75% of ticket Sales** 
+Estimated Gross Revenue: **66.29% of ticket Sales** 
+Estimated Player Wins: **33.71% of ticket Sales** 
 Odds of winning Jackpot: **1 in 1,906,884** 
 Odds of winning any prize: **1 in 6** 
 Assumed Ticket Price: **£1**  
@@ -36,5 +36,5 @@ Assumed Ticket Price: **£1**
 |     Match 2 Balls         | £1     | 1 in 15                      | £0.065             |    
 |     Match 1 Ball + Bonus     | £1    | 1 in 30                           | £0.033              |                
 |     Match Bonus Ball     | £1    | 1 in 15                           | £0.067                |            
-| |       |**Expected Payout**  | (£0.34) **33.75%**  |  |
-| |       |**Expected Gross**  | (£0.66) **66.25%**   |  |
+| |       |**Expected Payout**  | (£0.34) **33.71%**  |  |
+| |       |**Expected Gross**  | (£0.66) **66.29%**   |  |
