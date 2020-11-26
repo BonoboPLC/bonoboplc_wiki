@@ -2,8 +2,10 @@
 title: Retail Sales Agents Guide
 description: A complete guide to selling tickets and paying prizes
 published: 1
-date: 2019-11-07T15:14:31.200Z
+date: 2020-11-26T17:32:28.962Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-07T14:20:08.847Z
 ---
 
 # 	Sell from any Device
