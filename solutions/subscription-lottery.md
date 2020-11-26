@@ -2,8 +2,10 @@
 title: Subscription Lottery
 description: Direct Debit subscription Lottery
 published: 1
-date: 2019-12-26T13:54:40.596Z
+date: 2020-11-26T17:33:44.452Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-29T14:53:24.054Z
 ---
 
 # How do Subscription Lotteries Work?
