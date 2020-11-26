@@ -1,5 +1,13 @@
-<!-- TITLE: Managing Staff -->
-<!-- SUBTITLE: A quick overview on how to create accounts for your internal Staff -->
+---
+title: Managing Staff
+description: A quick overview on how to create accounts for your internal Staff
+published: 1
+date: 2020-11-26T17:31:31.857Z
+tags: 
+editor: markdown
+dateCreated: 2019-11-07T14:20:16.288Z
+---
+
 # Creating Staff Accounts
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 
