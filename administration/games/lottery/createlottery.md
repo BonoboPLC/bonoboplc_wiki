@@ -2,8 +2,10 @@
 title: Creating Lottery Games
 description: How to create your Lottery on the Bonobo Platform
 published: 1
-date: 2019-12-02T17:22:19.105Z
+date: 2020-11-26T17:29:31.314Z
 tags: 
+editor: markdown
+dateCreated: 2019-12-02T14:16:53.530Z
 ---
 
 # Lottery Templates (UK)
