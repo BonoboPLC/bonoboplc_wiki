@@ -2,8 +2,10 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2020-03-07T18:42:10.137Z
+date: 2020-11-26T17:30:54.991Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-07T14:20:13.389Z
 ---
 
 # Available Game Types
