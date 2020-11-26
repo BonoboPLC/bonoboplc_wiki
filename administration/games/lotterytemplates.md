@@ -2,8 +2,10 @@
 title: Lottery Templates
 description: A selection of pre-configured Lottery games on the Bonobo platform
 published: 1
-date: 2020-03-06T07:23:57.111Z
+date: 2020-11-26T17:32:58.353Z
 tags: 
+editor: markdown
+dateCreated: 2019-12-02T17:24:10.552Z
 ---
 
 
