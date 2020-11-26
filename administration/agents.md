@@ -2,8 +2,10 @@
 title: Managing Sales Agents
 description: A quick overview on how to create and manage your sellers
 published: 1
-date: 2019-11-15T10:44:04.972Z
+date: 2020-11-26T17:31:15.905Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-07T14:20:11.874Z
 ---
 
 # Creating Lottery Sales Agents
