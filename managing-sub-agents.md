@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-28T12:32:04.841Z
+date: 2021-01-28T12:41:55.408Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -12,7 +12,8 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 
 
-# ![agent-view-agents.png](/uploads/agent-view-agents.png)
+# ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
+
 
 # Creating Sub Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
