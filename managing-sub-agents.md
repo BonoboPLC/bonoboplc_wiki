@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T07:57:48.845Z
+date: 2021-01-29T08:01:48.013Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -151,8 +151,18 @@ You are able to split your total sales limit across your sub-agents as you see f
 
 # Viewing your Sub Sales Agents
 
+You will be able to manage your Sales Agents by taking the following steps
+1. Log on to Sales Agent App
+2. Navigate to Sales Agents (Left hand navigation menu)
+3. You will see the listing of all of your agents on this screen as shown below
 
 # ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
+
+On the above screen you are able to see the Total outstanding deposit and withdrawal receipts as they relate to your total limits.
+
+The information is displayed as an aggregate on the top header rows, and individualy for each respective Sales Agent in each table row.
+
+
 
 # Managing your Prize Payout Float
 
