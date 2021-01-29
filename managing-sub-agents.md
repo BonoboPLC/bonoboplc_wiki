@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:34:55.204Z
+date: 2021-01-29T02:35:11.261Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -14,7 +14,7 @@ dateCreated: 2021-01-28T06:14:15.478Z
 # ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
 
-# Establishing your Sales Credit Limits
+# Establishing your Sales Credit Limit
 
 Your Master Agent account is established with the following credit limits.
 
