@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:41:16.491Z
+date: 2021-01-29T02:42:04.043Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -18,8 +18,7 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 Your Master Agent account is established with A Sales Credit Limit.
 
-This limit must be secured with a refundable cash deposit, held as bond by Bhutan Lottery Limited during the term of your agreement. 
-
+This Sales Credit Limit must be secured with a refundable cash deposit, paid to and held as bond by Bhutan Lottery Limited during the term of your agreement. 
 
 
 - **Sales Credit Limit**
