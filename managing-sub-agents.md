@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:49:29.959Z
+date: 2021-01-29T02:53:47.804Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -12,6 +12,25 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 
 # ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
+
+# Your Account
+
+## Welcome Email
+
+## Agent Application
+
+## Supported Devices
+
+## Test & Training Environment
+
+## Training your Sales Agents
+
+## Sales Remittance Flow
+
+## Account Credit Limits
+
+### Sales Receipt Credit Limit
+
 
 
 # Establishing your Sales Credit 
