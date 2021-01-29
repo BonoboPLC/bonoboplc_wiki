@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T05:29:43.571Z
+date: 2021-01-29T05:29:56.261Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -16,7 +16,7 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ### How to sell tickets
 ### How to safely manage, store and remit your Sales Receipts
 ### How to check Tickets on behalf of players
-### Paying Prizes
+### How to Pay Prizes
 
 
 # Your Account
