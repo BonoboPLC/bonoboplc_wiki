@@ -2,17 +2,30 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-28T12:44:23.659Z
+date: 2021-01-29T00:52:33.017Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
 ---
+
 
 # Viewing your Sub Sales Agents
 
 
 # ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
+
+# Managing your Sales Limits
+
+Your Master Agent account is configured with the following credit limits.
+
+- Sales Limit
+- Deposit Receipt Limit
+- Prize Payout Limits
+
+These credit limits dictate how much (In Nu.) You are able to sell before you need to remit the Sales Receipts to our offices.)
+
+# Managing your Prize Payout Float
 
 # Creating Sub Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
