@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T04:36:23.242Z
+date: 2021-01-29T04:52:00.867Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -21,6 +21,11 @@ You will be required to change the password on your first login.
 ## Agent Application
 
 You and your sales agent can access the Sales Agent application by connecting to https://agent.bll.bt
+
+You will be able to manage your salesagents by 
+1. Log on to Sales Agent App
+2. Navigate to Sales Agents (Left hand navigation menu)
+3. 
 
 ## Supported Devices
 
