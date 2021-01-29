@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T03:03:43.856Z
+date: 2021-01-29T04:35:20.549Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -17,11 +17,23 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 ## Welcome Email
 
+Upon creation of your Master Agent account you will receive an email containing your username and temporary password. 
+
+You will be required to change the password on your first login.
+
 ## Agent Application
+
+You and your sales agent can access the Sales Agent application by connecting to https://agent.bll.bt
 
 ## Supported Devices
 
+
 ## Test & Training Environment
+
+As part of your training and onboarding process into the new lottery platform, you will be provided a separate set of credentials to access the test and training site.
+
+All transaction conducted in test environment are ficticous and are not real. You can use this environment to familiarize yourself with the application and train your staff on sub-agents.
+
 
 ## Training your Sales Agents
 
@@ -38,12 +50,12 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 # Sales Receipt Credit Limit
 
-Your Master Agent account is established with A Sales Receipt Credit Limit.
+Your Master Agent account is established with a Sales Receipt Credit limit.
 
 - **Sales Receipt Credit Limit**
 This limit dictates how much (in Nu.) you or your sub-agents are able to collectively sell on behalf of Bhutan Lottery Limited.
 
-Once this limit is reached, your sellers can no longer sell tickets until you collect & remit all/part of the outstanding balance owing to our finance department.
+Once your total outstanding sales receipt this limit is reached, your sellers can no longer sell tickets until you collect & remit all/part of the outstanding balance owing to our finance department.
 
 >**EXAMPLE**
 In a scenario where your account has Nu.100,000 limit, then you or your sales agents can sell up to Nu.100,000 in tickets through the Sales Agent application. Once you have reached Nu.100,000 in sales receipts, the Lottery Platform will restrict any additional sales, until some/all outstanding sales receipts owing to BLL are remitted to BLL.
