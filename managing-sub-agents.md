@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:31:47.376Z
+date: 2021-01-29T02:33:00.401Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -19,7 +19,7 @@ dateCreated: 2021-01-28T06:14:15.478Z
 Your Master Agent account is established with the following credit limits.
 
 - **Sales Credit Limit**
-These Sales credit Limit dictates how much (in Nu.) you, or your sub-agents are able to sell, before you need to remit owing Sales Receipts to our offices.
+These Sales credit Limit dictates how much (in Nu.) you, or your sub-agents are able to sell. Once this limit is reached your sellers can no longer sell tickets, until you remit all/part of the outstanding balance owing to Bhutan Lottery Limited.
 
 For example if your account has Nu.100,000 limit, then you, or your sales agents can sell up to Nu.100,000 in tickets through the Sales Agent application.  Once you have reached Nu.100,000 in sales receipts, the Lottery Platform will restrict any additional sales, until some/all outstanding sales receipts owing to BLL are remitted to BLL.
 
