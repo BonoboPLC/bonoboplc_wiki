@@ -2,14 +2,20 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T05:20:22.785Z
+date: 2021-01-29T05:27:53.830Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
 ---
 
+# Lottery Policies & Framework
 
-
+## Lottery Games & Rules
+## Lottery Policies 
+## Standard Operating Procedures
+### Selling Tickets
+### Checking Tickets on behalf of players
+### Paying Prizes
 
 
 # Your Account
@@ -54,6 +60,16 @@ All transaction conducted in test environment are ficticous and are not real. Yo
 
 
 ## Training your Sales Agents
+
+The following training tools and reference docs should be used when training your sales agents.
+
+- **How to Sell Tickets**
+	- PDF Reference 
+  - Video Walkthrough Guide
+- **Lottery Policies**
+	- Responsible Gaming 
+  - Age & Eligbility to play
+
 
 ## Sales Remittance Flow
 
