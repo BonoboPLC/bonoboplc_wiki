@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T01:10:56.036Z
+date: 2021-01-29T01:13:03.671Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -15,19 +15,19 @@ dateCreated: 2021-01-28T06:14:15.478Z
 # ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
 
-# Managing your Sales Limits
+# Establishing your Sales Credit Limits
 
 Your Master Agent account is configured with the following credit limits.
 
 - **Sales Credit Limit**
-These Sales credit dictates how much (In Nu.) you, or your sub-agents are able to sell before you need to remit the Sales Receipts to our offices.
+These Sales credit Limit dictates how much (In Nu.) you, or your sub-agents are able to sell before you need to remit the Sales Receipts to our offices.
 You are able to split your total sales limit across your sub-agents as you see fit. 
 - Deposit Receipt Limit
 
 
 These limits are set through your manager and can be increased by leaving additional funds on deposit with BLL.
 
-For example, if you wish to establish your Sales Agent account with a Nu. 300,000 limit, then you must leave Nu. 300,000 on deposit with Bhutan Lottery Limited during the term of your agreement. 
+For example, if you wish to establish your Master Sales Agent account with a Nu. 300,000 limit, then you must secure this limit by leaving Nu. 300,000 on deposit with Bhutan Lottery Limited during the term of your agreement. 
 
 This amount, less any amounts owing to BLL will be refunded to you upon closure of your account. 
 
