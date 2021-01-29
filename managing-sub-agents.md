@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T01:31:17.720Z
+date: 2021-01-29T01:32:54.516Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -32,7 +32,7 @@ At this point, you are required to remit some funds to BLL to free up additional
 
 This revolving credit scheme allows us, and you, to effectively and accurately manage outstanding balances in real time. 
 
-## Establishing your Sales Credit Limits
+## Managing Limits for your Sub-Agents
 
 You are able to split your total sales limit across your sub-agents as you see fit. 
 - Deposit Receipt Limit
