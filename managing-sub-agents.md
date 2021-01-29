@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T04:57:17.146Z
+date: 2021-01-29T04:58:03.966Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -31,8 +31,9 @@ You will be able to manage your salesagents by taking the following steps
 4. Click on the agents name to view the Agent details
 4.i. You can view the Sales Agents activity in real time
 4.ii. You can view outstanding balances for each respective Sales Agent
-4.iii. You can set/modify Agent limits and commissions
+4.iii. You can set/modify Agent limits and Commission rates
 4.iv. You can process agent remittances from this screen
+4.v. You can record and track withdrawal floats provided to Sales Agents
 
 
 ## Supported Devices
