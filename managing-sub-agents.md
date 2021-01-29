@@ -2,16 +2,13 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T04:35:20.549Z
+date: 2021-01-29T04:36:23.242Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
 ---
 
-# Viewing your Sub Sales Agents
 
-
-# ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
 # Your Account
 
@@ -72,8 +69,6 @@ For example, if you wish to establish your Master Sales Agent account with a Nu.
 
 
 
-
-
 You can at any time, remit the Sales Receipts to your sales manager to reduce the balance owing and allow additional sales transactions to take place in your network.
 
 Referring to above example, If your sales credit limit is  Nu.100,000 and your sales agents have sold Nu.100,000 worth of tickets which you have not remitted to BLL, then you could not sell any additional tickets. 
@@ -97,7 +92,10 @@ For example, if your Master Agent Sales Credit Limit is Nu.10,000, then you can 
 You are able to split your total sales limit across your sub-agents as you see fit. 
 
 
+# Viewing your Sub Sales Agents
 
+
+# ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
 # Managing your Prize Payout Float
 
