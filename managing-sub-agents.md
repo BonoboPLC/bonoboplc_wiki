@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T00:55:32.747Z
+date: 2021-01-29T01:10:56.036Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -23,13 +23,22 @@ Your Master Agent account is configured with the following credit limits.
 These Sales credit dictates how much (In Nu.) you, or your sub-agents are able to sell before you need to remit the Sales Receipts to our offices.
 You are able to split your total sales limit across your sub-agents as you see fit. 
 - Deposit Receipt Limit
-- Prize Payout Limits
 
 
+These limits are set through your manager and can be increased by leaving additional funds on deposit with BLL.
 
-These limits are set through your manager and can be increased by leaving a
+For example, if you wish to establish your Sales Agent account with a Nu. 300,000 limit, then you must leave Nu. 300,000 on deposit with Bhutan Lottery Limited during the term of your agreement. 
+
+This amount, less any amounts owing to BLL will be refunded to you upon closure of your account. 
+
 
 # Managing your Prize Payout Float
+
+
+- Your Aggregate Withdrawal Float
+- Agent Withdrawal Float
+- Agent Prize Payout Limits
+
 
 # Creating Sub Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
