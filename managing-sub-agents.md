@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:21:11.181Z
+date: 2021-01-29T02:31:02.362Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -34,7 +34,14 @@ This revolving credit scheme allows us, and you, to effectively and accurately m
 
 ## Managing Sales Credit Limits for your Sub-Agents
 
+When creating accounts for your Sellers, you will specify Sales Credit Limits for each.
 
+These Sales credit Limit dictates how much each seller is able to sell (in Nu.). 
+Once this limit is reached a seller can no longer sell tickets, until they remit all/prt of the outstanding balance owing to you. 
+
+The total aggregate limit you can extend to all of your sellers is limited by the Sales Credit limit on your account. 
+
+For example, if your Sales Credit Limit is Nu.10,000, then you can divide this aggregate limit across your sellers. If you have 5 sellers, then you can provide each of them with an Nu.2,000 limit. 
 
 You are able to split your total sales limit across your sub-agents as you see fit. 
 
