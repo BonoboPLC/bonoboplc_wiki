@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:35:11.261Z
+date: 2021-01-29T02:41:16.491Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -16,10 +16,20 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 # Establishing your Sales Credit Limit
 
-Your Master Agent account is established with the following credit limits.
+Your Master Agent account is established with A Sales Credit Limit.
+
+This limit must be secured with a refundable cash deposit, held as bond by Bhutan Lottery Limited during the term of your agreement. 
+
+
 
 - **Sales Credit Limit**
 These Sales credit Limit dictates how much (in Nu.) you, or your sub-agents are able to sell. Once this limit is reached your sellers can no longer sell tickets, until you remit all/part of the outstanding balance owing to Bhutan Lottery Limited.
+
+This limit is set by your manager and can be increased by leaving additional funds on deposit with BLL.
+
+For example, if you wish to establish your Master Sales Agent account with a Nu. 300,000 limit, then you must secure this limit by leaving Nu. 300,000 on deposit with Bhutan Lottery Limited during the term of your agreement. 
+
+This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
 
 For example if your account has Nu.100,000 limit, then you, or your sales agents can sell up to Nu.100,000 in tickets through the Sales Agent application.  Once you have reached Nu.100,000 in sales receipts, the Lottery Platform will restrict any additional sales, until some/all outstanding sales receipts owing to BLL are remitted to BLL.
 
@@ -46,12 +56,6 @@ For example, if your Master Agent Sales Credit Limit is Nu.10,000, then you can 
 You are able to split your total sales limit across your sub-agents as you see fit. 
 
 
-
-These limits are set through your manager and can be increased by leaving additional funds on deposit with BLL.
-
-For example, if you wish to establish your Master Sales Agent account with a Nu. 300,000 limit, then you must secure this limit by leaving Nu. 300,000 on deposit with Bhutan Lottery Limited during the term of your agreement. 
-
-This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
 
 
 # Managing your Prize Payout Float
