@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T05:28:29.349Z
+date: 2021-01-29T05:29:43.571Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -13,8 +13,9 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ## Lottery Games & Rules
 ## Lottery Policies 
 ## Standard Operating Procedures
-### Selling Tickets
-### Checking Tickets on behalf of players
+### How to sell tickets
+### How to safely manage, store and remit your Sales Receipts
+### How to check Tickets on behalf of players
 ### Paying Prizes
 
 
