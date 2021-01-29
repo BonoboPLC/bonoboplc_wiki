@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T04:52:00.867Z
+date: 2021-01-29T04:57:17.146Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -22,10 +22,18 @@ You will be required to change the password on your first login.
 
 You and your sales agent can access the Sales Agent application by connecting to https://agent.bll.bt
 
-You will be able to manage your salesagents by 
+You will be able to manage your salesagents by taking the following steps
 1. Log on to Sales Agent App
 2. Navigate to Sales Agents (Left hand navigation menu)
-3. 
+3. You will see the listing of all of your agents on this screen
+3.i. You can create additional agents 
+3.ii. You can view a high level account summary of all listed Sales Agent
+4. Click on the agents name to view the Agent details
+4.i. You can view the Sales Agents activity in real time
+4.ii. You can view outstanding balances for each respective Sales Agent
+4.iii. You can set/modify Agent limits and commissions
+4.iv. You can process agent remittances from this screen
+
 
 ## Supported Devices
 
