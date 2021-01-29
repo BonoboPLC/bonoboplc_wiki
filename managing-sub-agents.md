@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T05:38:02.023Z
+date: 2021-01-29T05:39:44.875Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -12,12 +12,17 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 ## Lottery Games & Rules
 ## Lottery Policies 
+### Age Verification
+### Responsible Gaming
+### Fit to play
 ## Standard Operating Procedures
 ### How to sell tickets
 ### How to check Tickets on behalf of players
 ### How to Pay Prizes
 ### How to safely manage, store and remit your Sales Receipts
 ### Requesting & Remitting Withdrawal Float
+### Master Agent Remittance Procedures
+### Sub Agent Remittance Procedures
 
 
 # Your Account
