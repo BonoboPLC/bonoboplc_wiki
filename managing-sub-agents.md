@@ -2,11 +2,13 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T04:58:03.966Z
+date: 2021-01-29T05:20:22.785Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
 ---
+
+
 
 
 
@@ -37,6 +39,11 @@ You will be able to manage your salesagents by taking the following steps
 
 
 ## Supported Devices
+
+Your sales agents can use any smart device to  sell tickets, pay prizes, verify players and sell Subscriptions in person or over the telephone.
+
+![sales-agent-admin.png](/uploads/sales-agent-admin.png)
+
 
 
 ## Test & Training Environment
