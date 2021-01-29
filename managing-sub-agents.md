@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T05:39:44.875Z
+date: 2021-01-29T05:45:20.896Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -25,7 +25,10 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ### Sub Agent Remittance Procedures
 
 
-# Your Account
+# Your Master Agent Account
+
+## BLL Account Manager Contact Details
+
 
 ## Welcome Email
 
@@ -79,6 +82,19 @@ The following training tools and reference docs should be used when training you
 
 
 ## Sales Remittance Flow
+
+You are responsible for collecting all sales receipts from your sub-agents and remitting them to BLL Finance department.
+
+Remittances must be made every week, or at an earlier period of your choosing.
+
+Please take the following steps for remitting your Sales Receipts
+
+1. Send Payment via one of the payment options listed below
+2. Email BLL Finance at  finance@bll.bt with the following
+2.i. Amount Remitted
+2.ii. Payment Receipt
+2.iii. Registered Master Agent Email address/Username
+
 
 ## Account Credit Limits
 
