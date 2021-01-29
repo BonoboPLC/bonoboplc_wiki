@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T02:53:47.804Z
+date: 2021-01-29T03:03:43.856Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -30,28 +30,37 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ## Account Credit Limits
 
 ### Sales Receipt Credit Limit
+### Deposit Receipt Credit Limit
+
+## Withdrawal Float
 
 
 
-# Establishing your Sales Credit 
+# Sales Receipt Credit Limit
 
-Your Master Agent account is established with A Sales Credit.
+Your Master Agent account is established with A Sales Receipt Credit Limit.
 
-This Sales Credit Limit must be secured with a refundable cash deposit, paid to and held as bond by Bhutan Lottery Limited during the term of your Agent Agreement. 
+- **Sales Receipt Credit Limit**
+This limit dictates how much (in Nu.) you or your sub-agents are able to collectively sell on behalf of Bhutan Lottery Limited.
 
-
-- **Sales Credit Limit**
-The Sales credit Limit dictates how much (in Nu.) you, or your sub-agents are able to sell. Once this limit is reached your sellers can no longer sell tickets until you remit all/part of the outstanding balance owing to Bhutan Lottery Limited.
-
-## Securing your Sales Credit
-This limit is set by your manager and can be increased by leaving additional funds on deposit with BLL.
-
-For example, if you wish to establish your Master Sales Agent account with a Nu. 100,000 credit limit, then you must secure this credit limit by leaving Nu.100,000 as security deposit with Bhutan Lottery Limited during the term of your agreement. 
-
-This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
+Once this limit is reached, your sellers can no longer sell tickets until you collect & remit all/part of the outstanding balance owing to our finance department.
 
 >**EXAMPLE**
 In a scenario where your account has Nu.100,000 limit, then you or your sales agents can sell up to Nu.100,000 in tickets through the Sales Agent application. Once you have reached Nu.100,000 in sales receipts, the Lottery Platform will restrict any additional sales, until some/all outstanding sales receipts owing to BLL are remitted to BLL.
+
+
+## Securing your Sales Credit
+
+This Sales Credit Limit must initially be secured with a refundable cash deposit, paid to and held as bond by Bhutan Lottery Limited during the term of your Agent Agreement. 
+
+This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
+
+
+For example, if you wish to establish your Master Sales Agent account with a Nu. 100,000 credit limit, then you must secure this credit limit by leaving Nu.100,000 as security deposit with Bhutan Lottery Limited during the term of your agreement. 
+
+
+
+
 
 You can at any time, remit the Sales Receipts to your sales manager to reduce the balance owing and allow additional sales transactions to take place in your network.
 
