@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-01-29T07:53:39.713Z
+date: 2021-01-29T07:57:26.532Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -117,6 +117,7 @@ Once your total outstanding sales receipt this limit is reached, your sellers ca
 >**EXAMPLE**
 In a scenario where your account has Nu.100,000 limit, then you or your sales agents can sell up to Nu.100,000 in tickets through the Sales Agent application. Once you have reached Nu.100,000 in sales receipts, the Lottery Platform will restrict any additional sales, until some/all outstanding sales receipts owing to BLL are remitted to BLL.
 
+At this point, you are required to remit some/all outstanding funds to BLL to free up additional sales credit.  I.e. if you remitted Nu.30,000 to BLL at this point, then the balance owing would be reduced to Nu.70,000/Nu.100,000 and you or your sub-agents can sell another Nu.30,000 until your limit is exhausted.
 
 ## Securing your Sales Credit
 
@@ -124,18 +125,14 @@ This Sales Credit Limit must initially be secured with a refundable cash deposit
 
 This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
 
-
-For example, if you wish to establish your Master Sales Agent account with a Nu. 100,000 credit limit, then you must secure this credit limit by leaving Nu.100,000 as security deposit with Bhutan Lottery Limited during the term of your agreement. 
-
-
+> EXAMPLE
+If you wish to establish your Master Sales Agent account with a Nu. 100,000 credit limit, then you must secure this credit limit by leaving Nu.100,000 as security deposit with Bhutan Lottery Limited during the term of your agreement. 
 
 You can at any time, remit the Sales Receipts to your sales manager to reduce the balance owing and allow additional sales transactions to take place in your network.
 
-Referring to above example, If your sales credit limit is  Nu.100,000 and your sales agents have sold Nu.100,000 worth of tickets which you have not remitted to BLL, then you could not sell any additional tickets. 
-
-At this point, you are required to remit some funds to BLL to free up additional sales credit.  I.e. if you remitted Nu.30,000 to BLL at this point, then the balance owing would be reduced to Nu.70,000/Nu.100,000 and you or your sub-agents can sell another Nu.30,000 until your limit is exhausted.
 
 This revolving credit scheme allows us, and you, to effectively and accurately manage outstanding balances in real time. 
+
 - **Deposit Receipt Limit**
 
 ## Managing Sales Credit Limits for your Sub-Agents
