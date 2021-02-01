@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T07:17:55.383Z
+date: 2021-02-01T07:21:38.872Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -38,7 +38,18 @@ Players must be fit to play and not under the influence of any substance
 
 ## Standard Operating Procedures
 ### How to sell tickets
+1. Agents must use the Sales Agent application to sell tickets
+2. Tickets must not be pre-printed
+3. Tickets must be sold through the platform at the time of player purchase
+4. Agents can accept any form of payment available to them
+5. Agents must remit Sales receipts to their respective managers on a timely basis
+
+Please see related training material. 
+
 ### How to check Tickets on behalf of players
+1. Agents must use the Sales Agent application to check tickets
+2. Agents must ensure that tickets are signed by the player prior to physically handling the ticket
+3. 
 ### How to Pay Prizes
 ### How to safely manage, store and remit your Sales Receipts
 ### Requesting & Remitting Withdrawal Float
