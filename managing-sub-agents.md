@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T07:11:54.647Z
+date: 2021-02-01T07:13:38.726Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -13,14 +13,21 @@ dateCreated: 2021-01-28T06:14:15.478Z
 ## Lottery Games & Rules
 ## Lottery Policies 
 ### Age Verification
-Players are required to verify their age, whenever required.
-You should ensure take the following steps to verify players
+When selling tickets, you will be required to certify that the player making the purchase is of age.
+You are responsible for ensuring that tickets are not sold to minors.
+
+In order to comply with the above mandate, pllayers are required to provide proof of age, whenever required.
+You should e take the following steps to ensure players are of age
 1. Players must be at least 18 years of age to play
 2. If the player looks to be under the age of 25, ask for ID
 3. Identification Documents should be government issues and contain the players Date of Birth and Picture
 4. Please verify that the ID belongs to the player making the purchase and that they are of age.
+
+
 ### Responsible Gaming
 ### Fit to play
+Players must be fit to play. 
+
 ## Standard Operating Procedures
 ### How to sell tickets
 ### How to check Tickets on behalf of players
