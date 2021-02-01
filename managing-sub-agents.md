@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T07:23:30.291Z
+date: 2021-02-01T07:33:58.077Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -47,19 +47,30 @@ Players must be fit to play and not under the influence of any substance
 
 ## Standard Operating Procedures
 ### How to sell tickets
-1. Agents must use the Sales Agent application to sell tickets
+1. Agents must log on to the Sales Agent application located at https://agent.bll.bt to sell tickets
 2. Tickets must not be pre-printed
 3. Tickets must be sold through the platform at the time of player purchase
 4. Agents can accept any form of payment available to them
-5. Agents must remit Sales receipts to their respective managers on a timely basis
+5. Agents must remit sales receipts to their respective managers on a timely basis
 
 Please see related training material. 
 
 ### How to check Tickets on behalf of players
-1. Agents must use the Sales Agent application to check tickets
+1. Agents must log on to the Sales Agent application located at https://agent.bll.bt to check tickets
 2. Agents must ensure that tickets are signed by the player prior to physically handling the ticket
-3. 
+2.i. If the ticket is not signed, please provide the player with a pen and ask them to sign it.
+3. Agents must return tickets to players unless paying out the entire respective prize(s) won by the ticket
+
+Please see related training material. 
 ### How to Pay Prizes
+
+1. Agents must log on to the Sales Agent application located at https://agent.bll.bt to pay prizes
+2. All prizes must be in the entirety. No partial prizes can be paid.
+3. Agents must follow the system prompts when paying out prizes
+4. Agents may be required to register a players personal details in the course of paying prizes
+5. Agents may be required to verify the players age by accepting, reviewing and taking pictures of Identification Documentents during the course of paying prizes
+
+
 ### How to safely manage, store and remit your Sales Receipts
 ### Requesting & Remitting Withdrawal Float
 ### Master Agent Remittance Procedures
