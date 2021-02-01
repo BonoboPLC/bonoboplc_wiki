@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T07:21:38.872Z
+date: 2021-02-01T07:23:30.291Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -11,6 +11,15 @@ dateCreated: 2021-01-28T06:14:15.478Z
 # Lottery Policies & Framework
 
 ## Lottery Games & Rules
+
+The Lottery provides the following games
+
+Phuensum 5/36 weekly Lottery
+Instant Bingo (online only)
+Instant Crosswords Scratch Card (online only)
+
+
+
 ## Lottery Policies 
 1. Players must purchase tickets for themselves 
 2. Players must be of legal age
