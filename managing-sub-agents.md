@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T07:13:45.525Z
+date: 2021-02-01T07:17:10.772Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -12,6 +12,11 @@ dateCreated: 2021-01-28T06:14:15.478Z
 
 ## Lottery Games & Rules
 ## Lottery Policies 
+1. Players must purchase tickets for themselves 
+2. Players must be of legal age
+3. Players can redeem prizes under Nu.10,000 at any Authorized Agent. Prizes over Nu.10,000 must be redeemed at BLL head office.
+4. Any prizes exceeding Nu.5,000 on a single ticket will be taxed 20% 
+
 ### Age Verification
 When selling tickets, you will be required to certify that the player making the purchase is of age.
 You are responsible for ensuring that tickets are not sold to minors.
@@ -26,7 +31,10 @@ You should e take the following steps to ensure players are of age
 
 ### Responsible Gaming
 ### Fit to play
-Players must be fit to play. 
+Players must be fit to play and not under the influence of any substance
+1. Player must not be under the influence of any substance
+2. Player must be of sound mind
+3. Player must not under emotional or physical distress
 
 ## Standard Operating Procedures
 ### How to sell tickets
