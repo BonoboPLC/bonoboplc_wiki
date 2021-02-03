@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T04:34:01.140Z
+date: 2021-02-03T05:56:36.070Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -182,12 +182,6 @@ You can at any time, remit the Sales Receipts to your sales manager to reduce th
 
 This revolving credit scheme allows us, and you, to effectively and accurately manage outstanding balances in real time. 
 
-## Allocating Limits to your Sub-Agents
-
-You may allocate and sub-divide your account limits across your sub-agents as you see fit.
-
-> **EXAMPLE**
- if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
 
 
 ## Managing Sales Credit Limits for your Sub-Agents
@@ -196,12 +190,18 @@ When creating accounts for your Sellers, you will specify Sales Credit Limits fo
 
 The total aggregate limit you can extend to all of your sellers is limited by the Sales Credit limit on your own Master Agent account.
 
-Your total Sales Credit limit can be sub-divided across your sub-agents as you see fit. 
 
-These Sales credit Limit dictates how much each seller is able to sell (in Nu.). 
+### Allocating Limits to your Sub-Agents
+
+These Sales credit Limit dictates how much each seller is able to sell (in Nu.).  
 Once this limit is reached a seller can no longer sell tickets, until they remit all/part of the outstanding balance owing to you. 
 
-For example, if your Master Agent Sales Credit Limit is Nu.10,000, then you can divide this aggregate limit across your sellers. If you have 5 sellers, then you can provide each of them with an Nu.2,000 limit. 
+You may allocate and sub-divide your account limits across your sub-agents as you see fit.
+
+> **EXAMPLE**
+ if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
+
+
 
 
 ## Sales Remittance Flow
