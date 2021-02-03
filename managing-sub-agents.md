@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:16:35.900Z
+date: 2021-02-03T06:38:19.557Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -257,19 +257,33 @@ You can allocate and sub-divide your withdrawal float or collected sales receipt
 
 
 
-
 # Managing your Prize Withdrawal Float
 
-- Your Aggregate Withdrawal Float
-- Agent Withdrawal Float
-- Agent Prize Payout Limits
+Your withdrawal float can only be replenished in the following ways:
+
+1. Your manager can provide you with additional funds and thereby increase the balance
+2. During the course of paying out a prize, you can use funds from you Sales Receipts, if the cash is available and on hand.
+
+- Allocating Sub-Agent Withdrawal Float
+You can sub-divide the funds you have received for prize payouts across your sub-agents as you see fit.
+
+> **Example**
+If Bhutan Lottery head office provides you with Nu.20,000 in withdrawal float, and you have 10 agents, you can give each of them 2,000
+
+## How to provide Sub-Agents with withdrawal float
+
+## How to collect un-used withdrawal float from Sub-Agents
+- Using Sales Receipts to pay prizes
 
 
 
 
 
 
-# Viewing your Sub Sales Agents
+
+
+
+# Viewing your Sub-Agents
 
 You will be able to manage your Sales Agents by taking the following steps
 1. Log on to Sales Agent App
