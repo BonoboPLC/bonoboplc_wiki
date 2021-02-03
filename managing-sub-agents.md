@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:09:45.237Z
+date: 2021-02-03T06:11:13.773Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -208,6 +208,13 @@ Please take the following steps for remitting your Sales Receipts
 2.i. Amount Remitted
 2.ii. Payment Receipt
 2.iii. Registered Master Agent Email address/Username
+
+### Payment Options
+
+**Direct Banking Transfer**
+Bhutan Lottery Limited
+Bank of Bhutan
+
 
 
 ### How to safely manage, store and remit your Sales Receipts
