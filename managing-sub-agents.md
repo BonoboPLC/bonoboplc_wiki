@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T03:56:03.781Z
+date: 2021-02-03T04:27:56.112Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -146,14 +146,15 @@ Your Master Agent account enables you and your agents to sell tickets, accept de
 
 Once the limits are reached, or on a periodic basis, you must remit any sales and deposit limits to BLL before selling additional tickets.
 
-If your account is enabled to pay prizes, you or your sub-agents can pay single prizes up to Nu.10,000. 
-
-You can either use the **Sales Receipts** which you may have on hand to pay prizes, or BLL will provide you the necessary funds to pay prizes. The allocation and usage of these funds are tracked through the **Withdrawal Float** account. 
-
 - **Withdrawal float** 
 Funds provided to you by your Manager, solely allocated for payment of prizes to players. 
 
-You can also allocate and provide your Sub-agents with portions of your withdrawal float as necessary.
+If your account is enabled to pay prizes, you or your sub-agents can pay single prizes up to Nu.10,000. 
+
+
+You can either use the **Sales Receipts** which you may have on hand to pay prizes, or BLL will provide you the necessary funds to pay prizes. The allocation and usage of these funds are tracked through the **Withdrawal Float** account. 
+
+You can also allocate and sub-divide your withdrawal float or collected sales receipts to your sub-agents withdrawal float as necessary.
 
 ## Sales Receipt Credit Limit
 
