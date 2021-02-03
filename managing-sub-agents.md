@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T08:46:14.136Z
+date: 2021-02-03T08:54:01.858Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -18,7 +18,7 @@ Phuensum 5/36 weekly Lottery
 Instant Bingo (online only)
 Instant Crosswords Scratch Card (online only)
 
-
+## Taxation on Winnings
 
 ## Lottery Policies 
 1. Players must purchase tickets for themselves 
@@ -36,6 +36,7 @@ You should e take the following steps to ensure players are of age
 2. If the player looks to be under the age of 25, ask for ID
 3. Identification Documents should be government issues and contain the players Date of Birth and Picture
 4. Please verify that the ID belongs to the player making the purchase and that they are of age.
+
 
 
 ### Responsible Gaming
@@ -319,8 +320,8 @@ Master Agent then provides the funds to Sub-Agent C and records the transfer by 
 It is possible for an agent to encounter a situtation where they do not have enough funds to pay out all prizes. 
 
 In such a case where the withdrawal attempt fails, the Agent is instructed to tell the player to either:
-1. Cash out an alternate lottery outlet; a listing of which is provided to the Agent.
-2. Advise the player to come back at a suitable time which allots enough time to the Agent to contact his/her manager in order to obtain additional funds. 
+1. Cash out at an alternate lottery outlet; a listing of which is provided to the Agent.
+2. Advise the player to come back at a suitable time which allots enough time for the Agent to contact his/her manager in order to obtain additional funds. 
 
 Additionally, upon a failed withdrawal attempt
 
