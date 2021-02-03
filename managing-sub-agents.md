@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:00:23.825Z
+date: 2021-02-03T06:01:18.357Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -212,7 +212,7 @@ Please take the following steps for remitting your Sales Receipts
 
 ### Deposit Receipt Credit Limit
 
-## Paying Prizes Overview
+# Paying Prizes Overview
 
 If your account is enabled to pay prizes, you or your sub-agents can pay single prizes up to Nu.10,000. 
 
