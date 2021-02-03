@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:14:48.880Z
+date: 2021-02-03T06:16:35.900Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -255,10 +255,14 @@ Represents funds provided to you by your Manager, solely allocated for payment o
 
 You can allocate and sub-divide your withdrawal float or collected sales receipts to your sub-agents withdrawal float as necessary.
 
-### Managing Withdrawal float for you and your Sub-Agents
 
 
 
+# Managing your Prize Withdrawal Float
+
+- Your Aggregate Withdrawal Float
+- Agent Withdrawal Float
+- Agent Prize Payout Limits
 
 
 
@@ -280,12 +284,7 @@ The information is displayed as an aggregate on the top header rows, and individ
 
 
 
-# Managing your Prize Payout Float
 
-
-- Your Aggregate Withdrawal Float
-- Agent Withdrawal Float
-- Agent Prize Payout Limits
 
 
 # Creating Sub Sales Agents
