@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T08:21:04.324Z
+date: 2021-02-03T08:46:14.136Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -307,8 +307,8 @@ This mechanism is triggered automatically, if applicable, during the course of w
 
 > **Example**
 Assume that there are 3 Sub-Agents, A, B and C.
-Sub-Agents A and B and C have sales receipts of 2,500 each.
-Sub-Agent C needs to pay a player who has won 7,500.
+Sub-Agents A and B and C have sales receipts of Nu.2,500 each.
+Sub-Agent C needs to pay a player who has won Nu.7,500 (Net of taxes).
 Master Agent needs to collect sales receipts from Sub-Agents A and B.
 Master Agent then provides the funds to Sub-Agent C and records the transfer by adding to the Sub-Agents withdrawal float. The transfer mechanism from Sales Receipts to Withdrawal float is automatically triggered.
 
