@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T08:19:25.290Z
+date: 2021-02-03T08:21:04.324Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
