@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:01:18.357Z
+date: 2021-02-03T06:09:30.271Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -144,7 +144,7 @@ Your Master Agent account enables you and your agents to sell tickets, accept de
 
 - **Deposit Limit**
 
-Once the limits are reached, or on a periodic basis, you must remit any sales and deposit limits to BLL before selling additional tickets.
+Once the limits are reached, or on a periodic basis, you must remit any sales and deposit funds recieved from players to to BLL before selling additional tickets.
 
 
 
@@ -210,6 +210,24 @@ Please take the following steps for remitting your Sales Receipts
 2.iii. Registered Master Agent Email address/Username
 
 
+### How to safely manage, store and remit your Sales Receipts
+
+We recommend that you and your sub-agents take into the account the following guidance when handling cash received from ticket sales.
+
+Guidance for you as a Master Agent
+
+- Collect Sales receipts from your agents as often as possible, recommended daily
+- Keep cash in a lockable physical safe, room or container 
+-- Advise your Sub-Agents to do the same
+- Do not disclose your sales volumes to anyone
+- Deposit your cash into your bank account, twice per week
+
+
+
+
+
+
+
 ### Deposit Receipt Credit Limit
 
 # Paying Prizes Overview
@@ -228,7 +246,6 @@ You can allocate and sub-divide your withdrawal float or collected sales receipt
 ### Managing Withdrawal float for you and your Sub-Agents
 
 
-### How to safely manage, store and remit your Sales Receipts
 
 
 
@@ -248,7 +265,7 @@ You will be able to manage your Sales Agents by taking the following steps
 2. Navigate to Sales Agents (Left hand navigation menu)
 3. You will see the listing of all of your agents on this screen as shown below
 
-# ![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
+![agent-view-agents.png](/uploads/agent-view-agents.png){:height="300px" width="600px"}
 
 On the above screen you are able to see the Total outstanding deposit and withdrawal receipts as they relate to your total limits.
 
