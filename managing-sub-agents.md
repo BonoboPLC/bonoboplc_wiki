@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:11:13.773Z
+date: 2021-02-03T06:14:48.880Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -195,7 +195,7 @@ You may allocate and sub-divide your account limits across your sub-agents as yo
  if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
 
 
-## Sales Remittance Flow
+## Master Agent Sales Receipt Remittance 
 
 You are responsible for collecting all sales receipts from your sub-agents and remitting them to BLL Finance department.
 
@@ -216,8 +216,16 @@ Bhutan Lottery Limited
 Bank of Bhutan
 
 
+### Sub Agent Sales Receipt Remittance guidance
 
-### How to safely manage, store and remit your Sales Receipts
+You are free to manage the schedule and process for collecting the Sales Receipts from your sub-agents as you see fit.
+
+The system tracks and provides real time statistics to you with respect to outstanding Sales Receipts which need to be remitted to Bhutan Lottery. 
+
+You are able to easily see how much you should have on hand (already collected froms Sub-Agents) and how much is still outstanding and in the hands of your Sales Agents. 
+
+
+## How to safely manage, store and remit your Sales Receipts
 
 We recommend that you and your sub-agents take into the account the following guidance when handling cash received from ticket sales.
 
@@ -252,11 +260,6 @@ You can allocate and sub-divide your withdrawal float or collected sales receipt
 
 
 
-
-### Master Agent Remittance Procedures
-
-
-### Sub Agent Remittance Procedures
 
 
 
