@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T03:46:03.230Z
+date: 2021-02-03T03:54:59.239Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -140,17 +140,20 @@ The following training tools and reference docs should be used when training you
 
 Your Master Agent account enables you and your agents to sell tickets, accept deposits and pay prizes within **preset limits** as follows:
 
-- Sales Credit Limit
-- Deposit Limit
+- **Sales Credit Limit**
+
+- **Deposit Limit**
 
 Once the limits are reached, or on a periodic basis, you must remit any sales and deposit limits to BLL before selling additional tickets.
 
+If your account is enabled to pay prizes, you or your sub-agents can pay single prizes up to Nu.10,000. 
 
+You can either use the **Sales Receipts** which you may have on hand to pay prizes, or BLL will provide you the necessary funds to pay prizes. The allocation and usage of these funds are tracked through the **Withdrawal Float** account. 
 
-- Withdrawal float 
+- **Withdrawal float** 
 Funds provided to you by your Manager, solely allocated for payment of prizes to players. 
 
-
+You can also allocate and provide your Sub-agents with portions of your withdrawal float as necessary.
 
 ## Sales Receipt Credit Limit
 
@@ -185,7 +188,7 @@ You may allocate and split your account limits across your sub-agents as you see
 
 > For example, if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
 
-If your account is enabled to pay prizes, you can use one of the following source of funds
+
 
 - **Deposit Receipt Limit**
 
