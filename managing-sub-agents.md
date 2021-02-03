@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:50:11.027Z
+date: 2021-02-03T06:51:50.739Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -272,22 +272,22 @@ If Bhutan Lottery head office provides you with Nu.20,000 in withdrawal float, a
 
 ## How to provide Sub-Agents with withdrawal float
 
+Please take the following steps to provide Sub-Agents with a withdrawal float.
+
 1. Log on to Sales Agent App
 2. Navigate to Sales Agents (Left hand navigation menu)
 You will see the listing of all of your Sub-Agents on this screen
 
 3. You can view a high level  summary of all listed Sales Agents
 
-4. Click on the agents name to view the Agent details
+4. Click on the Agents name to view the Agent details
 
 5. View the Agents Withdrawal float balance. 
-5.i. Provide the Sub-Agent with the Cash
+5.i. Provide the Sub-Agent with the Cash (in Cash or Bank transfer)
 5.ii.CLick on the "+" icon to the right of the balance to record the transaction in the system
 5.iii. On the following popup enter the amount you provide to the agent
-6. The amount should now be reflected in the Balance and the agent should now be in possession of funds to pay prizes
-4.iii. You can set/modify Agent limits and Commission rates
-4.iv. You can process agent remittances from this screen
-4.v. You can record and track withdrawal floats provided to Sales Agents
+6. The amount should now be reflected in the Balance and the Agent should now be in possession of funds to pay prizes
+
 
 
 ## What happens if an Agent does not have enough funds to pay prizes?
@@ -306,7 +306,6 @@ Additionally, upon a failed withdrawal attempt
 
 
 **It is the responsbility of the Master Agent to immediately take action and to provide the agent with enough funds to pay the player on their subsequent visit.**
-
 
 
 ## How to collect un-used withdrawal float from Sub-Agents
