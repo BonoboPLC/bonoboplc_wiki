@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:56:29.574Z
+date: 2021-02-03T07:07:34.552Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -285,8 +285,16 @@ You will see the listing of all of your Sub-Agents on this screen
 5. View the Agents Withdrawal float balance. 
 5.i. Provide the Sub-Agent with the Cash (in Cash or Bank transfer)
 5.ii.CLick on the "+" icon to the right of the balance to record the transaction in the system
+
 5.iii. On the following popup enter the amount you provide to the agent
 6. The amount should now be reflected in the Balance and the Agent should now be in possession of funds to pay prizes
+
+The amount you provide to the Sub-Agent can come from either your withdrawal float or from the Sales Receipts which you have on hand.
+
+If your withdrawal float does not have sufficient funds, but you have sales receipts on hand the system will prompt you and guide you through recording the transfer.
+
+## Process for using Sales Receipts to pay prizes
+
 
 
 
@@ -309,7 +317,9 @@ Additionally, upon a failed withdrawal attempt
 
 
 ## How to collect un-used withdrawal float from Sub-Agents
-- Using Sales Receipts to pay prizes
+
+
+
 
 
 
