@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-01T08:10:17.992Z
+date: 2021-02-03T03:40:50.518Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -71,15 +71,14 @@ Please see related training material.
 5. Agents may be required to verify the players age by accepting, reviewing and taking pictures of Identification Documentents during the course of paying prizes
 
 
-### How to safely manage, store and remit your Sales Receipts
-### Requesting & Remitting Withdrawal Float
-### Master Agent Remittance Procedures
-### Sub Agent Remittance Procedures
 
 
 # Your Master Agent Account
 
 ## BLL Account Manager Contact Details
+
+CONTACT DETAILS
+
 
 
 ## Welcome Email
@@ -133,27 +132,33 @@ The following training tools and reference docs should be used when training you
   - Age & Eligbility to play
 
 
-## Sales Remittance Flow
 
-You are responsible for collecting all sales receipts from your sub-agents and remitting them to BLL Finance department.
 
-Remittances must be made every week, or at an earlier period of your choosing.
-
-Please take the following steps for remitting your Sales Receipts
-
-1. Send Payment via one of the payment options listed below
-2. Email BLL Finance at  finance@bll.bt with the following
-2.i. Amount Remitted
-2.ii. Payment Receipt
-2.iii. Registered Master Agent Email address/Username
 
 
 ## Account Credit Limits
 
-### Sales Receipt Credit Limit
-### Deposit Receipt Credit Limit
+Your Master Agent account enables you and your agents to sell tickets, accpet deposits and pay prizes within preset limits on your account.
 
-## Withdrawal Float Management
+- Sales Limit
+- Deposit Limit
+
+Once the limits are reached, or on periodic basis, you must remit any sales and deposit limits to BLL before selling additional Tickets.
+
+You may allocate and split your Limits across your sales agents as you see fit.
+
+> For example, if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
+
+
+If your account is enabled to pay prizes, you can use one of the following source of funds
+
+- Withdrawal float 
+Funds provided to you by your Manager, solely allocated for payment of prizes to players. 
+
+
+
+
+
 
 
 
@@ -199,6 +204,41 @@ The total aggregate limit you can extend to all of your sellers is limited by th
 For example, if your Master Agent Sales Credit Limit is Nu.10,000, then you can divide this aggregate limit across your sellers. If you have 5 sellers, then you can provide each of them with an Nu.2,000 limit. 
 
 You are able to split your total sales limit across your sub-agents as you see fit. 
+
+## Sales Remittance Flow
+
+You are responsible for collecting all sales receipts from your sub-agents and remitting them to BLL Finance department.
+
+Remittances must be made every week, or at an earlier period of your choosing.
+
+Please take the following steps for remitting your Sales Receipts
+
+1. Send Payment via one of the payment options listed below
+2. Email BLL Finance at  finance@bll.bt with the following
+2.i. Amount Remitted
+2.ii. Payment Receipt
+2.iii. Registered Master Agent Email address/Username
+
+
+
+### Deposit Receipt Credit Limit
+
+## Withdrawal Float Management
+
+### Managing Withdrawal float for you and your Sub-Agents
+
+
+### How to safely manage, store and remit your Sales Receipts
+
+
+
+### Master Agent Remittance Procedures
+
+
+### Sub Agent Remittance Procedures
+
+
+
 
 
 # Viewing your Sub Sales Agents
