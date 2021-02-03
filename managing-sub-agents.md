@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T09:06:14.790Z
+date: 2021-02-03T09:12:02.855Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -20,7 +20,10 @@ Instant Crosswords Scratch Card (online only)
 
 ## Taxation on Winnings
 
-All winnings
+All winnings greater than Nu.5,000 (on a single Wager/Ticket) are subject to a 20% tax.
+
+This 20% tax on Nu.5,000 (or greater) winnings is automatically deducted from the player. 
+
 
 ## Lottery Policies 
 1. Players must purchase tickets for themselves 
