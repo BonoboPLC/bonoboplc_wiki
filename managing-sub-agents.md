@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T07:16:16.984Z
+date: 2021-02-03T07:18:48.280Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -334,12 +334,12 @@ Additionally, upon a failed withdrawal attempt
 
 ## How to collect un-used withdrawal float from Sub-Agents
 
+Follow the steps to navigate to a Sub-Agents profile using the Agent Application.
 
-
-
-
-
-
+1. Click on the "-" icon located to the right of the Sub-Agents outstanding withdrawal float. 
+2. Collect the funds via Cash or Bank Transfer from the Sub-Agent
+3. Record the amount in the popup.
+4. The system will reflect this increase in your outstanding withdrawal float and decrease the Sub-Agents withdrawal float account
 
 
 
