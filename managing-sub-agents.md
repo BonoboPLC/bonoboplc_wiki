@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T04:33:15.391Z
+date: 2021-02-03T04:34:01.140Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -175,7 +175,7 @@ This Sales Credit Limit must initially be secured with a refundable cash deposit
 
 This security deposit, less any amounts owing to BLL will be refunded to you upon closure of your account. 
 
-> EXAMPLE
+> **EXAMPLE**
 If you wish to establish your Master Sales Agent account with a Nu. 100,000 credit limit, then you must secure this credit limit by leaving Nu.100,000 as security deposit with Bhutan Lottery Limited during the term of your agreement. 
 
 You can at any time, remit the Sales Receipts to your sales manager to reduce the balance owing and allow additional sales transactions to take place in your network.
@@ -186,7 +186,8 @@ This revolving credit scheme allows us, and you, to effectively and accurately m
 
 You may allocate and sub-divide your account limits across your sub-agents as you see fit.
 
-> For example, if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
+> **EXAMPLE**
+ if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
 
 
 ## Managing Sales Credit Limits for your Sub-Agents
