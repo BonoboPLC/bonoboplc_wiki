@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T06:42:59.919Z
+date: 2021-02-03T06:50:11.027Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -288,6 +288,25 @@ You will see the listing of all of your Sub-Agents on this screen
 4.iii. You can set/modify Agent limits and Commission rates
 4.iv. You can process agent remittances from this screen
 4.v. You can record and track withdrawal floats provided to Sales Agents
+
+
+## What happens if an Agent does not have enough funds to pay prizes?
+
+It is possible for an agent to encounter a situtation where they do not have enough funds to pay out all prizes. 
+
+In such a case where the withdrawal attempt fails, the Agent is instructed to tell the player to either:
+1. Cash out an alternate lottery outlet; a listing of which is provided to the Agent.
+2. Advise the player to come back at a suitable time which allots enough time to the Agent to contact his/her manager in order to obtain additional funds. 
+
+Additionally, upon a failed withdrawal attempt
+
+1. System will automatically notify BLL head office
+2. System will log the failed withdrawal attempt in the Agents activity history
+3. System will automatically email the Master-Agent to notify of the failed withdrawal attemp
+
+
+**It is the responsbility of the Master Agent to immediately take action and to provide the agent with enough funds to pay the player on their subsequent visit.**
+
 
 
 ## How to collect un-used withdrawal float from Sub-Agents
