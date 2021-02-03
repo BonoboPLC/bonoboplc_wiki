@@ -2,7 +2,7 @@
 title: Managing Sub Agents
 description: How to Manage your Sub Agents
 published: 1
-date: 2021-02-03T03:40:50.518Z
+date: 2021-02-03T03:46:03.230Z
 tags: 
 editor: markdown
 dateCreated: 2021-01-28T06:14:15.478Z
@@ -136,33 +136,23 @@ The following training tools and reference docs should be used when training you
 
 
 
-## Account Credit Limits
+# Master Agent Sales Limits & Withdrawal Float
 
-Your Master Agent account enables you and your agents to sell tickets, accpet deposits and pay prizes within preset limits on your account.
+Your Master Agent account enables you and your agents to sell tickets, accept deposits and pay prizes within **preset limits** as follows:
 
-- Sales Limit
+- Sales Credit Limit
 - Deposit Limit
 
-Once the limits are reached, or on periodic basis, you must remit any sales and deposit limits to BLL before selling additional Tickets.
-
-You may allocate and split your Limits across your sales agents as you see fit.
-
-> For example, if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
+Once the limits are reached, or on a periodic basis, you must remit any sales and deposit limits to BLL before selling additional tickets.
 
 
-If your account is enabled to pay prizes, you can use one of the following source of funds
 
 - Withdrawal float 
 Funds provided to you by your Manager, solely allocated for payment of prizes to players. 
 
 
 
-
-
-
-
-
-# Sales Receipt Credit Limit
+## Sales Receipt Credit Limit
 
 Your Master Agent account is established with a Sales Receipt Credit limit.
 
@@ -187,8 +177,15 @@ If you wish to establish your Master Sales Agent account with a Nu. 100,000 cred
 
 You can at any time, remit the Sales Receipts to your sales manager to reduce the balance owing and allow additional sales transactions to take place in your network.
 
-
 This revolving credit scheme allows us, and you, to effectively and accurately manage outstanding balances in real time. 
+
+## Allocating Limits to your Sub-Agents
+
+You may allocate and split your account limits across your sub-agents as you see fit.
+
+> For example, if your Master Agent account is alloted Nu.100,000 in Sales Credit Limit and you have 5 sub-agents, you can provide each with Nu.20,000 credit limit. This enables your sub-agents to sell up to 20,000 in tickets before they have to remit their sales receipts to you.  
+
+If your account is enabled to pay prizes, you can use one of the following source of funds
 
 - **Deposit Receipt Limit**
 
