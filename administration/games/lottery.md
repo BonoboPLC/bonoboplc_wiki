@@ -2,7 +2,7 @@
 title: Lottery Games
 description: Create a custom Lottery 
 published: 1
-date: 2020-11-26T17:30:21.502Z
+date: 2021-03-21T09:10:28.279Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-07T14:20:28.807Z
