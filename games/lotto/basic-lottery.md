@@ -2,8 +2,10 @@
 title: Basic Lottery
 description: A typical lottery game where players can pick X numbers from a range Y.
 published: 1
-date: 2020-05-28T15:30:30.650Z
+date: 2021-03-21T09:09:18.720Z
 tags: basic lottery, lottery, lotto, traditional lottery
+editor: markdown
+dateCreated: 2020-02-03T12:26:56.164Z
 ---
 
 
