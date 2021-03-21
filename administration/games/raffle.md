@@ -2,8 +2,10 @@
 title: Raffle Games
 description: Creating your own custom cash or prize draw raffle
 published: 1
-date: 2020-03-07T17:38:01.904Z
+date: 2021-03-21T09:07:21.686Z
 tags: 
+editor: markdown
+dateCreated: 2019-11-07T14:20:32.200Z
 ---
 
 # Creating your Raffle
