@@ -2,8 +2,10 @@
 title: Any Place can Pay Lottery
 description: Each match can pay a specific amount, even zero matches!
 published: 1
-date: 2020-05-28T14:30:43.162Z
+date: 2021-03-21T09:09:35.483Z
 tags: lottery, lotto
+editor: markdown
+dateCreated: 2020-02-03T12:45:27.103Z
 ---
 
 
