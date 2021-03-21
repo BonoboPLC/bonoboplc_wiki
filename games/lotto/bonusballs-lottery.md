@@ -2,8 +2,10 @@
 title: Bonus Balls Lottery
 description: A lottery in which a bonus ball is drawn from the remaining numbers, following the main draw
 published: 1
-date: 2020-05-29T11:55:15.544Z
+date: 2021-03-21T09:09:25.534Z
 tags: bonus ball lottery, bonus balls, bonus lottery, bonus lotto
+editor: markdown
+dateCreated: 2020-02-03T11:56:22.920Z
 ---
 
 
