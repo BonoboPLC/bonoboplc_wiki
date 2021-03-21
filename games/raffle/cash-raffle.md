@@ -2,8 +2,10 @@
 title: Fixed Prize Cash Raffles
 description: Raffle with Cash prizes
 published: 1
-date: 2020-03-07T19:19:48.942Z
+date: 2021-03-21T09:11:03.836Z
 tags: cash raffle, fixed cash prizes
+editor: markdown
+dateCreated: 2020-03-07T18:44:20.047Z
 ---
 
 
