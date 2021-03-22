@@ -2,8 +2,10 @@
 title: Fixed Cash Prizes - 10 Winners
 description: £10,000 prize pool, split in 10 equal prizes of £1,000 each
 published: 1
-date: 2020-04-17T12:48:37.121Z
+date: 2021-03-22T07:43:42.613Z
 tags: 10 winners, fixed prizes
+editor: markdown
+dateCreated: 2020-04-17T12:48:37.121Z
 ---
 
 # £10,000 Raffle - 10 Prizes of £1,000
