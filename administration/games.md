@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2021-11-18T06:30:26.025Z
+date: 2021-11-18T06:32:25.962Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-07T14:20:13.389Z
@@ -21,7 +21,6 @@ Click on each game type to find out more.
 |  | | |
 | ------ | ------ | ------ | 
 |[![lottorace-home-page.png](/lottorace-home-page.png "Lottorace Games"){:height="100px" width="100px"}](/administration/games/lottorace "Managing your Lottery & Raffle Games") | [![lotterya-home-page.png](/lotterya-home-page.png "Lottery Games"){:height="100px" width="100px"}](/administration/games/lotterytemplates  "Lottery Games") | [![raffles-a-home-page.png](/raffles-a-home-page.png){:height="100px" width="100px"}](/games/raffles "Raffles ")|
-
 
 # Common Game Management Info
 
@@ -57,7 +56,7 @@ You can use these pre-configured games, or clone a copy to use as a starting poi
 
 | |||
 | ------ | ------ | ------ | 
-| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="50px" width="50px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
 | ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
