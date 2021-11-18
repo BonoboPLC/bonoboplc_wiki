@@ -2,7 +2,7 @@
 title: Games
 description: A quick summary of Games
 published: 1
-date: 2021-11-18T06:32:44.509Z
+date: 2021-11-18T06:34:48.049Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-07T14:20:13.389Z
@@ -63,7 +63,6 @@ You can use these pre-configured games, or clone a copy to use as a starting poi
 
 > Raffles do not have templates and are created through the raffle builder.
 {.is-warning}
-
 
  ## Creating Game Templates
 
