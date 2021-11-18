@@ -2,7 +2,7 @@
 title: LottoRace Admin Guide
 description: 
 published: 1
-date: 2020-11-26T17:32:45.836Z
+date: 2021-11-18T06:55:05.531Z
 tags: 
 editor: markdown
 dateCreated: 2019-11-07T14:20:30.303Z
@@ -44,9 +44,9 @@ Here are some of the pre-configured games that are included in your Games Librar
 
 | |||
 | ------ | ------ | ------ | 
-| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
-| ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
-| ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![1 In 4 Wins](/uploads/1-in-4-wins.png "1 In 4 Wins"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small" =150x){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily" =150x){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus" =150x){:height="100px" width="100px"} |
+| ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus" =150x){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus" =150x){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus" =150x){:height="100px" width="100px"}  |    
+| ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win" =150x){:height="100px" width="100px"}  |  ![1 In 4 Wins](/uploads/1-in-4-wins.png "1 In 4 Wins" =150x){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus" =150x){:height="100px" width="100px"}
 
 ## Tournaments vs. Instant Games
 
