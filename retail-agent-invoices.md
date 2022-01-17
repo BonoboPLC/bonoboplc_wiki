@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T14:53:48.131Z
+date: 2022-01-17T14:54:25.709Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
@@ -36,7 +36,7 @@ Invoices must be paid with a payment of at least X percentage of the total due.
 For example if threshold is 80%, then the minimum payment due is 80% of (Total Outstanding + Total Due on this invoice).
 
 
-# How do I?
+# Common Invoice Use Cases
 
 ## Accessing Agent Invoices via the Back-Office
 ### Permissions
