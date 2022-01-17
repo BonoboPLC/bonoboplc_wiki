@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T14:56:27.321Z
+date: 2022-01-17T14:57:49.772Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
