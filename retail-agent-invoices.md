@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T14:57:49.772Z
+date: 2022-01-17T15:00:28.515Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
@@ -25,10 +25,16 @@ An Invoice includes transactions performed by the Sales agents or Sub-Agents (if
 
 ## Invoices for Super Agents
 
+
 ## Invoices for Sub-Agents
 
 
 ## How often do invoices get created?
+Invoice schedules can be configured on a per agent basis.
+A schedule configuration includes the following settings:
+- Invoice Frequency; How often the invoice is created. For example every 2 days, every Friday, every 1st Monday etc..
+- Invoice Coverage; The period for which the invoice is created. I.e. 2 days, 10 days, 2 weeks.
+- Due Date; The Due Date displayed on the invoice. This notifies the customer on how long they have to settle the invoice.
 
 ## How can you view invoices for an agent?
 
