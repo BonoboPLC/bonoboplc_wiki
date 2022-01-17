@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T14:54:25.709Z
+date: 2022-01-17T14:56:27.321Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
@@ -13,6 +13,15 @@ Your content here
 
 
 ## What are Invoices?
+Invoices summarize the activities of a sales agent for a given period. 
+An Invoice includes transactions performed by the Sales agents or Sub-Agents (if any exist) as they relate to the following:
+- Sales
+- Deposits
+- Manual Remittances and settlements in period
+- Commissions
+- Payouts
+- Cancellations
+
 
 ## Invoices for Super Agents
 
