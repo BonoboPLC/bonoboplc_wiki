@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T15:08:23.692Z
+date: 2022-01-17T15:10:38.191Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
@@ -56,9 +56,6 @@ Example: you may have one of your account representatives assigned to manage Mas
 
 By utilizing this permission model each Staff member, loggin on through the back office, would have restricted  access to the invoices relating to the Agent's whom they are managing. 
 
-
-[4:37 a.m.] Mark Homayoun
-you can assign a staff to a respective agent in the Agent Detail view  as shown below
 
 
 
