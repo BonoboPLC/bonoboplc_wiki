@@ -2,7 +2,7 @@
 title: Agent Invoices
 description: Managing sales agents with periodic invoicing
 published: 1
-date: 2022-01-17T15:04:28.895Z
+date: 2022-01-17T15:08:23.692Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-17T13:53:38.714Z
@@ -40,23 +40,21 @@ A schedule configuration includes the following settings:
 
 ### View Permissions
 
-By default agents will be able to view invoices for Agents whom are assigned to those agents. 
+By default agents will be able to view invoices generated for Agents whom are assigned to those agents. 
 
-Please note that the permission "Assign Agents " must be enabled for a Staff account in order for them to be able to view invoices relating to Agent's whom are not assigned to that user.
+A Staff user who has "Assign Agents" permissions enabled can assign any Staff Account to a respective Sales Agent in the Agent Detail view as shown below:
+
+INSERT PICTURE
+
+Please note that the permission "Assign Agents " must also be enabled for a Staff account in order for them to be able to view invoices relating to Agent's whom are not assigned to that user.
 
 
-[4:34 a.m.] Mark Homayoun
 A Staff user 'manages' or is assigned to Sales Agents - for which they may be responsible
 
 
-[4:35 a.m.] Mark Homayoun
-for example Ms. Karma, you may have one of your assistants assigned to manage Master Sales Agent X, Y and Z,   
+Example: you may have one of your account representatives assigned to manage Master Sales Agent X, Y and Z, and another of your staff to Manage Sales Agent  W, V.
 
-[4:35 a.m.] Mark Homayoun
-and another of your staff to Manage Sales Agent  W, V
-
-[4:35 a.m.] Mark Homayoun
-in this way - each Staff member, loggin on through the back office, would only have access to the invoices relating to the Agent whom they are managing
+By utilizing this permission model each Staff member, loggin on through the back office, would have restricted  access to the invoices relating to the Agent's whom they are managing. 
 
 
 [4:37 a.m.] Mark Homayoun
