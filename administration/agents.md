@@ -1,11 +1,11 @@
 ---
 title: Managing Sales Agents
 description: A quick overview on how to create and manage your sellers
-published: 1
-date: 2020-11-26T17:31:15.905Z
+published: true
+date: 2025-05-20T15:02:32.260Z
 tags: 
 editor: markdown
-dateCreated: 2019-11-07T14:20:11.874Z
+dateCreated: 2024-07-26T05:17:12.554Z
 ---
 
 # Creating Lottery Sales Agents
@@ -205,7 +205,7 @@ Typically at the end of the day you would ask the Agent to remit all Deposit Rec
 
 ## Paying Agent Commissions
 
-Every Sales Agent has a Commission Account in the system which tracks the oustanding Commissions payable. 
+Every Sales Agent has a Commission Account in the system which tracks the outstanding Commissions payable. 
 
 If you have set a commission rate for your Sales Agent, then payable commissions will be reflected after each Ticket Sale.
 
